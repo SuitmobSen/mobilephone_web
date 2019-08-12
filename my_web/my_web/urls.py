@@ -15,11 +15,24 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
+from . import views
+
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-
+    # 日志
+    url(r'^logtest/$', views.logtest, name="logtest"),
+    # 账户
+    url(r"^accounts/", include("apps.accounts.urls", namespace="accounts")),
+    # 所有手机信息模块
     url(r"^info/", include("apps.info.urls", namespace="phone_info")),
-    url(r"^videos/", include("apps.info.urls", namespace="phone_videos")),
-    url(r"^news/", include("apps.info.urls", namespace="phone_news")),
+    # 所有测评视频模块
+    url(r"^videos/", include("apps.videos.urls", namespace="phone_videos")),
+    # 所有数码新闻模块
+    url(r"^news/", include("apps.news.urls", namespace="phone_news")),
+
+    url(r'^apis/', include('apps.apis.urls', namespace="apis")),
+    # 主页
+    url(r"^", include("apps.index.urls", namespace="index")),
 ]
+

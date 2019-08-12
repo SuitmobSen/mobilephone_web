@@ -1,0 +1,148 @@
+{% load staticfiles %}
+<!doctype html>
+<html>
+<head>
+    <title>用户登录—搞机情报局</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="{% static "images/myimgs/icon.jpg" %}" type="image/x-icon"/>
+    <link href="{% static "accounts/css/bootstrap.min.css" %}" type="text/css" rel="stylesheet">
+    <link href="{% static "accounts/css/font-awesome.min.css" %}" type="text/javascript" rel="stylesheet">
+    <link href="{% static "accounts/css/bootsnav.css" %}" type="text/css" rel="stylesheet">
+    <link href="{% static "accounts/css/normalize.css" %}" type="text/css" rel="stylesheet">
+    <link href="{% static "accounts/css/css.css" %}" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="{% static "js/gritter/css/jquery.gritter.css" %}">
+    <script src="{% static "accounts/js/jquery-1.11.0.min.js" %}" type="text/javascript"></script>
+    <script src="{% static "accounts/js/bootstrap.min.js" %}" type="text/javascript"></script>
+    <script src="{% static "accounts/js/bootsnav.js" %}" type="text/javascript"></script>
+    <script src="{% static "accounts/js/jquery.js" %}" type="text/javascript"></script>
+    <!--[if IE]><script src="{% static "accounts/js/html5.js" %}"></script><![endif]-->
+</head>
+
+<body class="logobg_style">
+<div id="large-header" class="large-header login-page">
+    <canvas id="demo-canvas" width="1590" height="711"></canvas>
+    <div class="login-form">
+        <div class="login-content">
+            <h1 class="title_name">账户登录</h1>
+            <form method="post" role="form" id="form_login" class="login_padding">
+                {% csrf_token %}
+                <div class="form-group clearfix">
+                    <div class="input-group">
+                        <div class="input-group-addon">
+                            <i class="icon_user"></i>
+                        </div>
+                            {{ form.mobile }}
+                    </div>
+                </div>
+
+                <div class="form-group clearfix">
+                    <div class="input-group">
+                        <div class="input-group-addon">
+                            <i class="icon_password"></i>
+                        </div>
+                            {{ form.password }}
+                    </div>
+                </div>
+
+                <div class="form-group clearfix">
+					<div class="input-group col-lg-8 col-md-8 col-xs-8">
+						<div class="input-group-addon"><i class="icon_yanzhen"></i></div>
+                        {{ form.captcha }}
+					</div>
+                    <a href="javascript:void(0);"><img id="captcha_img" src="data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAeCAIAAABoq03CAAACcUlEQVR4nO1aQXLCMAxcMX1A4cwM
+    Fz7QQzu8hA8wPKIz/QB/gFM/U9pLf1J+oB4MxrHl2I4dJzDscCAeSZbWliInIWbGBURkXnYAEQHI
+    NHKXyGX2gUhMhnYgAJUidwCB6FKxFbFzNwknEH03sflQM0uISE33qNGV8BSUaF//Ua1Tt56n705J
+    9XJl+rkOKBVYfktaB7KXkd7nBFktUYgI4IvZUlaTIZcOFWd7TuVvpaB68aQmGozrLmTVzNbMudR2
+    HkNpST6wiJHrJqY4mLmDZe1PZY5bXE0mWnS913g6GGfmnm4ewXl9Foodwa3AiGBN9/5uj7jC6o+r
+    61NRv/ncHLfQEP74SA6kFPqqtipCy7bvXqSFdV1y1ZvbhAH50tNEYaijmY4ofGAJmmgR0X1V0Bhw
+    rsUGoXZ11mvADMuyFrS8qt9mWA7o/1FEi5y2s7xYYLlkRZ2pJNYvZiYSik8KZHf0YGbrEq/uleR0
+    xPnNwCuwbyrK96jjkV1HfK4B8o+ZPz+9KoPDezLsvHQXXQbegB+OSOTUgp66O5XK8zNOpzTFgphA
+    uFNfbywugha1GPN3sEabKyou7molaqUWFgA9shyzLycwCIVBkw/xjJvY76/UrNcNa+2KX1+uA+cd
+    fTgAwN9fVEfY6yPoGDbkProDlU6HoMdBhO32OjKbCerbrWjTNxcAbDYAMJ1eqRex2xVoPPLPvWN5
+    xmiV6d9fvLw0RkR5Ey2SzEM+Tjq7MRKibxrucxW3I5RfztZ/95wzo6Vb33m30rrbV3452/c2d7lw
+    Z4zn6yaS8lE6gCofWD2IroSxf6nUjhv6jum2ic5Px2pL9Q+TVYba1BF5qAAAAABJRU5ErkJggg==
+    " style="width: 110px;height: 45px;margin-left: 10px"></a>
+				</div>
+
+                <div class=" textright">
+                    <lable style="color: #ffffff;text-align:left;position: relative; right: 140px">
+                    <input type="checkbox" value="remember-me" style="position: relative; top: 2px;right: 8px">记住密码
+                    </lable>
+                    <a href="{% url "accounts:register" %}" class="forget">立即注册</a>
+                    <lable style="color: white">&nbsp;|&nbsp;</lable>
+                    <a href="#" class="forget">忘记密码？</a>
+                </div>
+
+                <div class="tishi"></div>
+
+                <div class="form-group">
+                    <button class="btn btn-danger btn-block btn-login" type="submit" onclick="cliLogin()">登录</button>
+                </div>
+
+                <!-- Implemented in v1.1.4 -->
+                <div class="form-group">
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+<script src="{% static "accounts/js/TweenLite/TweenLite.min.js" %}"></script>
+<script src="{% static "accounts/js/TweenLite/EasePack.min.js" %}"></script>
+<script src="{% static "accounts/js/TweenLite/rAF.js" %}"></script>
+<script src="{% static "accounts/js/TweenLite/demo-1.js" %}"></script>
+<script src="{% static "js/gritter/js/jquery.gritter.js" %}"></script>
+
+<script>
+    get_captcha_img();
+    $("#captcha_img").click(get_captcha_img);
+
+    function get_captcha_img() {
+        $.ajax({
+            url: '{% url 'apis:get_captcha' %}',
+            type: 'GET',
+            dataType: 'text',
+            success: function (data) {
+                $('#captcha_img').attr('src', data);
+            }
+        });
+    }
+</script>
+<script>
+    // 这里在form中定义了，如果没定义可以用jquery添加事件
+    $("#captcha").blur(check_captcha);
+
+    // 当失去焦点时检查验证码
+    function check_captcha() {
+        var captcha_code = $('#captcha').val();
+        if (captcha_code.length == 0){
+            return false
+        }
+        $.ajax({
+            url: '{% url 'apis:check_captcha' %}',
+            type: 'GET',
+            dataType: 'json',
+            data: {"captcha_code": captcha_code},
+            success: function (data) {
+                if(data.code == 400){
+                     msg = data.msg
+                }else{
+                    msg = ""
+                }
+                     $.gritter.add({
+                        // (string | mandatory) the heading of the notification
+                        title: '提交结果',
+                        // (string | mandatory) the text inside the notification
+                        //text: 'This will fade out after a certain amount of time. Vivamus eget tincidunt velit. Cum sociis natoque penatibus et <a href="#" style="color:#ccc">magnis dis parturient</a> montes, nascetur ridiculus mus.'
+                        text: msg
+                    });
+            }
+        });
+    };
+</script>
+
+
+</body>
+</html>
