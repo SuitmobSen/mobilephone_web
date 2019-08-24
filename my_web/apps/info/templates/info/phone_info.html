@@ -1,1 +1,31 @@
 {% extends "base.html" %}
+{% load staticfiles %}
+{% block title %}
+手机品牌
+{% endblock %}
+{% block title_two %}
+class="on"
+{% endblock %}
+{% block staticfile %}
+	<link rel="stylesheet" type="text/css" href="{% static "index/css/style.css" %}">
+	<link rel="stylesheet" type="text/css" href="{% static "index/css/media_index.css" %}">
+	<link rel="stylesheet" type="text/css" href="{% static "index/css/mod.css" %}">
+{% endblock %}
+{% block content %}
+<div class="plistContent">
+    <p class="plTitle4 pc plTitle4C"><img src="{% static "info/images/samsung_Note10TTM.jpg" %}" alt="客户案例_网站建设"></p>
+    <section id="adv" class="wraper site-adv m-box clear_bottom">
+		<div class="span16">
+			<ul class="m-cols m-col-4">
+                {% for pic in all_pic %}
+				<li class="col">
+                    <a href="{% url "phone_info:phone_list" pic.id %}" target="_blank">
+                    <img src="{% static "" %}{{ pic.pic_path }}">
+                    </a>
+                </li>
+                {% endfor %}
+			</ul>
+		</div>
+	</section>
+</div>
+{% endblock %}

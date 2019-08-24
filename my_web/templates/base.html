@@ -4,8 +4,7 @@
 <head>
     <title>{% block title %}模板页{% endblock %}— 搞机情报局</title>
     <meta http-equiv="content-type" content="text/html" charset="utf-8"/>
-    <link rel="shortcut icon" href="{% static "images/myimgs/icon.jpg" %}" type="image/x-icon"/>
-
+    <link rel="shortcut icon" href="{% static "images/icon/icon.jpg" %}" type="image/x-icon"/>
     <script src="{% static 'js/jquery-3.4.1.js' %}" type="text/javascript"></script>
     <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
     <script src="{% static 'js/bootstrap.min.js' %}"></script>
@@ -51,20 +50,39 @@
             <li><a href="{% url "phone_info:phones" %}">手机品牌</a></li>
             <li><a href="{% url "phone_videos:videos" %}">专业测评</a></li>
             <li><a href="{% url "phone_news:news" %}">机情快讯</a></li>
-            <li><a href="news.html">参数对比</a></li>
-            <li><a href="contactus.html#">关于我们</a></li>
+{#            <li><a href="news.html">参数对比</a></li>#}
+            <li><a href="{% url "index:about" %}">关于我们</a></li>
             <li><a href="{% url "accounts:login" %}" target="_blank">登录</a></li>
         </ul>
     </div>
 </div>
 
-<div class="wrapper">
-{#   网页导航栏#}
-    <div class="header header-d">
+<div class="wrapper" style="background: #F5F5F5">
+    <!--网页导航栏-->
+    <div class="header">
         <div class="container">
             <a href="{% url "index:index" %}">
-                <img src="{% static "images/myimgs/logo1.png" %}" alt="logo" style="max-height: 80%;margin-top: 5px;margin-bottom: 5px">
+                <img src="{% static "images/icon/logo.png" %}" alt="logo"
+                     style="max-height:80%;margin-top: 8px;margin-bottom: 5px;float: left" height="50px">
             </a>
+        <div class="inline-block">
+            <form class="navbar-form navbar-left" action="{% url "index:search" %}" role="search" style="margin-left: 50px;margin-top: 15px;">
+                <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search" style="width: auto" id="search" name="keyword" value={{ keyword }}>
+                </div>
+                <button type="submit" class="btn btn-primary" id="SearchBtn">搜索情报</button>
+            </form>
+        </div>
+            <script>
+                $(function () {
+                    $('#SearchBtn').click(function () {
+                        var searchcontent=$('#search').val();
+                        url = {% url "index:search" %};
+                        url = url+'?keyword='+searchcontent;
+                        window.location.href=url;
+                    })
+                })
+            </script>
             <div class="menu-btn">
                 <div class="line t-line"></div>
                 <div class="line c-line"></div>
@@ -73,12 +91,12 @@
             <div class="menu-display">
                 <ul>
                     <li><a href="{% url "index:index" %}">首页</a></li>
-                    <li><a href="{% url "phone_info:phones" %}">手机品牌</a></li>
-                    <li><a href="{% url "phone_videos:videos" %}">专业测评</a></li>
-                    <li><a href="{% url "phone_news:news" %}">机情快讯</a></li>
-                    <li><a href="news.html">参数对比</a></li>
-                    <li><a href="contactus.html#">关于</a></li>
-                    <li><a href="{% url "accounts:login" %}" target="_blank">登录</a></li>
+                    <li {% block title_two %} {% endblock %}><a href="{% url "phone_info:phones" %}">手机品牌</a></li>
+                    <li {% block title_three %} {% endblock %}><a href="{% url "phone_videos:videos" %}">专业测评</a></li>
+                    <li {% block title_four %} {% endblock %}><a href="{% url "phone_news:news" %}">机情快讯</a></li>
+{#                    <li {% block title_five %} {% endblock %}><a href="news.html">参数对比</a></li>#}
+                    <li {% block title_six %} {% endblock %}><a href="{% url "index:about" %}">关于</a></li>
+                    <li {% block title_seven %} {% endblock %}><a href="{% url "accounts:login" %}" target="_blank">登录</a></li>
                 </ul>
             </div>
         </div>
@@ -91,88 +109,7 @@
     {% endblock %}
 
     <!--底部版权-->
-    <div class="footer">
-        <div class="flink"><span class="fr">Copyright © 搞机情报局. All Rights Reserved.</span></div>
-        <div class="footerWrap">
-            <div class="fContact">
-                <p><span style="font-size:14px;">业务咨询：</span><br/>
-                    <span class="ftel">0539-34544856
-
-
-				</span></p>
-                <p class="fctxt">地址：浙江市普陀区花生露77号7室 <br/>
-                    电邮：info#17sucai.com.cn<br/><span style="color:#969696">(发邮件时,请将#改为@)</span><br/>
-                    QQ: 2422222222 <br/>
-                    <a href="http://www.miitbeian.gov.cn/" target="_blank">沪ICP备05004969号</a></p>
-
-            </div>
-            <ul class="footerNav-small">
-                <li><a href="aboutus.html#">关于我们</a></li>
-                <li><a href="service.html#">我们的服务</a></li>
-                <li><a href="contactus.html#map.html">地理位置</a></li>
-                <li><a href="aboutus.html#joinus.html">伙伴招募</a></li>
-            </ul>
-            <ul class="footerNav">
-                <li class="fNav"><a href="aboutus.html#" class="fnavmain">关于我们</a>
-                    <ul>
-                        <li><a href="aboutus.html##17sucai">了解十七网络</a></li>
-                        <li><a href="cases.html#">客户案例</a></li>
-                        <li><a href="aboutus.html##history">十七历程</a></li>
-                        <li><a href="aboutus.html##views">我们的观点</a></li>
-                        <li><a href="contactus.html#">联系方式</a></li>
-                    </ul>
-                </li>
-                <li class="fNav"><a href="service.html#" class="fnavmain">我们的服务</a>
-                    <ul>
-                        <li><a href="service.html#webdesign_servers.html">网站建设</a></li>
-                        <li><a href="service.html#network_marketing.html">网络营销</a></li>
-                        <li><a href="service.html#mobileapp.html">移动APP开发</a></li>
-                        <li><a href="service.html#ecommerce.html">电商运营外包</a></li>
-                        <li><a href="service.html#weboperator.html">网站运营维护</a></li>
-                        <li><a href="service.html#webdeveloper.html">程序开发</a></li>
-                    </ul>
-                </li>
-                <li class="fNav"><a href="news_article.html#?colid=211" class="fnavmain">新闻资讯</a>
-                    <ul>
-                        <li><a href="news.html">公司资讯</a></li>
-                        <li><a href="news_article.html#?colid=222">设计文章</a></li>
-                        <li><a href="news_article.html#?colid=223">行业资讯</a></li>
-                    </ul>
-                </li>
-                <li class="fNav"><a href="aboutus.html#joinus.html" class="fnavmain">伙伴招募</a>
-                    <ul>
-                        <li><a href="aboutus.html#joinus.html#addesigner">资深网页设计师</a></li>
-                        <li><a href="aboutus.html#joinus.html#prdesigner">实习网页设计师</a></li>
-                        <li><a href="aboutus.html#joinus.html#pmadmin">项目经理</a></li>
-                    </ul>
-                </li>
-                <li class="fNav"><a class="fnavmain">关注我们</a>
-                    <div class="follow">
-                        <a href="http://weibo.com/17sucaish" class="sina" target="_blank"></a>
-                        <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2422222222&amp;site=qq&amp;menu=yes" class="wechat"
-                           target="_blank"></a>
-                    </div>
-                </li>
-                <li class="fNav">
-                    <div class="back-top"></div>
-                </li>
-            </ul>
-            <div class="phone-foot">
-                <ul class="footerNav phone-fnav">
-                    <li class="fNav"><a class="fnavmain">关注我们</a>
-                        <div class="follow">
-                            <a href="http://weibo.com/17sucaish" class="sina" target="_blank"></a>
-                            <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=2422222222&amp;site=qq&amp;menu=yes"
-                               class="wechat" target="_blank"></a>
-                        </div>
-                    </li>
-                    <li class="fNav">
-                        <div class="back-top-p"></div>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
+    {% include "footer.html" %}
 </div>
 
 

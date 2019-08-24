@@ -7,9 +7,9 @@
 
 	/*主体下广告*/
 	#adv .span4{display: none;}
-	#adv .span16{width: 100%;}
+	#adv .span16{width: 100%;margin-left: 70px}
 	#adv .span16 .col{width:32%;margin-left:2%}
-	#adv .span16 .col:first-child{margin-left:0;}
+	/*#adv .span16 .col:first-child{margin-left:0;}*/
 
 	/*页脚响应*/
 	#footer .img-list{display: none;}
@@ -74,8 +74,8 @@
 	.m-hd{line-height:20px;margin-top:0px;}
 	.m-box.line2 .span4{display: none;}
 	.m-box.line2 .span16{width:100%;}
-	.m-box.line2 .span16 .col{width:49%;margin:0;margin-right:2%;}
-	.m-box.line2 .span16 .col:nth-last-child(2n+1){margin-right: 0;}
+	.m-box.line2 .span16 .col{width:46%;margin:0;margin-right:2%;}
+	.m-box.line2 .span16 .col:nth-last-child(2n+1){margin-right: 20px;}
 	.m-box.line2 .m-cols.m-col-4 {padding-left:0%;}
 	.m-box .m-cols.m-col-4 .col{width:49%;margin:0px;margin-right:2%;margin-bottom:2%;}
 	.m-box .m-cols.m-col-4 .col:nth-child(2n){margin-right:0;}

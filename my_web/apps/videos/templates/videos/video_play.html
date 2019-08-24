@@ -1,0 +1,50 @@
+{% extends "base2.html" %}
+{% load staticfiles %}
+{% block title %}
+{{ video.title }}
+{% endblock %}
+{% block staticfile %}
+    <style>
+        body{
+            font-family:微软雅黑,'Heiti SC',黑体,Arial;
+        }
+        #page{
+            background: #F5F5F5;
+        }
+        #video_title{
+            margin-top: 10%;
+        }
+        #video_title label{
+            margin-top: 10px;
+            margin-left: 35px;
+            color:dimgrey;
+        }
+        #video_title span{
+            font-size: 27px;
+            color:dimgrey;
+        }
+    #player{
+        margin-bottom: 10%;
+    }
+    </style>
+{% endblock %}
+{% block title_three %}
+class="on"
+{% endblock %}
+
+{% block content %}
+<div id="page">
+<div class="container" id="video_page">
+    <div id="video_title" class="row">
+        <span>【{{ video.author }}】{{ video.title }}</span>
+        <div class="row">
+        <label>播放量：{{ video.play }}</label><label>上传时间：{{ video.make_time }}</label>
+        </div>
+    </div>
+    <div id="player" class="row" style="float: left;margin-top: 10px">
+        <iframe width="900" height="650" src="//player.bilibili.com/player.html?aid={{ id }}" scrolling="no"  frameborder="no" allowfullscreen="true">
+        </iframe>
+    </div>
+</div>
+</div>
+{% endblock %}

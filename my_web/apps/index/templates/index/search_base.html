@@ -1,0 +1,165 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block title %}
+    搜索页面
+{% endblock %}
+
+
+{% block staticfile %}
+    <link rel="stylesheet" type="text/css" href="{% static "index/css/style.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "index/css/media_index.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "index/css/mod.css" %}">
+    <link href="{% static "news/css/global.css" %}" rel="stylesheet" type="text/css"/>
+    <link href="{% static "news/css/page.css" %}" rel="stylesheet" type="text/css"/>
+    <link href="{% static "news/css/fix.css" %}" rel="stylesheet" type="text/css"/>
+    <script src="{% static "news/js/jquery.easing.1.3.js" %}"></script>
+    <script src="{% static "news/js/fun.js" %}"></script>
+    <script src="{% static "news/js/global.js" %}"></script>
+    <script src="{% static "news/js/jquery.nicescroll.min.js" %}"></script>
+    <script src="{% static "news/js/jquery.mChange.js" %}"></script>
+    <style>
+        .gray-section {
+            height: 100%;
+            margin-bottom: 10px;
+        }
+
+        .m-box .span16 {
+            width: 100%;
+            margin: auto;
+        }
+
+        .span16 .col .row {
+            margin: 10px auto;
+        }
+
+        .searchNav {
+            background: #fff;
+            height: 50px;
+            line-height: 50px;
+            border-bottom: 1px solid #EBEBEB;
+            padding: 0 18px;
+            border-radius: 6px;
+        }
+
+        .searchNav-type {
+            float: left;
+        }
+
+        .searchNav a {
+            float: left;
+            padding: 0 15px;
+            color: #333;
+            font-weight: bold;
+            font-size: 14px;
+            margin-right: 25px;
+        }
+
+        .searchNav a.active {
+            color: #0075aa;
+            border-bottom: 2px solid #0075aa;
+        }
+
+        .searResult-nums {
+            float: right;
+            font-size: 12px;
+            color: #666;
+        }
+    </style>
+{% endblock %}
+{% block content %}
+    <div class="banner">
+    <span class="bigimg" style="display:block;"><img class="img pimg"
+                                                     psrc="{% static "news/images/s5ab5f0f3a96f0.jpg" %}"/></span>
+        <span class="smallimg" style="display:block;"><img class="img mimg"
+                                                           msrc="{% static "news/images/s5ab5f0f3a96f0.jpg" %}"/></span>
+        <div class="title">
+            <div class="bar"></div>
+            <h1>情报搜索</h1></div>
+    </div>
+    <script>
+        $(function () {
+            var _width = $(window).width();
+            if (_width > 751) {
+                $('.smallimg').css({"display": "none"});
+            }
+            if (_width < 751) {
+                $('.bigimg').css({"display": "none"});
+            }
+        })
+    </script>
+    {% if news %}
+    {% include "index/news_search.html" %}
+    {% elif videos %}
+    {% include "index/video_search.html" %}
+    {% elif phones %}
+    {% include "index/phone_search.html" %}
+    {% endif %}
+{#    <script>#}
+{#        // 视频#}
+{#        $("#video").click(function () {#}
+{#            var searchcontent=$('#search').val();#}
+{#            content_em = $("#ajax");#}
+{#            $.ajax({#}
+{#            url: '{% url "index:search" %}'+ "?keyword="+ searchcontent+"&type=video",#}
+{#            type: 'GET',#}
+{#            success: function (data) {#}
+{#                $(".searResult-nums").html("共有 {{ videos.paginator.count }} 个结果");#}
+{#                $('#phone').attr('class', '');#}
+{#                $('#news').attr('class', '');#}
+{#                $('#video').attr('class', 'active');#}
+{#                if(data){#}
+{#                    content_em.html(data);#}
+{#            }else{#}
+{#                    content_em.html("暂无搜索结果");#}
+{#                }#}
+{#            }, error: function () {#}
+{#                content_em.html("加载失败，请联系管理员！");#}
+{#            }#}
+{#        });#}
+{#    });#}
+{#        // 新闻#}
+{#        $("#news").click(function () {#}
+{#            var searchcontent=$('#search').val();#}
+{#            content_em = $("#ajax");#}
+{#            $.ajax({#}
+{#            url: '{% url "index:search" %}'+ "?keyword="+ searchcontent+"&type=news",#}
+{#            type: 'GET',#}
+{#            success: function (data) {#}
+{#                    $(".searResult-nums").html("共有 {{ news.paginator.count }} 个结果");#}
+{#                    $('#phone').attr('class', '');#}
+{#                    $('#video').attr('class', '');#}
+{#                    $('#news').attr('class', 'active');#}
+{#                if(data){#}
+{#                    content_em.html(data);#}
+{#            }else{#}
+{#                    content_em.html("暂无搜索结果");#}
+{#                }#}
+{#            }, error: function () {#}
+{#                content_em.html("加载失败，请联系管理员！");#}
+{#            }#}
+{#        });#}
+{#    });#}
+{#        // 手机#}
+{#        $("#phone").click(function () {#}
+{#            var searchcontent=$('#search').val();#}
+{#            content_em = $("#ajax");#}
+{#            $.ajax({#}
+{#            url: '{% url "index:search" %}'+ "?keyword="+ searchcontent+"&type=phone",#}
+{#            type: 'GET',#}
+{#            success: function (data) {#}
+{#                $(".searResult-nums").html("共有 {{ phones.paginator.count }} 个结果");#}
+{#                    $('#phone').attr('class', 'active');#}
+{#                    $('#video').attr('class', '');#}
+{#                    $('#news').attr('class', '');#}
+{#                if(data){#}
+{#                    content_em.html(data);#}
+{#            }else{#}
+{#                    content_em.html("暂无搜索结果");#}
+{#                }#}
+{#            }, error: function () {#}
+{#                content_em.html("加载失败，请联系管理员！");#}
+{#            }#}
+{#        });#}
+{#    });#}
+{#    </script>#}
+{% endblock %}

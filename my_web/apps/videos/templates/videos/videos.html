@@ -16,19 +16,21 @@
 {#    <link href="{% static "videos/css/videocss.css" %}" rel="stylesheet" type="text/css"/>#}
 {#    <script src="{% static "videos/js/common.js" %}" type="text/javascript"></script>#}
 
-    <link rel="stylesheet" type="text/css" href="{% static "index/css/style.css" %}">
-    <link rel="stylesheet" type="text/css" href="{% static "index/css/media_index.css" %}">
-    <link rel="stylesheet" type="text/css" href="{% static "index/css/mod.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "videos/css/style.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "videos/css/media_index.css" %}">
+    <link rel="stylesheet" type="text/css" href="{% static "videos/css/mod.css" %}">
 {% endblock %}
-
+{% block title_three %}
+class="on"
+{% endblock %}
 
 {% block content %}
     <div class="banner">
                 <span class="bigimg" style="display:block;"><img class="img pimg"
-                                                                 psrc="{% static "news/images/s5ab5dbc11a9c8.jpg" %}"/></span>
+                                                                 psrc="{% static "videos/images/s5ab5e83cd7168.jpg" %}"/></span>
         <span
                 class="smallimg" style="display:block;"><img class="img mimg"
-                                                             msrc="{% static "news/images/26/s5ab856010bb80.jpg" %}"/></span>
+                                                             msrc="{% static "videos/images/s5ab5e83cd7168.jpg" %}"/></span>
         <div class="title">
             <div class="bar"></div>
             <h1>专业测评</h1></div>
@@ -44,355 +46,74 @@
             }
         })
     </script>
-
     <div class="container-fluid" style="margin-top: 50px;margin-bottom: 50px;">
         <div class="col-md-2"></div>
         <div class="col-md-8">
-{#            one#}
-            <div class="panel panel-primary">
-                <div class="panel-heading">
-                    <h3 class="panel-title">Zealer</h3>
-                </div>
-                <div class="panel-body">
-                    <section class="wraper mi-video clear_bottom" id="video" >
+            <section class="wraper mi-video clear_bottom" id="video">
                         <section class="m-box">
-                            <ul class="m-cols m-col-4" data-scroll-reveal="enter bottom over 1s and move 50px after 0s">
-                                <li class="col">
-                                    <div class="row">
+                            <ul class="m-cols m-col-4" >
+                                {% for contact in contacts %}
+                                <li class="col" style="margin-left: 0">
+                                    <div class="row" style="margin: 10px">
                                         <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video1.jpg" %}">
+                                            <a href="{% url "phone_videos:video_play" contact.aid %}" target="_blank">
+                                                <label class="play-btn" for="video-switch"></label>
+                                                <img src="/media/{{ contact.img }}">
+                                                <span>{{ contact.duration }}</span>
+                                            </a>
                                         </div>
                                         <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
+                                            <p class="name"><a href="#">{{ contact.author }}</a></p>
+                                            <p class="desc">{% if contact.title|length < 25  %}{{ contact.title }}{% else %}{{ contact.title|truncatechars:25 }}{% endif %}</p>
                                         </div>
+                                        <span>{{ contact.make_time }}</span>
                                     </div>
                                 </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video2.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video3.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video4.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </section>
-                        <section class="m-box">
-                            <ul class="m-cols m-col-4" data-scroll-reveal="enter bottom over 1s and move 50px after 0s">
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video1.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video2.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video3.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video4.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
+                                {% endfor %}
                             </ul>
                         </section>
                     </section>
-                </div>
-            </div>
-{#            two#}
-            <div class="panel panel-primary">
-                <div class="panel-heading">
-                    <h3 class="panel-title">科技美学</h3>
-                </div>
-                <div class="panel-body">
-                    <section class="wraper mi-video clear_bottom" id="video" >
-                        <section class="m-box">
-                            <ul class="m-cols m-col-4" data-scroll-reveal="enter bottom over 1s and move 50px after 0s">
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video1.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video2.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video3.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video4.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </section>
-                        <section class="m-box">
-                            <ul class="m-cols m-col-4" data-scroll-reveal="enter bottom over 1s and move 50px after 0s">
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video1.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video2.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video3.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video4.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </section>
-                    </section>
-                </div>
-            </div>
-            <div class="panel panel-primary">
-                <div class="panel-heading">
-                    <h3 class="panel-title">小白测评</h3>
-                </div>
-                <div class="panel-body">
-                    <section class="wraper mi-video clear_bottom" id="video" >
-                        <section class="m-box">
-                            <ul class="m-cols m-col-4" data-scroll-reveal="enter bottom over 1s and move 50px after 0s">
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video1.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video2.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video3.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video4.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </section>
-                        <section class="m-box">
-                            <ul class="m-cols m-col-4" data-scroll-reveal="enter bottom over 1s and move 50px after 0s">
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video1.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video2.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video3.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="col">
-                                    <div class="row">
-                                        <div class="video">
-                                            <label class="play-btn" for="video-switch"></label>
-                                            <img src="{% static "index/images/video/video4.jpg" %}">
-                                        </div>
-                                        <div class="content">
-                                            <p class="name"><a href="#">红米年度品牌视频</a></p>
-                                            <p class="desc">一亿人喜爱你，是一种责任</p>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </section>
-                    </section>
-                </div>
-            </div>
+            <div id="pages" class="text-center"  >
+                <nav aria-label="Page navigation">
+                  <ul class="pagination pagination-lg">
+                      {% if contacts.has_previous %}
+                          <li><a href="?page={{ contacts.previous_page_number }}" aria-label="Previous"><span aria-hidden="true">上一页</span></a></li>
+                      {% else %}
+                          <li class="disabled"><span aria-hidden="true">上一页</span></li>
+                      {% endif %}
+                      {% for page in pagerange %}
+                        <li {% if page == contacts.number %}class="active"{% endif %}>
+                            <a href="?page={{ page }}">{{ page }}
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        </li>
+                      {% endfor %}
+                      {% if contacts.has_next %}
+                          <li>
+                              <a href="?page={{ contacts.next_page_number }}" aria-label="Next">
+                                  <span aria-hidden="true">下一页</span>
+                              </a>
+                          </li>
+                      {% else %}
+                          <li class="disabled">
+                              <span aria-hidden="true">下一页</span>
+                          </li>
+                      {% endif %}
+                  </ul>
+                </nav>
+             </div>
+            <div  class="text-center" style="font-size:15px">
+             <ul class="pagination">
+                </ul>
+            <p>
+                共有 {{ contacts.paginator.count }} 个视频,
+                当前为第 {{ contacts.number }} 页,
+                共 {{ contacts.paginator.num_pages }} 页
+            </p>
+        </div>
         </div>
         <div class="col-md-2"></div>
     </div>
-
     <script>
         $(function () {
             var p = 2;
@@ -414,6 +135,4 @@
             })
         })
     </script>
-
-
 {% endblock %}

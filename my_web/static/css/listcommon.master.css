@@ -11,7 +11,7 @@
 }
 
 .plistContent {
-    padding-top: 120px;
+    padding-top: 0px;
     *padding-top: 80px
 }
 
@@ -385,7 +385,8 @@ a.case_moreline:hover {
 .newslist .news_li {
     float: left;
     width: 480px;
-    margin: 0 10px 40px 20px
+    margin: 0 10px 40px 20px;
+
 }
 
 @media only all and (max-width: 1024px) {
@@ -410,6 +411,7 @@ a.case_moreline:hover {
 }
 
 .newslist .news_li img {
+    border: #f3f3f3 solid 1px;
     float: left;
     width: 160px;
     height: 160px;
@@ -430,10 +432,10 @@ a.case_moreline:hover {
 
 .newslist .news_txt {
     display: block;
-    width: 280px;
-    height: 140px;
+    width: 316px;
+    height: 160px;
     float: left;
-    background-color: #fff;
+    background-color: cornflowerblue;
     padding: 20px 20px 0px 20px
 }
 
@@ -467,7 +469,8 @@ a.case_moreline:hover {
 
 .newslist .news_txt span {
     font-size: 14px;
-    color: #222
+    color: #222;
+    font-weight: bold;
 }
 
 .newslist .news_txt:hover span {
@@ -476,14 +479,14 @@ a.case_moreline:hover {
 
 .newslist .news_txt p {
     line-height: 20px;
-    padding-top: 8px;
-    color: #767676
+    padding-top: 20px;
+    color: #222;
 }
 
 .newslist .news_txt h5 {
     font-size: 12px;
-    color: #808080;
-    padding-top: 20px
+    color: #222;
+    padding-top: 30px
 }
 
 @media only all and (max-width: 768px) {
@@ -519,7 +522,7 @@ a.case_moreline:hover {
 
 .newsdetailcon {
     padding-top: 60px;
-    width: 1024px;
+    width: 1300px;
     margin: 0 auto
 }
 
@@ -538,13 +541,13 @@ a.case_moreline:hover {
 }
 
 .newsdetail {
-    margin-bottom: 50px;
-    background-color: #fff;
-    width: 670px;
+    background-color: #f3f3f3;
+    width: 970px;
     height: 100%;
     min-height: 600px;
     float: left;
-    padding: 30px
+    padding: 50px;
+    z-index: 50;
 }
 
 @media only all and (max-width: 1024px) {
@@ -595,8 +598,8 @@ a.case_moreline:hover {
 .newsrfix {
     background-color: #F9F9F9;
     z-index: 888;
-    width: 227px;
-    padding: 30px 23px 30px 20px;
+    width: 280px;
+    padding: 30px 23px 20px 30px;
     height: 485px
 }
 
@@ -662,7 +665,7 @@ a.case_moreline:hover {
 .news_rwrap .nmorepage p {
     font-size: 15px;
     color: #454545;
-    padding-bottom: 20px
+    /*padding-bottom: 20px*/
 }
 
 .news_rwrap .nmorepage a {
@@ -733,7 +736,7 @@ a.case_moreline:hover {
 }
 
 .newstime {
-    margin-bottom: 30px;
+    margin-bottom: 5px;
     color: #9c9c9c;
     padding-bottom: 12px;
     border-bottom: 1px solid #CCCCCC

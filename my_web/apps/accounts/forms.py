@@ -1,7 +1,7 @@
 from django import forms
 from django.forms import widgets
 from django.core.exceptions import ValidationError
-from .models import User
+from .models import User, FindPassword
 from django.contrib.auth.hashers import check_password as auth_check_password
 
 
@@ -53,7 +53,7 @@ class RegisterForm(forms.ModelForm):
 
 # 登录表单
 class LoginForm(forms.Form):
-    mobile = forms.CharField(label="用户名", max_length="11",
+    mobile = forms.CharField(label="用户名", max_length=11,
                              widget=widgets.TextInput(attrs={"class": "form-control",
                                                              "id": "phone",
                                                              "autocomplete": "off",
@@ -89,3 +89,36 @@ class LoginForm(forms.Form):
             return self.cleaned_data.get("mobile")
         else:
             raise ValidationError("手机号或密码不正确")
+
+
+class FindpasswdForm(forms.ModelForm):
+    class Meta:
+        model = FindPassword
+        fields = ['email', ]
+        widgets = {
+            'email': widgets.TextInput(
+                attrs={"class": "form-control", "id": "email",
+                       "placeholder": "请输入已绑定邮箱", }),
+        }
+
+    def clean_email(self):
+        ret = User.objects.filter(email=self.cleaned_data.get("email"))
+        if ret:
+            return self.cleaned_data.get("email")
+        else:
+            raise ValidationError("您输入的邮箱不存在！")
+
+
+class ResetpasswdForm(forms.Form):
+    password1 = forms.CharField(label="密 码1",
+                                widget=widgets.PasswordInput(attrs={"class": "form-control", "id": "password1",
+                                                                    "autocomplete": "off", "placeholder": "设置您的新密码"}))
+    password2 = forms.CharField(label="密 码2",
+                                widget=widgets.PasswordInput(attrs={"class": "form-control", "id": "password2",
+                                                                    "autocomplete": "off", "placeholder": "请再次输入密码"}))
+
+    def clean(self):
+        if self.cleaned_data.get("password1") == self.cleaned_data.get("password2"):
+            return self.cleaned_data
+        else:
+            raise ValidationError("两次密码不一致")

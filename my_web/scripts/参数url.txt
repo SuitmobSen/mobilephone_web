@@ -1,0 +1,1360 @@
+{"360 \u624b\u673a1713-A01\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1186/1185535/param.shtml"}
+{"360 \u624b\u673aC5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1186/1185424/param.shtml"}
+{"360 \u624b\u673af4s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1156/1155495/param.shtml"}
+{"360 \u624b\u673aN4A\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1149/1148536/param.shtml"}
+{"360 \u624b\u673aN4S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1149/1148534/param.shtml"}
+{"360 \u624b\u673aN5S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1172/1171043/param.shtml"}
+{"360 \u624b\u673aN5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164920/param.shtml"}
+{"360 \u624b\u673aN6 Pro\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204221/param.shtml"}
+{"360 \u624b\u673aN6\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204609/param.shtml"}
+{"360 \u624b\u673aN6\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204857/param.shtml"}
+{"360 \u624b\u673aN7 Lite\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228744/param.shtml"}
+{"360 \u624b\u673aN7 Pro\u7ea2\u8863\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1251/1250426/param.shtml"}
+{"360 \u624b\u673aN7 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213119/param.shtml"}
+{"360 \u624b\u673aN7\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221160/param.shtml"}
+{"360 \u624b\u673aN7\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212229/param.shtml"}
+{"360 \u624b\u673aQ4\uff08\u9752\u6625\u7248/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1149/1148526/param.shtml"}
+{"8848 \u6545\u5bab\u8d3a\u5c81\u7248\u624b\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162733/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u5c0a\u4eab\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228363/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u5dc5\u5cf0\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228353/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u725b\u76ae\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228365/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u7965\u9f99\u7248/\u725b\u76ae\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247984/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u7965\u9f99\u7248/\u8725\u8734\u76ae\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247986/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u7cbe\u82f1\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229559/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u81f3\u81fb\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229560/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u8725\u8734\u76ae\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228366/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u9510\u5fd7\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229561/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673aM5\uff08\u9cc4\u9c7c\u76ae\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228364/param.shtml"}
+{"8848 \u949b\u91d1\u624b\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/406/405952/param.shtml"}
+{"HTC 2Q72000 \uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1241/1240394/param.shtml"}
+{"HTC 2Q741\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1273/1272040/param.shtml"}
+{"HTC 2Q7A100\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1268/1267900/param.shtml"}
+{"HTC Desire 10 Lifestyle\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1150/1149217/param.shtml"}
+{"HTC Desire 10 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1154/1153993/param.shtml"}
+{"HTC Desire 12 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208726/param.shtml"}
+{"HTC Desire 12s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249481/param.shtml"}
+{"HTC Desire 12\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208174/param.shtml"}
+{"HTC Desire 19+\uff09": "http://detail.zol.com.cn/1280/1279175/param.shtml"}
+{"HTC Exodus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214188/param.shtml"}
+{"HTC Hecate\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1147/1146732/param.shtml"}
+{"HTC One A9\uff083GB RAM/\u53cc4G\uff09": "http://detail.zol.com.cn/1103/1102226/param.shtml"}
+{"HTC U Play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164011/param.shtml"}
+{"HTC U Ultra\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1159/1158872/param.shtml"}
+{"HTC U Ultra\uff08\u589e\u5f3a\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167123/param.shtml"}
+{"HTC U Ultra\uff08\u84dd\u5b9d\u77f3\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164001/param.shtml"}
+{"HTC U11 EYEs\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1184/1183282/param.shtml"}
+{"HTC U11+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184086/param.shtml"}
+{"HTC U11\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1164/1163721/param.shtml"}
+{"HTC U12 Life\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225612/param.shtml"}
+{"HTC U12+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209649/param.shtml"}
+{"HTC U12\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1177/1176600/param.shtml"}
+{"HTC U19e\uff09": "http://detail.zol.com.cn/1280/1279167/param.shtml"}
+{"HTC Wildfire X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1286/1285767/param.shtml"}
+{"HTC ZERO\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1280/1279347/param.shtml"}
+{"LG  X Power 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1166/1165960/param.shtml"}
+{"LG  X Power\uff08\u8054\u901a4G\uff09": "http://detail.zol.com.cn/1146/1145996/param.shtml"}
+{"LG 2018\u7248K10\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208270/param.shtml"}
+{"LG 2018\u7248K8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208269/param.shtml"}
+{"LG Aristo2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206924/param.shtml"}
+{"LG Aristo\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1165/1164170/param.shtml"}
+{"LG G Flex 3\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1146/1145250/param.shtml"}
+{"LG G4 Beat\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1110/1109547/param.shtml"}
+{"LG G5 Lite\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1139/1138684/param.shtml"}
+{"LG G6 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1174/1173062/param.shtml"}
+{"LG G6\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1160/1159070/param.shtml"}
+{"LG G7 Fit\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229639/param.shtml"}
+{"LG G7 One\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229635/param.shtml"}
+{"LG G7 ThinQ\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204173/param.shtml"}
+{"LG G8 ThinQ\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1255/1254065/param.shtml"}
+{"LG G8s ThinQ\uff09": "http://detail.zol.com.cn/1259/1258093/param.shtml"}
+{"LG K10+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208314/param.shtml"}
+{"LG K10\u03b1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208315/param.shtml"}
+{"LG K40\uff09": "http://detail.zol.com.cn/1259/1258124/param.shtml"}
+{"LG K50\uff09": "http://detail.zol.com.cn/1259/1258120/param.shtml"}
+{"LG K7\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1111/1110251/param.shtml"}
+{"LG Q Stylus+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1219/1218676/param.shtml"}
+{"LG Q Stylus\u03b1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1219/1218677/param.shtml"}
+{"LG Q Stylus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1219/1218675/param.shtml"}
+{"LG Q6+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1177/1176350/param.shtml"}
+{"LG Q60\uff09": "http://detail.zol.com.cn/1259/1258079/param.shtml"}
+{"LG Q7 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1216/1215116/param.shtml"}
+{"LG Q7\u03b1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1216/1215118/param.shtml"}
+{"LG Q7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208607/param.shtml"}
+{"LG Stylo 2 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1167/1166657/param.shtml"}
+{"LG Stylo 3\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1164/1163006/param.shtml"}
+{"LG Stylo 4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221146/param.shtml"}
+{"LG Stylo 5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1280/1279168/param.shtml"}
+{"LG V10\uff08H968/\u53cc4G\uff09": "http://detail.zol.com.cn/1100/1099875/param.shtml"}
+{"LG V20\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1152/1151498/param.shtml"}
+{"LG V30s+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208382/param.shtml"}
+{"LG V30s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206853/param.shtml"}
+{"LG V30\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1166/1165394/param.shtml"}
+{"LG V34\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1159/1158330/param.shtml"}
+{"LG V40 ThinQ\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203881/param.shtml"}
+{"LG V50 ThinQ\uff09": "http://detail.zol.com.cn/1259/1258040/param.shtml"}
+{"LG V60 ThinQ\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1282/1281001/param.shtml"}
+{"LG W10\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280708/param.shtml"}
+{"LG W30 Pro\uff09": "http://detail.zol.com.cn/1282/1281674/param.shtml"}
+{"LG W30\uff09": "http://detail.zol.com.cn/1282/1281672/param.shtml"}
+{"LG X2 \uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221778/param.shtml"}
+{"LG X300\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1165/1164184/param.shtml"}
+{"LG X4\uff082GB/32GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1270/1269574/param.shtml"}
+{"LG Zone 4 (\u5168\u7f51\u901a) \uff09": "http://detail.zol.com.cn/1210/1209606/param.shtml"}
+{"LG \u6298\u53e0\u5c4f\u624b\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1256/1255432/param.shtml"}
+{"Moto C2 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213813/param.shtml"}
+{"Moto C2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213812/param.shtml"}
+{"Moto E5 Play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208161/param.shtml"}
+{"Moto E5 Plus\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207171/param.shtml"}
+{"Moto E5 Plus\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228434/param.shtml"}
+{"Moto E5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206619/param.shtml"}
+{"Moto E6 play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229510/param.shtml"}
+{"Moto E6\u624b\u673a\uff09": "http://detail.zol.com.cn/93/92153/param.shtml"}
+{"Moto E6\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280709/param.shtml"}
+{"Moto E\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1166/1165398/param.shtml"}
+{"Moto G6 Play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206668/param.shtml"}
+{"Moto G6 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206667/param.shtml"}
+{"Moto G7 Play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1256/1255278/param.shtml"}
+{"Moto G7 Plus\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1256/1255312/param.shtml"}
+{"Moto G7 Plus\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1268/1267153/param.shtml"}
+{"Moto G7 Power\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1256/1255301/param.shtml"}
+{"Moto G7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231044/param.shtml"}
+{"Moto G8\uff09": "http://detail.zol.com.cn/1266/1265665/param.shtml"}
+{"Moto M\uff08XT1662/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1155/1154344/param.shtml"}
+{"Moto One Action\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1280/1279503/param.shtml"}
+{"Moto One POWER\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1217/1216869/param.shtml"}
+{"Moto One Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1280/1279505/param.shtml"}
+{"Moto One\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230196/param.shtml"}
+{"Moto P30 Note\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228033/param.shtml"}
+{"Moto P30 Note\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231213/param.shtml"}
+{"Moto P30 Play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228032/param.shtml"}
+{"Moto P30\uff086GB RAM\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228031/param.shtml"}
+{"Moto P30\uff08\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228457/param.shtml"}
+{"Moto P40\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249725/param.shtml"}
+{"Moto P50\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1273/1272893/param.shtml"}
+{"Moto RaSr 2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227488/param.shtml"}
+{"Moto X4\u5347\u7ea7\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207086/param.shtml"}
+{"Moto X4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1176/1175343/param.shtml"}
+{"Moto X5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206658/param.shtml"}
+{"Moto X\uff082017\u7248/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1170/1169564/param.shtml"}
+{"Moto Z 2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1169/1168974/param.shtml"}
+{"Moto Z2 Play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169637/param.shtml"}
+{"Moto Z2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169107/param.shtml"}
+{"Moto Z3 Play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206653/param.shtml"}
+{"Moto Z3\uff085G\uff09": "http://detail.zol.com.cn/1234/1233081/param.shtml"}
+{"Moto Z3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206652/param.shtml"}
+{"Moto Z4 Force\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277717/param.shtml"}
+{"Moto Z4 Play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249732/param.shtml"}
+{"Moto Z4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1264/1263334/param.shtml"}
+{"Moto Z\uff082017\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164203/param.shtml"}
+{"Moto Z\uff08XT1650-05/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1137/1136140/param.shtml"}
+{"Moto \u65b0\u7248V3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230372/param.shtml"}
+{"Moto \u65b0\u7f51\u7edc\u624b\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1167/1166928/param.shtml"}
+{"Moto \u9752\u67da1s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206666/param.shtml"}
+{"Moto \u9752\u67da\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1172/1171883/param.shtml"}
+{"OPPO 5X Zoom\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1167/1166362/param.shtml"}
+{"OPPO A1s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1279/1278832/param.shtml"}
+{"OPPO A1\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209829/param.shtml"}
+{"OPPO A1\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212408/param.shtml"}
+{"OPPO A3s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222890/param.shtml"}
+{"OPPO A59s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1156/1155760/param.shtml"}
+{"OPPO A59\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1146/1145535/param.shtml"}
+{"OPPO A5s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1273/1272300/param.shtml"}
+{"OPPO A5\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233928/param.shtml"}
+{"OPPO A5\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221126/param.shtml"}
+{"OPPO A5\uff08\u79fb\u52a8\u5b9a\u5236\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221131/param.shtml"}
+{"OPPO A73\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205054/param.shtml"}
+{"OPPO A77\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184241/param.shtml"}
+{"OPPO A77\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1172/1171067/param.shtml"}
+{"OPPO A79\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203640/param.shtml"}
+{"OPPO A7n\uff09": "http://detail.zol.com.cn/1267/1266011/param.shtml"}
+{"OPPO A7x\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230724/param.shtml"}
+{"OPPO A7x\uff08\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230746/param.shtml"}
+{"OPPO A7\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1240/1239500/param.shtml"}
+{"OPPO A7\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1233/1232384/param.shtml"}
+{"OPPO A83 (\u5168\u7f51\u901a)\u5168\u9762\u5c4f\uff0c\u9762\u90e8\u8bc6\u522b\uff0cAI\u667a\u80fd\u7f8e\u989c\uff09": "http://detail.zol.com.cn/1206/1205003/param.shtml"}
+{"OPPO A9x\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1274/1273495/param.shtml"}
+{"OPPO A9\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270291/param.shtml"}
+{"OPPO AX5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228566/param.shtml"}
+{"OPPO F10 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249737/param.shtml"}
+{"OPPO F11 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257077/param.shtml"}
+{"OPPO F7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209152/param.shtml"}
+{"OPPO F9 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228346/param.shtml"}
+{"OPPO F9\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224911/param.shtml"}
+{"OPPO Find 9\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/390/389268/param.shtml"}
+{"OPPO Find X2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280310/param.shtml"}
+{"OPPO Find X\u5170\u535a\u57fa\u5c3c\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1221/1220645/param.shtml"}
+{"OPPO Find X\uff0810GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233082/param.shtml"}
+{"OPPO Find X\uff08\u56fd\u9645\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1221/1220675/param.shtml"}
+{"OPPO Find X\uff08\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213467/param.shtml"}
+{"OPPO Find X\uff08\u8d85\u7ea7\u95ea\u5145\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221830/param.shtml"}
+{"OPPO Find Z\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1256/1255249/param.shtml"}
+{"OPPO K1\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233423/param.shtml"}
+{"OPPO K1\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233711/param.shtml"}
+{"OPPO K3\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249492/param.shtml"}
+{"OPPO K3\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275905/param.shtml"}
+{"OPPO K3\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275930/param.shtml"}
+{"OPPO MIX\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1184/1183683/param.shtml"}
+{"OPPO R11 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170222/param.shtml"}
+{"OPPO R11s\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184068/param.shtml"}
+{"OPPO R11s\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204193/param.shtml"}
+{"OPPO R11\uff08\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1151/1150077/param.shtml"}
+{"OPPO R15s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214344/param.shtml"}
+{"OPPO R15x \uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1235/1234956/param.shtml"}
+{"OPPO R15\u661f\u4e91\u7279\u522b\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213828/param.shtml"}
+{"OPPO R15\u68a6\u955c\u7248\uff08\u68a6\u5883\u7ea2/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208720/param.shtml"}
+{"OPPO R15\u68a6\u955c\u7248\uff08\u9676\u74f7\u9ed1/\u68a6\u5883\u7d2b/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210656/param.shtml"}
+{"OPPO R15\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212068/param.shtml"}
+{"OPPO R17 Pro\u65b0\u5e74\u7279\u522b\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1246/1245732/param.shtml"}
+{"OPPO R17 Pro\u738b\u8005\u5b9a\u5236\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1249/1248834/param.shtml"}
+{"OPPO R17 Pro\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225826/param.shtml"}
+{"OPPO R17 Pro\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235591/param.shtml"}
+{"OPPO R17\u65b0\u5e74\u7279\u522b\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1246/1245733/param.shtml"}
+{"OPPO R17\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229159/param.shtml"}
+{"OPPO R17\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225806/param.shtml"}
+{"OPPO R17\uff088GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229197/param.shtml"}
+{"OPPO R17\uff08\u96fe\u5149\u6e10\u53d8\u8272/8GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229193/param.shtml"}
+{"OPPO R19 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1249/1248878/param.shtml"}
+{"OPPO R19\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1249/1248873/param.shtml"}
+{"OPPO R9s Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1158/1157839/param.shtml"}
+{"OPPO Reno 10\u500d\u53d8\u7126\u7248\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1267/1266990/param.shtml"}
+{"OPPO Reno 10\u500d\u53d8\u7126\u7248\uff086GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1269/1268851/param.shtml"}
+{"OPPO Reno 10\u500d\u53d8\u7126\u7248\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1267/1267000/param.shtml"}
+{"OPPO Reno Z\uff086GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1274/1273752/param.shtml"}
+{"OPPO Reno Z\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277451/param.shtml"}
+{"OPPO Reno\uff085G\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1274/1273748/param.shtml"}
+{"OPPO Reno\uff086GB RAM/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1262/1261155/param.shtml"}
+{"OPPO Reno\uff086GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277465/param.shtml"}
+{"OPPO Reno\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1265/1264056/param.shtml"}
+{"OPPO \u53ef\u6298\u53e0\u624b\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207284/param.shtml"}
+{"OPPO \u7011\u5e03\u5c4f\u624b\u673a\uff09": "http://detail.zol.com.cn/1286/1285648/param.shtml"}
+{"realme 3i\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1284/1283095/param.shtml"}
+{"realme 4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280295/param.shtml"}
+{"realme X\u5927\u5e08\u7248\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274240/param.shtml"}
+{"realme X\u8718\u86db\u4fa0\u793c\u76d2\u7248\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282401/param.shtml"}
+{"realme X\u9752\u6625\u7248\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1273/1272206/param.shtml"}
+{"realme X\u9752\u6625\u7248\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274222/param.shtml"}
+{"realme X\u9752\u6625\u7248\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274220/param.shtml"}
+{"realme X\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274246/param.shtml"}
+{"realme X\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274247/param.shtml"}
+{"realme X\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1272/1271698/param.shtml"}
+{"ROG \u6e38\u620f\u624b\u673a2\u7cbe\u82f1\u7248\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282542/param.shtml"}
+{"ROG \u6e38\u620f\u624b\u673a2\u7ecf\u5178\u7248\uff0812GB/512GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1285/1284839/param.shtml"}
+{"ROG \u6e38\u620f\u624b\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213909/param.shtml"}
+{"vivo 1805\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222104/param.shtml"}
+{"vivo 1916\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1287/1286805/param.shtml"}
+{"vivo APEX 2019\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1252/1251180/param.shtml"}
+{"vivo APEX\u6982\u5ff5\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208362/param.shtml"}
+{"vivo iQOO Neo\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282204/param.shtml"}
+{"vivo iQOO Neo\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280299/param.shtml"}
+{"vivo iQOO Neo\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282205/param.shtml"}
+{"vivo iQOO Neo\uff088GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282203/param.shtml"}
+{"vivo iQOO Plus\uff08\u5168\u7f51\u901a/5G\u7248\uff09": "http://detail.zol.com.cn/1286/1285750/param.shtml"}
+{"vivo iQOO Pro\uff09": "http://detail.zol.com.cn/1282/1281307/param.shtml"}
+{"vivo iQOO\uff0812GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1260/1259407/param.shtml"}
+{"vivo iQOO\uff0812GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1268/1267881/param.shtml"}
+{"vivo iQOO\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1260/1259408/param.shtml"}
+{"vivo iQOO\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257740/param.shtml"}
+{"vivo NEX\u53cc\u5c4f\u7248\uff0810GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229281/param.shtml"}
+{"vivo NEX\u53cc\u5c4f\u7248\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1257/1256894/param.shtml"}
+{"vivo NEX\u65d7\u8230\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1220/1219823/param.shtml"}
+{"vivo NEX\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1216/1215577/param.shtml"}
+{"vivo NEX\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230224/param.shtml"}
+{"vivo NEX\uff08\u5168\u7f51\u901a/5G\u7248\uff09": "http://detail.zol.com.cn/1273/1272322/param.shtml"}
+{"vivo NEX\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1286/1285391/param.shtml"}
+{"vivo S1 Pro\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277843/param.shtml"}
+{"vivo S1 Pro\uff086GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1272/1271740/param.shtml"}
+{"vivo S1 Pro\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1272/1271774/param.shtml"}
+{"vivo S1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1262/1261158/param.shtml"}
+{"vivo U1\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1257/1256856/param.shtml"}
+{"vivo V11\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228574/param.shtml"}
+{"vivo V15 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1256/1255323/param.shtml"}
+{"vivo V15\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1256/1255319/param.shtml"}
+{"vivo V1820T\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1249/1248809/param.shtml"}
+{"vivo V5 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164208/param.shtml"}
+{"vivo V5s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169949/param.shtml"}
+{"vivo V9\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208741/param.shtml"}
+{"vivo X20Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1184/1183497/param.shtml"}
+{"vivo X21 FIFA\u4e16\u754c\u676f\u975e\u51e1\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1216/1215753/param.shtml"}
+{"vivo X21i\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213474/param.shtml"}
+{"vivo X21i\uff084GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1256/1255027/param.shtml"}
+{"vivo X21i\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213914/param.shtml"}
+{"vivo X21i\uff086GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1256/1255028/param.shtml"}
+{"vivo X21\u5c4f\u5e55\u6307\u7eb9\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209569/param.shtml"}
+{"vivo X21\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208704/param.shtml"}
+{"vivo X23 LOGO PHONE\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230833/param.shtml"}
+{"vivo X23\u5e7b\u5f69\u7248\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1241/1240007/param.shtml"}
+{"vivo X23\u5e7b\u5f69\u7248\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1241/1240181/param.shtml"}
+{"vivo X23\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227284/param.shtml"}
+{"vivo X25\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1253/1252491/param.shtml"}
+{"vivo X27 Pro\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1262/1261145/param.shtml"}
+{"vivo X27\uff088GB RAM/\u9a81\u9f99675/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258538/param.shtml"}
+{"vivo X27\uff088GB RAM/\u9a81\u9f99710/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262905/param.shtml"}
+{"vivo X30\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207177/param.shtml"}
+{"vivo X9s Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170837/param.shtml"}
+{"vivo Xplay7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1178/1177165/param.shtml"}
+{"vivo Y17\uff084GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1284/1283101/param.shtml"}
+{"vivo Y3\uff084GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274580/param.shtml"}
+{"vivo Y53\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167303/param.shtml"}
+{"vivo Y66i\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204388/param.shtml"}
+{"vivo Y69\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209812/param.shtml"}
+{"vivo Y71\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224720/param.shtml"}
+{"vivo Y71\uff084GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224722/param.shtml"}
+{"vivo Y73\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1237/1236130/param.shtml"}
+{"vivo Y75s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213449/param.shtml"}
+{"vivo Y75\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1186/1185212/param.shtml"}
+{"vivo Y75\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208237/param.shtml"}
+{"vivo Y79\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1186/1185254/param.shtml"}
+{"vivo Y79\uff08\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1194/1193633/param.shtml"}
+{"vivo Y7s\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1284/1283965/param.shtml"}
+{"vivo Y81s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230193/param.shtml"}
+{"vivo Y83 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228565/param.shtml"}
+{"vivo Y85\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209808/param.shtml"}
+{"vivo Y90\uff09": "http://detail.zol.com.cn/1283/1282545/param.shtml"}
+{"vivo Y91\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1253/1252200/param.shtml"}
+{"vivo Y93s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1246/1245075/param.shtml"}
+{"vivo Y93\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1254/1253432/param.shtml"}
+{"vivo Y95\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1242/1241602/param.shtml"}
+{"vivo Y97\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1251/1250849/param.shtml"}
+{"vivo Z1 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280702/param.shtml"}
+{"vivo Z10\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222132/param.shtml"}
+{"vivo Z1i\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221865/param.shtml"}
+{"vivo Z1i\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1247/1246349/param.shtml"}
+{"vivo Z1\u9752\u6625\u7248\uff084GB/32GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1238/1237074/param.shtml"}
+{"vivo Z1\u9752\u6625\u7248\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1273/1272497/param.shtml"}
+{"vivo Z1\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1217/1216106/param.shtml"}
+{"vivo Z3X\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1272/1271142/param.shtml"}
+{"vivo Z3X\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277830/param.shtml"}
+{"vivo Z3\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233833/param.shtml"}
+{"vivo Z3\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1235/1234838/param.shtml"}
+{"vivo Z5x\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274009/param.shtml"}
+{"vivo Z5x\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275809/param.shtml"}
+{"vivo Z5x\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275808/param.shtml"}
+{"vivo Z5x\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275812/param.shtml"}
+{"vivo Z5\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258285/param.shtml"}
+{"vivo Z5\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1287/1286140/param.shtml"}
+{"vivo Z5\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1287/1286141/param.shtml"}
+{"\u4e00\u52a03T\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1160/1159570/param.shtml"}
+{"\u4e00\u52a03\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1101/1100021/param.shtml"}
+{"\u4e00\u52a05G\u624b\u673a\uff09": "http://detail.zol.com.cn/1266/1265208/param.shtml"}
+{"\u4e00\u52a05T\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181334/param.shtml"}
+{"\u4e00\u52a05T\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204228/param.shtml"}
+{"\u4e00\u52a05\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1159/1158930/param.shtml"}
+{"\u4e00\u52a05\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1174/1173991/param.shtml"}
+{"\u4e00\u52a06T\u8fc8\u51ef\u4f26\u7279\u522b\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235491/param.shtml"}
+{"\u4e00\u52a06T\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208947/param.shtml"}
+{"\u4e00\u52a06T\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1237/1236745/param.shtml"}
+{"\u4e00\u52a06\u6f2b\u5a01\u590d\u4ec7\u8005\u8054\u76df\u9650\u91cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221897/param.shtml"}
+{"\u4e00\u52a06\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214241/param.shtml"}
+{"\u4e00\u52a07 Pro\uff0812GB/256GB/5G\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274025/param.shtml"}
+{"\u4e00\u52a07 Pro\uff0812GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1269/1268038/param.shtml"}
+{"\u4e00\u52a07 Pro\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274518/param.shtml"}
+{"\u4e00\u52a07 Pro\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274516/param.shtml"}
+{"\u4e00\u52a07T Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1288/1287080/param.shtml"}
+{"\u4e00\u52a07\uff0812GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274496/param.shtml"}
+{"\u4e00\u52a07\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208592/param.shtml"}
+{"\u4e09\u661f2016\u7248GALAXY A7\uff08A7100/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1101/1100947/param.shtml"}
+{"\u4e09\u661f2016\u7248GALAXY A7\uff08A7108/\u53cc4G\uff09": "http://detail.zol.com.cn/1140/1139368/param.shtml"}
+{"\u4e09\u661f2016\u7248GALAXY A9\uff08A9000/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/398/397666/param.shtml"}
+{"\u4e09\u661f2017\u7248GALAXY A3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1156/1155727/param.shtml"}
+{"\u4e09\u661f2017\u7248GALAXY J3\uff08J3300/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1146/1145593/param.shtml"}
+{"\u4e09\u661f2017\u7248GALAXY J3\uff08J3308/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1146/1145594/param.shtml"}
+{"\u4e09\u661f2017\u7248GALAXY J7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162891/param.shtml"}
+{"\u4e09\u661f2017\u7248GALAXY On7 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164512/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY A5\uff08A5300/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1181/1180854/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY A6+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209430/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY A6\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209429/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY A8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205252/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY A9\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235036/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY J2 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204574/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY J2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205513/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY J3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1220/1219257/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY J7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1220/1219265/param.shtml"}
+{"\u4e09\u661f2018\u7248GALAXY On7 Prime\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206592/param.shtml"}
+{"\u4e09\u661fA50s\uff09": "http://detail.zol.com.cn/1284/1283109/param.shtml"}
+{"\u4e09\u661fFolder flip 2 \uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1175/1174307/param.shtml"}
+{"\u4e09\u661fGalaxy A 2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203179/param.shtml"}
+{"\u4e09\u661fGalaxy A10 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1176/1175190/param.shtml"}
+{"\u4e09\u661fGALAXY A10E\uff082GB/32GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1270/1269577/param.shtml"}
+{"\u4e09\u661fGalaxy A10\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262695/param.shtml"}
+{"\u4e09\u661fGALAXY A20\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1267/1266555/param.shtml"}
+{"\u4e09\u661fGALAXY A30\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1267/1266547/param.shtml"}
+{"\u4e09\u661fGALAXY A30\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1267/1266539/param.shtml"}
+{"\u4e09\u661fGALAXY A40S\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1269/1268498/param.shtml"}
+{"\u4e09\u661fGalaxy A50\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262340/param.shtml"}
+{"\u4e09\u661fGalaxy A50\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262337/param.shtml"}
+{"\u4e09\u661fGALAXY A60\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270528/param.shtml"}
+{"\u4e09\u661fGALAXY A60\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1265/1264005/param.shtml"}
+{"\u4e09\u661fGALAXY A6s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235376/param.shtml"}
+{"\u4e09\u661fGALAXY A70S\uff09": "http://detail.zol.com.cn/1277/1276068/param.shtml"}
+{"\u4e09\u661fGALAXY A70\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1265/1264001/param.shtml"}
+{"\u4e09\u661fGALAXY A70\uff088GB RAM/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1268/1267071/param.shtml"}
+{"\u4e09\u661fGalaxy A8 Star\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211455/param.shtml"}
+{"\u4e09\u661fGALAXY A80\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1268/1267070/param.shtml"}
+{"\u4e09\u661fGalaxy A8s\u72ec\u89d2\u7cbe\u7075\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1260/1259794/param.shtml"}
+{"\u4e09\u661fGalaxy A8s\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1245/1244651/param.shtml"}
+{"\u4e09\u661fGalaxy A9 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233458/param.shtml"}
+{"\u4e09\u661fGalaxy A9 Star Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1218/1217851/param.shtml"}
+{"\u4e09\u661fGalaxy A9 Star Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1233/1232508/param.shtml"}
+{"\u4e09\u661fGalaxy A9 Star\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1217/1216612/param.shtml"}
+{"\u4e09\u661fGalaxy A90\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262805/param.shtml"}
+{"\u4e09\u661fGalaxy A9s\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235367/param.shtml"}
+{"\u4e09\u661fGalaxy A9s\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1249/1248303/param.shtml"}
+{"\u4e09\u661fGalaxy Active 2019\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1287/1286282/param.shtml"}
+{"\u4e09\u661fGALAXY C10 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207675/param.shtml"}
+{"\u4e09\u661fGALAXY C10\uff08C9150/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170476/param.shtml"}
+{"\u4e09\u661fGALAXY C5 Pro\uff08C5010/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1161/1160787/param.shtml"}
+{"\u4e09\u661fGALAXY C5\uff08C5000/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1142/1141271/param.shtml"}
+{"\u4e09\u661fGALAXY C7 Pro\uff08C7010/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1161/1160785/param.shtml"}
+{"\u4e09\u661fGALAXY C7\uff08C7000/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1142/1141273/param.shtml"}
+{"\u4e09\u661fGALAXY C8\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1183/1182264/param.shtml"}
+{"\u4e09\u661fGALAXY C8\uff083GB RAM/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1185/1184748/param.shtml"}
+{"\u4e09\u661fGALAXY C8\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1183/1182265/param.shtml"}
+{"\u4e09\u661fGALAXY C9 Pro\uff08C9000/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1154/1153697/param.shtml"}
+{"\u4e09\u661fGALAXY C9\uff08C9100/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167100/param.shtml"}
+{"\u4e09\u661fGalaxy Fold 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1272/1271285/param.shtml"}
+{"\u4e09\u661fGalaxy Folder2 \uff08G1650/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214030/param.shtml"}
+{"\u4e09\u661fGalaxy Fold\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225416/param.shtml"}
+{"\u4e09\u661fGALAXY J2 Core\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230312/param.shtml"}
+{"\u4e09\u661fGalaxy J3 Emerge\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1165/1164061/param.shtml"}
+{"\u4e09\u661fGalaxy J3 Prime\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1171/1170199/param.shtml"}
+{"\u4e09\u661fGALAXY J3 Pro\uff08J3110/\u53cc4G\uff09": "http://detail.zol.com.cn/1147/1146207/param.shtml"}
+{"\u4e09\u661fGALAXY J3 Pro\uff08J3119/\u7535\u4fe14G\uff09": "http://detail.zol.com.cn/1147/1146388/param.shtml"}
+{"\u4e09\u661fGalaxy J4 Core\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262778/param.shtml"}
+{"\u4e09\u661fGalaxy J4+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262797/param.shtml"}
+{"\u4e09\u661fGalaxy J4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208680/param.shtml"}
+{"\u4e09\u661fGalaxy J6+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1224/1223825/param.shtml"}
+{"\u4e09\u661fGalaxy J6\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208527/param.shtml"}
+{"\u4e09\u661fGALAXY J7 Duo\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211295/param.shtml"}
+{"\u4e09\u661fGALAXY J7 Nxt\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1206/1205564/param.shtml"}
+{"\u4e09\u661fGALAXY J7 Prime 2\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1263/1262986/param.shtml"}
+{"\u4e09\u661fGALAXY J7 Star\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222790/param.shtml"}
+{"\u4e09\u661fGalaxy J8+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209226/param.shtml"}
+{"\u4e09\u661fGalaxy J8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208620/param.shtml"}
+{"\u4e09\u661fGalaxy M10\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247210/param.shtml"}
+{"\u4e09\u661fGalaxy M20\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247213/param.shtml"}
+{"\u4e09\u661fGalaxy M30\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249462/param.shtml"}
+{"\u4e09\u661fGalaxy M40\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1279/1278833/param.shtml"}
+{"\u4e09\u661fGALAXY Note 10 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1274/1273738/param.shtml"}
+{"\u4e09\u661fGALAXY Note 10+ \uff0812GB/256GB/\u5168\u7f51\u901a/5G\u7248\uff09": "http://detail.zol.com.cn/1288/1287365/param.shtml"}
+{"\u4e09\u661fGALAXY Note 10+ \uff0812GB/512GB/\u5168\u7f51\u901a/5G\u7248\uff09": "http://detail.zol.com.cn/1288/1287372/param.shtml"}
+{"\u4e09\u661fGALAXY Note 10+\uff0812GB/256GB\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1286/1285705/param.shtml"}
+{"\u4e09\u661fGALAXY Note 10+\uff0812GB/512GB\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1288/1287371/param.shtml"}
+{"\u4e09\u661fGALAXY Note 10\uff0812GB/256GB/\u5168\u7f51\u901a/5G\u7248\uff09": "http://detail.zol.com.cn/1288/1287370/param.shtml"}
+{"\u4e09\u661fGALAXY Note 10\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205967/param.shtml"}
+{"\u4e09\u661fGALAXY Note 8\uff08N9500/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1162/1161385/param.shtml"}
+{"\u4e09\u661fGALAXY Note 8\uff08N9508/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1185/1184751/param.shtml"}
+{"\u4e09\u661fGALAXY Note 9\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184309/param.shtml"}
+{"\u4e09\u661fGALAXY Note 9\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227640/param.shtml"}
+{"\u4e09\u661fGALAXY Note X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262519/param.shtml"}
+{"\u4e09\u661fGALAXY On5\uff08G5500/\u53cc4G\uff09": "http://detail.zol.com.cn/1099/1098694/param.shtml"}
+{"\u4e09\u661fGALAXY On6\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262939/param.shtml"}
+{"\u4e09\u661fGALAXY On6\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262935/param.shtml"}
+{"\u4e09\u661fGALAXY On7\uff08G6000/2GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1103/1102307/param.shtml"}
+{"\u4e09\u661fGalaxy On8 2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1157/1156016/param.shtml"}
+{"\u4e09\u661fGALAXY P30\uff09": "http://detail.zol.com.cn/1234/1233319/param.shtml"}
+{"\u4e09\u661fGalaxy S10+\uff0812GB RAM/\u9676\u74f7\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257356/param.shtml"}
+{"\u4e09\u661fGalaxy S10+\uff088GB RAM/\u73bb\u7483\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257357/param.shtml"}
+{"\u4e09\u661fGalaxy S10+\uff088GB RAM/\u9676\u74f7\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211590/param.shtml"}
+{"\u4e09\u661fGalaxy S10e\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227273/param.shtml"}
+{"\u4e09\u661fGalaxy S10e\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257358/param.shtml"}
+{"\u4e09\u661fGalaxy S10\uff085G\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262317/param.shtml"}
+{"\u4e09\u661fGalaxy S10\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203197/param.shtml"}
+{"\u4e09\u661fGalaxy S11\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1280/1279893/param.shtml"}
+{"\u4e09\u661fGALAXY S7 Edge+\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1138/1137557/param.shtml"}
+{"\u4e09\u661fGALAXY S7 Edge\uff08G9350/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1101/1100338/param.shtml"}
+{"\u4e09\u661fGALAXY S8 Active\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170565/param.shtml"}
+{"\u4e09\u661fGALAXY S8+\uff08G9550/\u53cc\u5361\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1160/1159722/param.shtml"}
+{"\u4e09\u661fGALAXY S8+\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1171/1170070/param.shtml"}
+{"\u4e09\u661fGALAXY S8+\uff08\u7687\u5e1d\u7248/G9550/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1172/1171467/param.shtml"}
+{"\u4e09\u661fGALAXY S8\uff08G9500/\u53cc\u5361\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1143/1142397/param.shtml"}
+{"\u4e09\u661fGALAXY S8\uff08G9508/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1175/1174289/param.shtml"}
+{"\u4e09\u661fGALAXY S8\uff08\u53cc\u5361\u7248/\u53cc4G\uff09": "http://detail.zol.com.cn/1171/1170068/param.shtml"}
+{"\u4e09\u661fGalaxy S9 Active\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212373/param.shtml"}
+{"\u4e09\u661fGALAXY S9 mini\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203689/param.shtml"}
+{"\u4e09\u661fGALAXY S9+\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1178/1177170/param.shtml"}
+{"\u4e09\u661fGALAXY S9\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164497/param.shtml"}
+{"\u4e09\u661fGalaxy Stellar 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1175/1174408/param.shtml"}
+{"\u4e09\u661fGalaxy XCover 4s\u4e09\u9632\u624b\u673a\uff09": "http://detail.zol.com.cn/1279/1278398/param.shtml"}
+{"\u4e09\u661fGALAXY X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1146/1145244/param.shtml"}
+{"\u4e09\u661fGALAXY Z4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167122/param.shtml"}
+{"\u4e09\u661fGalaxy Zoom 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212366/param.shtml"}
+{"\u4e09\u661fMIX\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221398/param.shtml"}
+{"\u4e09\u661fNote X\uff09": "http://detail.zol.com.cn/1265/1264019/param.shtml"}
+{"\u4e09\u661fSM-J260F\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221283/param.shtml"}
+{"\u4e09\u661fSM-J260G\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224160/param.shtml"}
+{"\u4e09\u661fSM-J260Y\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221216/param.shtml"}
+{"\u4e09\u661fW2014\uff08\u7535\u4fe13G\uff09": "http://detail.zol.com.cn/362/361883/param.shtml"}
+{"\u4e09\u661fW2016\uff08\u7535\u4fe14G\uff09": "http://detail.zol.com.cn/1103/1102246/param.shtml"}
+{"\u4e09\u661fW2017\uff08\u7535\u4fe14G\uff09": "http://detail.zol.com.cn/1147/1146430/param.shtml"}
+{"\u4e09\u661fW2018\u5178\u85cf\u5c0a\u94c2\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207661/param.shtml"}
+{"\u4e09\u661fW2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184217/param.shtml"}
+{"\u4e09\u661fW2019\u5c0a\u94c2\u5178\u85cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1244/1243273/param.shtml"}
+{"\u4e09\u661fW2019\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222360/param.shtml"}
+{"\u4e09\u661fW999\uff08\u7535\u4fe13G\uff09": "http://detail.zol.com.cn/303/302442/param.shtml"}
+{"\u4e09\u661f\u53cc\u5c4f\u624b\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221123/param.shtml"}
+{"\u4e09\u661f\u65b0GALAXY Folder\uff08\u8054\u901a4G\uff09": "http://detail.zol.com.cn/415/414479/param.shtml"}
+{"\u4e09\u661f\u9152\u74f6\u624b\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1187/1186613/param.shtml"}
+{"\u4e09\u661f\u9886\u4e16\u65d7\u82308\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1173/1172306/param.shtml"}
+{"\u4e2d\u5174A0722\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225798/param.shtml"}
+{"\u4e2d\u5174A602\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164200/param.shtml"}
+{"\u4e2d\u5174A602\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1172/1171328/param.shtml"}
+{"\u4e2d\u5174A606\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209266/param.shtml"}
+{"\u4e2d\u5174A620\uff08\u79fb\u52a8/\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1101/1100199/param.shtml"}
+{"\u4e2d\u5174AXON 10 Pro\uff0812GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270637/param.shtml"}
+{"\u4e2d\u5174AXON 10 Pro\uff085G\u7248/6GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1273/1272249/param.shtml"}
+{"\u4e2d\u5174AXON 10 Pro\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258005/param.shtml"}
+{"\u4e2d\u5174AXON 10 Pro\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270632/param.shtml"}
+{"\u4e2d\u5174AXON 9 Pro\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230239/param.shtml"}
+{"\u4e2d\u5174AXON 9\u7b80\u7ea6\u7248\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1284/1283140/param.shtml"}
+{"\u4e2d\u5174AXON MAX\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1141/1140459/param.shtml"}
+{"\u4e2d\u5174AXON MAX\uff08\u7535\u4fe1\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1102/1101671/param.shtml"}
+{"\u4e2d\u5174Axon M\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1183/1182280/param.shtml"}
+{"\u4e2d\u5174Axon M\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206622/param.shtml"}
+{"\u4e2d\u5174Axon S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1264/1263348/param.shtml"}
+{"\u4e2d\u5174Axon V\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262464/param.shtml"}
+{"\u4e2d\u5174AXON\u5929\u673a\uff08A2015/\u667a\u6c47\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/404/403440/param.shtml"}
+{"\u4e2d\u5174BA520\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1179/1178467/param.shtml"}
+{"\u4e2d\u5174Blade  A601\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1154/1153758/param.shtml"}
+{"\u4e2d\u5174Blade A2S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181909/param.shtml"}
+{"\u4e2d\u5174Blade A2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1147/1146159/param.shtml"}
+{"\u4e2d\u5174Blade A2\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1147/1146178/param.shtml"}
+{"\u4e2d\u5174Blade A3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184208/param.shtml"}
+{"\u4e2d\u5174Blade A4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231314/param.shtml"}
+{"\u4e2d\u5174Blade A510\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1154/1153811/param.shtml"}
+{"\u4e2d\u5174Blade A610 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164592/param.shtml"}
+{"\u4e2d\u5174Blade A6\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1174/1173848/param.shtml"}
+{"\u4e2d\u5174Blade A7\uff082GB/32GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1273/1272261/param.shtml"}
+{"\u4e2d\u5174Blade A7\uff083GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1273/1272251/param.shtml"}
+{"\u4e2d\u5174Blade Max 3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169802/param.shtml"}
+{"\u4e2d\u5174Blade V10 vita\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1284/1283132/param.shtml"}
+{"\u4e2d\u5174Blade V10\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258008/param.shtml"}
+{"\u4e2d\u5174Blade V8 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1164/1163508/param.shtml"}
+{"\u4e2d\u5174Blade V8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1164/1163291/param.shtml"}
+{"\u4e2d\u5174Blade V9 Vita\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208385/param.shtml"}
+{"\u4e2d\u5174Blade X2 Max\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208211/param.shtml"}
+{"\u4e2d\u5174Blade Z Max\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1181/1180068/param.shtml"}
+{"\u4e2d\u5174T900\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227549/param.shtml"}
+{"\u4e2d\u5174V890\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209206/param.shtml"}
+{"\u4e2d\u5174V9\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205706/param.shtml"}
+{"\u4e2d\u5174\u51b0\u5c71\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211244/param.shtml"}
+{"\u4e2d\u5174\u5929\u673a7 Max\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1159/1158375/param.shtml"}
+{"\u4e2d\u5174\u5929\u673a7s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170136/param.shtml"}
+{"\u4e2d\u5174\u5929\u673a7\uff08\u6807\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1146/1145417/param.shtml"}
+{"\u4e2d\u5174\u5929\u673a7\uff08\u9876\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1146/1145416/param.shtml"}
+{"\u4e2d\u5174\u5929\u673a7\uff08\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1141/1140666/param.shtml"}
+{"\u4e2d\u5174\u8fdc\u822a5 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1241/1240646/param.shtml"}
+{"\u52aa\u6bd4\u4e9aM2\u7545\u73a9\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184826/param.shtml"}
+{"\u52aa\u6bd4\u4e9aM2\u7545\u73a9\u7248\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1185/1184841/param.shtml"}
+{"\u52aa\u6bd4\u4e9aM2\u9752\u6625\u7248\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167417/param.shtml"}
+{"\u52aa\u6bd4\u4e9aM2\u9752\u6625\u7248\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167398/param.shtml"}
+{"\u52aa\u6bd4\u4e9aM2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164348/param.shtml"}
+{"\u52aa\u6bd4\u4e9aM3\uff09": "http://detail.zol.com.cn/1260/1259328/param.shtml"}
+{"\u52aa\u6bd4\u4e9amini 5G\uff09": "http://detail.zol.com.cn/1260/1259303/param.shtml"}
+{"\u52aa\u6bd4\u4e9aMy \u5e03\u62c9\u683c\uff08\u73ab\u7470\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1105/1104128/param.shtml"}
+{"\u52aa\u6bd4\u4e9aN1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1149/1148562/param.shtml"}
+{"\u52aa\u6bd4\u4e9aN2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167403/param.shtml"}
+{"\u52aa\u6bd4\u4e9aV18\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209287/param.shtml"}
+{"\u52aa\u6bd4\u4e9aX\uff085G\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1282/1281153/param.shtml"}
+{"\u52aa\u6bd4\u4e9aX\uff086GB RAM/\u6d77\u5149\u84dd/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1238/1237056/param.shtml"}
+{"\u52aa\u6bd4\u4e9aX\uff086GB RAM/\u6df1\u7a7a\u7070/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1233/1232363/param.shtml"}
+{"\u52aa\u6bd4\u4e9aX\uff086GB RAM/\u9ed1\u91d1\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1238/1237058/param.shtml"}
+{"\u52aa\u6bd4\u4e9aX\uff088GB RAM/\u661f\u7a7a\u5178\u85cf\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1246/1245186/param.shtml"}
+{"\u52aa\u6bd4\u4e9aX\uff088GB RAM/\u6d77\u5149\u84dd/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1238/1237061/param.shtml"}
+{"\u52aa\u6bd4\u4e9aX\uff088GB RAM/\u6df1\u7a7a\u7070/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1238/1237059/param.shtml"}
+{"\u52aa\u6bd4\u4e9aX\uff088GB RAM/\u84dd\u91d1\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1238/1237063/param.shtml"}
+{"\u52aa\u6bd4\u4e9aX\uff088GB RAM/\u9ed1\u91d1\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1238/1237060/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ11 miniS\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1157/1156805/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ11 mini\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1142/1141960/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ11\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1149/1148237/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ11\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162836/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ11\uff08\u767d\u91d1\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1162/1161976/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ11\uff08\u9ed1\u91d1\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1155/1154461/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ17 miniS\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184472/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ17 mini\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167977/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ17S\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1172/1171995/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ17S\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184481/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ17\uff088GB\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170083/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ17\uff08\u65d7\u8230\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1173/1172516/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ17\uff08\u7545\u4eab\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181534/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ18 mini\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210483/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ18S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221888/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ18\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204880/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ18\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230648/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ18\uff088GB RAM/\u68b5\u9ad8\u661f\u7a7a\u5178\u85cf\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230650/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ20\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1288/1287544/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ20\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1288/1287543/param.shtml"}
+{"\u52aa\u6bd4\u4e9aZ20\uff088GB/512GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1286/1285745/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u03b1\uff0818K\u9540\u91d1/\u8054\u901a4G\uff09": "http://detail.zol.com.cn/1259/1258235/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u03b1\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1288/1287539/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u03b1\uff08\u8054\u901a4G\uff09": "http://detail.zol.com.cn/1255/1254747/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u7ea2\u9b543\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270785/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u7ea2\u9b543\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262487/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u7ea2\u9b543\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270782/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u7ea2\u9b54Mars\u7535\u7ade\u624b\u673a\uff0810GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1243/1242396/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u7ea2\u9b54Mars\u7535\u7ade\u624b\u673a\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1237/1236114/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u7ea2\u9b54Mars\u7535\u7ade\u624b\u673a\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1243/1242395/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u7ea2\u9b54\u7535\u7ade\u6e38\u620f\u624b\u673a\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211589/param.shtml"}
+{"\u52aa\u6bd4\u4e9a\u7ea2\u9b54\u7535\u7ade\u6e38\u620f\u624b\u673a\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212052/param.shtml"}
+{"\u534e\u4e3aG7 Plus\uff08RIO-UL00/\u53cc4G\uff09": "http://detail.zol.com.cn/1100/1099803/param.shtml"}
+{"\u534e\u4e3aG9 Plus\uff08MLA-TL10/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162687/param.shtml"}
+{"\u534e\u4e3aG9\u9752\u6625\u7248\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1179/1178067/param.shtml"}
+{"\u534e\u4e3aMate 10 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181128/param.shtml"}
+{"\u534e\u4e3aMate 10\u4fdd\u65f6\u6377\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184691/param.shtml"}
+{"\u534e\u4e3aMate 10\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184692/param.shtml"}
+{"\u534e\u4e3aMate 11\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1186/1185759/param.shtml"}
+{"\u534e\u4e3aMate 20 MAX\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230270/param.shtml"}
+{"\u534e\u4e3aMate 20 Pro\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224162/param.shtml"}
+{"\u534e\u4e3aMate 20 Pro\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1235/1234759/param.shtml"}
+{"\u534e\u4e3aMate 20 RS\u4fdd\u65f6\u6377\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230266/param.shtml"}
+{"\u534e\u4e3aMate 20 X\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233492/param.shtml"}
+{"\u534e\u4e3aMate 20 X\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1237/1236349/param.shtml"}
+{"\u534e\u4e3aMate 20 X\uff088GB/256GB/\u5168\u7f51\u901a/5G\u7248\uff09": "http://detail.zol.com.cn/1275/1274859/param.shtml"}
+{"\u534e\u4e3aMate 20\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227467/param.shtml"}
+{"\u534e\u4e3aMate 30\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1239/1238183/param.shtml"}
+{"\u534e\u4e3aMate 9 Pro\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1160/1159578/param.shtml"}
+{"\u534e\u4e3aMate RS\u4fdd\u65f6\u6377\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210089/param.shtml"}
+{"\u534e\u4e3aMate S2\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1142/1141601/param.shtml"}
+{"\u534e\u4e3aMate X\uff085G\u7248\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184085/param.shtml"}
+{"\u534e\u4e3aMate30 Pro\uff09": "http://detail.zol.com.cn/1266/1265181/param.shtml"}
+{"\u534e\u4e3aMaya\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164564/param.shtml"}
+{"\u534e\u4e3anova 2 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209335/param.shtml"}
+{"\u534e\u4e3anova 2 Plus\uff08BAC-AL00/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170043/param.shtml"}
+{"\u534e\u4e3anova 2s\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204737/param.shtml"}
+{"\u534e\u4e3anova 2\u9752\u6625\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207760/param.shtml"}
+{"\u534e\u4e3anova 2\uff08PIC-AL00/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170042/param.shtml"}
+{"\u534e\u4e3anova 3e\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207608/param.shtml"}
+{"\u534e\u4e3anova 3i\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222100/param.shtml"}
+{"\u534e\u4e3anova 3i\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224424/param.shtml"}
+{"\u534e\u4e3anova 3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1186/1185512/param.shtml"}
+{"\u534e\u4e3anova 4e\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262040/param.shtml"}
+{"\u534e\u4e3anova 4e\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258543/param.shtml"}
+{"\u534e\u4e3anova 4\uff08\u6807\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1242/1241574/param.shtml"}
+{"\u534e\u4e3anova 4\uff08\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1247/1246226/param.shtml"}
+{"\u534e\u4e3anova 5 Pro\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1280/1279521/param.shtml"}
+{"\u534e\u4e3anova 5 Pro\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1280/1279525/param.shtml"}
+{"\u534e\u4e3anova 5i Pro\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1286/1285496/param.shtml"}
+{"\u534e\u4e3anova 5i Pro\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1286/1285495/param.shtml"}
+{"\u534e\u4e3anova 5i Pro\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1285/1284512/param.shtml"}
+{"\u534e\u4e3anova 5i\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1279/1278893/param.shtml"}
+{"\u534e\u4e3anova 5i\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280628/param.shtml"}
+{"\u534e\u4e3anova 5\uff088GB/128GB\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1274/1273758/param.shtml"}
+{"\u534e\u4e3anova\u9752\u6625\u7248\uff08\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202606/param.shtml"}
+{"\u534e\u4e3aP Smart 2019\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1242/1241742/param.shtml"}
+{"\u534e\u4e3aP Smart Z\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270310/param.shtml"}
+{"\u534e\u4e3aP10 Plus\uff08VKY-AL00/6GB RAM\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1164/1163813/param.shtml"}
+{"\u534e\u4e3aP11 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205754/param.shtml"}
+{"\u534e\u4e3aP11 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207036/param.shtml"}
+{"\u534e\u4e3aP11\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1167/1166922/param.shtml"}
+{"\u534e\u4e3aP20 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1274/1273767/param.shtml"}
+{"\u534e\u4e3aP20 Pro\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207038/param.shtml"}
+{"\u534e\u4e3aP20 Pro\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231072/param.shtml"}
+{"\u534e\u4e3aP20 Pro\uff08\u771f\u76ae\u9650\u91cf\u7248/8GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230261/param.shtml"}
+{"\u534e\u4e3aP20\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1176/1175779/param.shtml"}
+{"\u534e\u4e3aP30 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249467/param.shtml"}
+{"\u534e\u4e3aP30 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1224/1223829/param.shtml"}
+{"\u534e\u4e3aP30\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1265/1264248/param.shtml"}
+{"\u534e\u4e3aP30\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212233/param.shtml"}
+{"\u534e\u4e3aP9 Plus\uff08VIE-AL10/\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1142/1141875/param.shtml"}
+{"\u534e\u4e3aY3 2017\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169886/param.shtml"}
+{"\u534e\u4e3aY3 2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212122/param.shtml"}
+{"\u534e\u4e3aY5 2017\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1169/1168569/param.shtml"}
+{"\u534e\u4e3aY5 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208677/param.shtml"}
+{"\u534e\u4e3aY6 2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211178/param.shtml"}
+{"\u534e\u4e3aY6 Pro\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1139/1138705/param.shtml"}
+{"\u534e\u4e3aY7 Prime\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1174/1173063/param.shtml"}
+{"\u534e\u4e3aY7 Pro 2019\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1254/1253500/param.shtml"}
+{"\u534e\u4e3aY9 2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209039/param.shtml"}
+{"\u534e\u4e3aY9 Prime\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249473/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab6S\uff08DIG-AL00/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1158/1157596/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab6\uff08\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181629/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab7 Plus\uff083GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181639/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab7 Plus\uff084GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181638/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab7 Plus\uff08TRT-AL00/3GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169616/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab7 Plus\uff08TRT-AL00A/4GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1169/1168883/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab7S\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202894/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab7S\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205137/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab7\uff082GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202582/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab7\uff083GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202584/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab7\uff08SLA-AL00/2GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1174/1173162/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab8 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210102/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab8e\u9752\u6625\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1218/1217895/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab8e\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210103/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab8\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210286/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab9 Plus\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233875/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab9 Plus\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1245/1244390/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab9e\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1253/1252483/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab9S\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1264/1263910/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab9S\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1280/1279792/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab9\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233874/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eab9\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1246/1245419/param.shtml"}
+{"\u534e\u4e3a\u7545\u4eabMAX\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1235/1234415/param.shtml"}
+{"\u534e\u4e3a\u9ea6\u82925\uff08MLA-AL00/\u6807\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1150/1149485/param.shtml"}
+{"\u534e\u4e3a\u9ea6\u82927\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227167/param.shtml"}
+{"\u534e\u4e3a\u9ea6\u82928\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277904/param.shtml"}
+{"\u534e\u78552018\u7248ZenFone 5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207484/param.shtml"}
+{"\u534e\u78552018\u7248ZenFone Max\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208636/param.shtml"}
+{"\u534e\u78552019\u7248ZenFone 6\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1239/1238173/param.shtml"}
+{"\u534e\u7855X00ID\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1183/1182316/param.shtml"}
+{"\u534e\u7855ZenFone 3\u5c0a\u7235\uff08ZS570KL/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1146/1145444/param.shtml"}
+{"\u534e\u7855ZenFone 3\u65d7\u8230\uff08ZS550KL/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1156/1155678/param.shtml"}
+{"\u534e\u7855ZenFone 3\u7075\u667a\uff08ZE552KL/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/399/398865/param.shtml"}
+{"\u534e\u7855ZenFone 4 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1179/1178792/param.shtml"}
+{"\u534e\u7855ZenFone 4 Selfie Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184213/param.shtml"}
+{"\u534e\u7855ZenFone 4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/370/369056/param.shtml"}
+{"\u534e\u7855ZenFone 5 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/393/392241/param.shtml"}
+{"\u534e\u7855ZenFone 5 Max\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207481/param.shtml"}
+{"\u534e\u7855ZenFone 5z\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208275/param.shtml"}
+{"\u534e\u7855ZenFone 6z\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1239/1238177/param.shtml"}
+{"\u534e\u7855ZenFone AR\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1164/1163383/param.shtml"}
+{"\u534e\u7855ZenFone Max M1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1264/1263526/param.shtml"}
+{"\u534e\u7855ZenFone Max M2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1241/1240363/param.shtml"}
+{"\u534e\u7855ZenFone Max Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1146/1145130/param.shtml"}
+{"\u534e\u7855ZenFone Max Pro M2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1241/1240361/param.shtml"}
+{"\u534e\u7855ZenFone Max Shot\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1266/1265080/param.shtml"}
+{"\u534e\u7855ZenFone Shot\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1264/1263464/param.shtml"}
+{"\u534e\u7855ZenFone \u98de\u9a6c3\uff08\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1147/1146812/param.shtml"}
+{"\u534e\u7855ZenFone \u98de\u9a6c3\uff08\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1147/1146513/param.shtml"}
+{"\u534e\u7855ZenFone\u98de\u9a6c3s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1164/1163285/param.shtml"}
+{"\u534e\u7855\u6ed1\u76d6\u624b\u673a\uff09": "http://detail.zol.com.cn/1267/1266564/param.shtml"}
+{"\u534e\u7855\u7075\u667aS\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1181/1180174/param.shtml"}
+{"\u534e\u7855\u7535\u795e4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1177/1176179/param.shtml"}
+{"\u534e\u7855\u7535\u795e5000\uff08ZC550KL/\u53cc4G\uff09": "http://detail.zol.com.cn/828/827921/param.shtml"}
+{"\u534e\u7855\u98de\u9a6c4A\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1175/1174433/param.shtml"}
+{"\u534e\u7855\u98de\u9a6c4S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202776/param.shtml"}
+{"\u534e\u7855\u98de\u9a6c5000\uff08X005/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1139/1138896/param.shtml"}
+{"\u5c0f\u7c735C\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1157/1156607/param.shtml"}
+{"\u5c0f\u7c735S plus\uff08\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1157/1156137/param.shtml"}
+{"\u5c0f\u7c735S plus\uff08\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1157/1156007/param.shtml"}
+{"\u5c0f\u7c735S\uff08\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1149/1148642/param.shtml"}
+{"\u5c0f\u7c735S\uff08\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1157/1156140/param.shtml"}
+{"\u5c0f\u7c735X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1176/1175015/param.shtml"}
+{"\u5c0f\u7c735\uff08\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1139/1138159/param.shtml"}
+{"\u5c0f\u7c736 MIX\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162500/param.shtml"}
+{"\u5c0f\u7c736 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167275/param.shtml"}
+{"\u5c0f\u7c736S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1235/1234972/param.shtml"}
+{"\u5c0f\u7c736X\u521d\u97f3\u672a\u6765\u9650\u91cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221642/param.shtml"}
+{"\u5c0f\u7c736X\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170480/param.shtml"}
+{"\u5c0f\u7c736X\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212271/param.shtml"}
+{"\u5c0f\u7c736\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1181/1180192/param.shtml"}
+{"\u5c0f\u7c736\uff08\u9676\u74f7\u5c0a\u4eab\u7248/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1185/1184473/param.shtml"}
+{"\u5c0f\u7c737 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213789/param.shtml"}
+{"\u5c0f\u7c737 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208248/param.shtml"}
+{"\u5c0f\u7c738 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1264/1263247/param.shtml"}
+{"\u5c0f\u7c738 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1264/1263242/param.shtml"}
+{"\u5c0f\u7c738 SE\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1218/1217453/param.shtml"}
+{"\u5c0f\u7c738 SE\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1218/1217457/param.shtml"}
+{"\u5c0f\u7c738S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222776/param.shtml"}
+{"\u5c0f\u7c738X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227266/param.shtml"}
+{"\u5c0f\u7c738\u5c4f\u5e55\u6307\u7eb9\u7248\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1233/1232023/param.shtml"}
+{"\u5c0f\u7c738\u900f\u660e\u63a2\u7d22\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1217/1216973/param.shtml"}
+{"\u5c0f\u7c738\u9752\u6625\u7248\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231048/param.shtml"}
+{"\u5c0f\u7c738\u9752\u6625\u7248\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1233/1232008/param.shtml"}
+{"\u5c0f\u7c738\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221937/param.shtml"}
+{"\u5c0f\u7c738\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213787/param.shtml"}
+{"\u5c0f\u7c738\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221938/param.shtml"}
+{"\u5c0f\u7c739 SE\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257265/param.shtml"}
+{"\u5c0f\u7c739 \u900f\u660e\u5c0a\u4eab\u7248\uff0812GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257263/param.shtml"}
+{"\u5c0f\u7c739 \u900f\u660e\u5c0a\u4eab\u7248\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1266/1265178/param.shtml"}
+{"\u5c0f\u7c739T PRO\uff09": "http://detail.zol.com.cn/1279/1278255/param.shtml"}
+{"\u5c0f\u7c739T\uff09": "http://detail.zol.com.cn/1279/1278254/param.shtml"}
+{"\u5c0f\u7c739X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270474/param.shtml"}
+{"\u5c0f\u7c739\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224655/param.shtml"}
+{"\u5c0f\u7c739\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257258/param.shtml"}
+{"\u5c0f\u7c73A1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181816/param.shtml"}
+{"\u5c0f\u7c73A2 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1224/1223816/param.shtml"}
+{"\u5c0f\u7c73A2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212615/param.shtml"}
+{"\u5c0f\u7c73A3\uff09": "http://detail.zol.com.cn/1271/1270899/param.shtml"}
+{"\u5c0f\u7c73Cactus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213726/param.shtml"}
+{"\u5c0f\u7c73CC9e\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1282/1281891/param.shtml"}
+{"\u5c0f\u7c73CC9e\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282211/param.shtml"}
+{"\u5c0f\u7c73CC9e\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282210/param.shtml"}
+{"\u5c0f\u7c73CC9\u7f8e\u56fe\u5b9a\u5236\u7248\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282212/param.shtml"}
+{"\u5c0f\u7c73CC9\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282209/param.shtml"}
+{"\u5c0f\u7c73CC9\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280311/param.shtml"}
+{"\u5c0f\u7c73E6\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214195/param.shtml"}
+{"\u5c0f\u7c73Max 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1166/1165765/param.shtml"}
+{"\u5c0f\u7c73Max 3 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221255/param.shtml"}
+{"\u5c0f\u7c73Max 3\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205304/param.shtml"}
+{"\u5c0f\u7c73Max 3\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224445/param.shtml"}
+{"\u5c0f\u7c73Max 4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227486/param.shtml"}
+{"\u5c0f\u7c73MIX 2s\u7fe1\u7fe0\u827a\u672f\u7248\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227769/param.shtml"}
+{"\u5c0f\u7c73MIX 2s\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202983/param.shtml"}
+{"\u5c0f\u7c73MIX 2s\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210052/param.shtml"}
+{"\u5c0f\u7c73MIX 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1161/1160797/param.shtml"}
+{"\u5c0f\u7c73MIX 2\uff08\u5c0a\u4eab\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1183/1182460/param.shtml"}
+{"\u5c0f\u7c73MIX 3s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213788/param.shtml"}
+{"\u5c0f\u7c73MIX 3\u6cd5\u62c9\u5229\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221144/param.shtml"}
+{"\u5c0f\u7c73MIX 3\uff085G\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262329/param.shtml"}
+{"\u5c0f\u7c73MIX 3\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203931/param.shtml"}
+{"\u5c0f\u7c73MIX 3\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1237/1236152/param.shtml"}
+{"\u5c0f\u7c73MIX 3\uff08\u6545\u5bab\u7279\u522b\u7248/10GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1237/1236175/param.shtml"}
+{"\u5c0f\u7c73MIX 4\u5168\u9762\u5c4f\u624b\u673a\uff0c\u5927\u5c4f\u624b\u673a\uff09": "http://detail.zol.com.cn/1265/1264026/param.shtml"}
+{"\u5c0f\u7c73MIX\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1159/1158428/param.shtml"}
+{"\u5c0f\u7c73MIX\uff08\u5c0a\u4eab\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1159/1158429/param.shtml"}
+{"\u5c0f\u7c73Note 2\uff08\u5168\u7403\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1173/1172472/param.shtml"}
+{"\u5c0f\u7c73Note 2\uff08\u6807\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1142/1141542/param.shtml"}
+{"\u5c0f\u7c73Note 2\uff08\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1100/1099553/param.shtml"}
+{"\u5c0f\u7c73Note 3\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203753/param.shtml"}
+{"\u5c0f\u7c73Note 3\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164780/param.shtml"}
+{"\u5c0f\u7c73Note 4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204964/param.shtml"}
+{"\u5c0f\u7c73Play\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1247/1246506/param.shtml"}
+{"\u5c0f\u7c73POCO F2\uff086GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1287/1286287/param.shtml"}
+{"\u5c0f\u7c73R1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204109/param.shtml"}
+{"\u5c0f\u7c73S1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213793/param.shtml"}
+{"\u5c0f\u7c73S2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213794/param.shtml"}
+{"\u5c0f\u7c73S3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213795/param.shtml"}
+{"\u5c0f\u7c73SDM638\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212955/param.shtml"}
+{"\u5c0f\u7c73StRaKz\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214196/param.shtml"}
+{"\u5c0f\u7c73\u53cc\u6298\u53e0\u5c4f\uff085G\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262483/param.shtml"}
+{"\u5c0f\u7c73\u7d2b\u7c73FP2801\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1217/1216549/param.shtml"}
+{"\u7d22\u5c3cF3311\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1144/1143635/param.shtml"}
+{"\u7d22\u5c3cG3112\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1160/1159571/param.shtml"}
+{"\u7d22\u5c3cG3121\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1160/1159575/param.shtml"}
+{"\u7d22\u5c3cH3113\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1184/1183138/param.shtml"}
+{"\u7d22\u5c3cH4113\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1184/1183141/param.shtml"}
+{"\u7d22\u5c3cH4311\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1184/1183142/param.shtml"}
+{"\u7d22\u5c3cH8216\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205275/param.shtml"}
+{"\u7d22\u5c3cH8521 Pro-A\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203623/param.shtml"}
+{"\u7d22\u5c3cPSP\u6e38\u620f\u624b\u673a\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1231/1230387/param.shtml"}
+{"\u7d22\u5c3cXperia 10 Plus\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258015/param.shtml"}
+{"\u7d22\u5c3cXperia 10 Ultra\uff09": "http://detail.zol.com.cn/1265/1264037/param.shtml"}
+{"\u7d22\u5c3cXperia 10\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1259/1258019/param.shtml"}
+{"\u7d22\u5c3cXperia 1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1243/1242657/param.shtml"}
+{"\u7d22\u5c3cXperia 20\uff09": "http://detail.zol.com.cn/1284/1283110/param.shtml"}
+{"\u7d22\u5c3cXperia 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274036/param.shtml"}
+{"\u7d22\u5c3cXperia 4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1262/1261167/param.shtml"}
+{"\u7d22\u5c3cXperia A 2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211251/param.shtml"}
+{"\u7d22\u5c3cXperia Ace\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274603/param.shtml"}
+{"\u7d22\u5c3cXperia Beyond\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1277/1276099/param.shtml"}
+{"\u7d22\u5c3cXperia C6\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1138/1137292/param.shtml"}
+{"\u7d22\u5c3cXperia Edge Premium\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1174/1173070/param.shtml"}
+{"\u7d22\u5c3cXperia Edge\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1163/1162212/param.shtml"}
+{"\u7d22\u5c3cXperia Flex\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224463/param.shtml"}
+{"\u7d22\u5c3cXperia L1\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1168/1167245/param.shtml"}
+{"\u7d22\u5c3cXperia L2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205810/param.shtml"}
+{"\u7d22\u5c3cXperia L3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249810/param.shtml"}
+{"\u7d22\u5c3cXperia Mirai\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1186/1185181/param.shtml"}
+{"\u7d22\u5c3cXperia Note\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205972/param.shtml"}
+{"\u7d22\u5c3cXperia X Compact\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1155/1154261/param.shtml"}
+{"\u7d22\u5c3cXperia X Ultra\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1171/1170092/param.shtml"}
+{"\u7d22\u5c3cXperia X1\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1172/1171700/param.shtml"}
+{"\u7d22\u5c3cXperia X2\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1166/1165763/param.shtml"}
+{"\u7d22\u5c3cXperia XA1 Plus\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1163/1162582/param.shtml"}
+{"\u7d22\u5c3cXperia XA1 Ultra\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1166/1165873/param.shtml"}
+{"\u7d22\u5c3cXperia XA1\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1166/1165871/param.shtml"}
+{"\u7d22\u5c3cXperia XA2 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1224/1223393/param.shtml"}
+{"\u7d22\u5c3cXperia XA2 Ultra\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1206/1205809/param.shtml"}
+{"\u7d22\u5c3cXperia XA2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205727/param.shtml"}
+{"\u7d22\u5c3cXperia XA3 Ultra\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249799/param.shtml"}
+{"\u7d22\u5c3cXperia XA3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225409/param.shtml"}
+{"\u7d22\u5c3cXperia XT pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228951/param.shtml"}
+{"\u7d22\u5c3cXperia XZ Premium\uff08G8142/\u53cc4G\uff09": "http://detail.zol.com.cn/1166/1165860/param.shtml"}
+{"\u7d22\u5c3cXperia XZ Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206063/param.shtml"}
+{"\u7d22\u5c3cXperia XZ1 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205974/param.shtml"}
+{"\u7d22\u5c3cXperia XZ1 Premium\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205973/param.shtml"}
+{"\u7d22\u5c3cXperia XZ1s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205975/param.shtml"}
+{"\u7d22\u5c3cXperia XZ1\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1172/1171698/param.shtml"}
+{"\u7d22\u5c3cXperia XZ2 Compact\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206455/param.shtml"}
+{"\u7d22\u5c3cXperia XZ2 Premium\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1209/1208342/param.shtml"}
+{"\u7d22\u5c3cXperia XZ2S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1221/1220481/param.shtml"}
+{"\u7d22\u5c3cXperia XZ2\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1205/1204546/param.shtml"}
+{"\u7d22\u5c3cXperia XZ3 Premium\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1237/1236664/param.shtml"}
+{"\u7d22\u5c3cXperia XZ3\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1214/1213455/param.shtml"}
+{"\u7d22\u5c3cXperia XZ4 Compact\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1246/1245296/param.shtml"}
+{"\u7d22\u5c3cXperia XZs\uff08G8232/\u53cc4G\uff09": "http://detail.zol.com.cn/1166/1165866/param.shtml"}
+{"\u7d22\u5c3cXperia XZ\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1150/1149327/param.shtml"}
+{"\u7d22\u5c3cXperia Z6 Compact\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1117/1116862/param.shtml"}
+{"\u7d22\u5c3cYoshino\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1165/1164481/param.shtml"}
+{"Redmi 6 Pro\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1221/1220665/param.shtml"}
+{"Redmi 6 Pro\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221136/param.shtml"}
+{"Redmi 6A\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1217/1216196/param.shtml"}
+{"Redmi 6A\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225116/param.shtml"}
+{"Redmi 7 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1253/1252212/param.shtml"}
+{"Redmi 7A\uff082GB/16GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275176/param.shtml"}
+{"Redmi 7A\uff082GB/32GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277036/param.shtml"}
+{"Redmi 7A\uff083GB/32GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277037/param.shtml"}
+{"Redmi 7\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262615/param.shtml"}
+{"Redmi 7\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262613/param.shtml"}
+{"Redmi 7\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1253/1252207/param.shtml"}
+{"Redmi Go\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262995/param.shtml"}
+{"Redmi K20 Pro\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277015/param.shtml"}
+{"Redmi K20 Pro\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275362/param.shtml"}
+{"Redmi K20 Pro\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277019/param.shtml"}
+{"Redmi K20 Pro\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277020/param.shtml"}
+{"Redmi K20\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277029/param.shtml"}
+{"Redmi K20\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270952/param.shtml"}
+{"Redmi K20\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277031/param.shtml"}
+{"Redmi Note 7 Pro\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1253/1252176/param.shtml"}
+{"Redmi Note 7 Pro\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1260/1259155/param.shtml"}
+{"Redmi NOTE 7S\uff09": "http://detail.zol.com.cn/1280/1279716/param.shtml"}
+{"Redmi Note 7\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249706/param.shtml"}
+{"Redmi Note 7\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1251/1250478/param.shtml"}
+{"Redmi Note 7\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1251/1250481/param.shtml"}
+{"Redmi Note 8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1286/1285904/param.shtml"}
+{"Redmi S2\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213595/param.shtml"}
+{"Redmi Y3\uff083GB/32GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270311/param.shtml"}
+{"Redmi Y3\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1271/1270324/param.shtml"}
+{"\u7f8e\u56feM7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222490/param.shtml"}
+{"\u7f8e\u56feM8s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181837/param.shtml"}
+{"\u7f8e\u56feM8\uff08AMOLED\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169995/param.shtml"}
+{"\u7f8e\u56feM8\uff08TFT\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170695/param.shtml"}
+{"\u7f8e\u56feMP1801\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227732/param.shtml"}
+{"\u7f8e\u56feT8s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181834/param.shtml"}
+{"\u7f8e\u56feT8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1164/1163765/param.shtml"}
+{"\u7f8e\u56feT9 HelloKitty\u9650\u91cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231871/param.shtml"}
+{"\u7f8e\u56feT9\u4e03\u9f99\u73e0\u9650\u91cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1242/1241260/param.shtml"}
+{"\u7f8e\u56feT9\u54c6\u5566A\u68a6\u9650\u91cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1242/1241256/param.shtml"}
+{"\u7f8e\u56feT9\u6a31\u6843\u5c0f\u4e38\u5b50\u9650\u91cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235554/param.shtml"}
+{"\u7f8e\u56feT9\u7f8e\u5c11\u5973\u6218\u58eb\u9650\u91cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231870/param.shtml"}
+{"\u7f8e\u56feT9\u9890\u548c\u56ed\u9650\u91cf\u7248\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221603/param.shtml"}
+{"\u7f8e\u56feT9\u9890\u548c\u56ed\u9650\u91cf\u7248\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221607/param.shtml"}
+{"\u7f8e\u56feT9\u9b54\u5361\u5c11\u5973\u6a31\u9650\u91cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1242/1241263/param.shtml"}
+{"\u7f8e\u56feT9\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214501/param.shtml"}
+{"\u7f8e\u56feT9\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1218/1217848/param.shtml"}
+{"\u7f8e\u56feV4s\uff08\u6807\u51c6\u7248/\u53cc4G\uff09": "http://detail.zol.com.cn/1146/1145038/param.shtml"}
+{"\u7f8e\u56feV4\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1101/1100911/param.shtml"}
+{"\u7f8e\u56feV7\u6258\u5c3c\u6d1b\u00b7\u5170\u535a\u57fa\u5c3c\u9650\u91cf\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1251/1250005/param.shtml"}
+{"\u7f8e\u56feV7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247461/param.shtml"}
+{"\u8054\u60f3A396\uff09": "http://detail.zol.com.cn/390/389694/param.shtml"}
+{"\u8054\u60f3A588T\uff08\u79fb\u52a83G\uff09": "http://detail.zol.com.cn/394/393984/param.shtml"}
+{"\u8054\u60f3A5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1219/1218162/param.shtml"}
+{"\u8054\u60f3K10 note\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225610/param.shtml"}
+{"\u8054\u60f3K10\uff08K10e70/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1161/1160467/param.shtml"}
+{"\u8054\u60f3K320t\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205006/param.shtml"}
+{"\u8054\u60f3K5 Note\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1219/1218158/param.shtml"}
+{"\u8054\u60f3K5 Note\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1219/1218202/param.shtml"}
+{"\u8054\u60f3K5 Play\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209619/param.shtml"}
+{"\u8054\u60f3K5 play\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209620/param.shtml"}
+{"\u8054\u60f3K5 Pro\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235180/param.shtml"}
+{"\u8054\u60f3K5 Pro\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235302/param.shtml"}
+{"\u8054\u60f3K5s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235200/param.shtml"}
+{"\u8054\u60f3K5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209618/param.shtml"}
+{"\u8054\u60f3MA388\uff09": "http://detail.zol.com.cn/356/355620/param.shtml"}
+{"\u8054\u60f3PHAB2 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162862/param.shtml"}
+{"\u8054\u60f3PHAB2 PRO\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1147/1146200/param.shtml"}
+{"\u8054\u60f3S5 Pro GT\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247222/param.shtml"}
+{"\u8054\u60f3S5 Pro GT\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247218/param.shtml"}
+{"\u8054\u60f3S5 Pro\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233434/param.shtml"}
+{"\u8054\u60f3S5\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209613/param.shtml"}
+{"\u8054\u60f3VIBE P2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1152/1151410/param.shtml"}
+{"\u8054\u60f3Z5 Pro GT 855\u7248\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247229/param.shtml"}
+{"\u8054\u60f3Z5 Pro GT 855\u7248\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247230/param.shtml"}
+{"\u8054\u60f3Z5 Pro\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229492/param.shtml"}
+{"\u8054\u60f3Z5s\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1242/1241736/param.shtml"}
+{"\u8054\u60f3Z5s\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1247/1246887/param.shtml"}
+{"\u8054\u60f3Z5\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213725/param.shtml"}
+{"\u8054\u60f3Z6 Pro 5G\u63a2\u7d22\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1270/1269508/param.shtml"}
+{"\u8054\u60f3Z6 Pro\uff0812GB/512GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1270/1269506/param.shtml"}
+{"\u8054\u60f3Z6 Pro\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257971/param.shtml"}
+{"\u8054\u60f3Z6 Pro\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1270/1269500/param.shtml"}
+{"\u8054\u60f3Z6 Pro\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1270/1269503/param.shtml"}
+{"\u8054\u60f3Z6 \u9752\u6625\u7248\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1274/1273134/param.shtml"}
+{"\u8054\u60f3Z6 \u9752\u6625\u7248\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275613/param.shtml"}
+{"\u8054\u60f3Z6 \u9752\u6625\u7248\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275612/param.shtml"}
+{"\u8054\u60f3Z6\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1282/1281179/param.shtml"}
+{"\u8054\u60f3Z6\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1279/1278421/param.shtml"}
+{"\u8054\u60f3Z6\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282422/param.shtml"}
+{"\u8054\u60f3\u6298\u53e0\u5c4f\u624b\u673a\uff09": "http://detail.zol.com.cn/1267/1266028/param.shtml"}
+{"\u82f9\u679ciPhone 11 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227183/param.shtml"}
+{"\u82f9\u679ciPhone 11 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280696/param.shtml"}
+{"\u82f9\u679ciPhone 11R\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1273/1272872/param.shtml"}
+{"\u82f9\u679ciPhone 11\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209686/param.shtml"}
+{"\u82f9\u679ciPhone 2018\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229521/param.shtml"}
+{"\u82f9\u679ciPhone 2019\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1265/1264050/param.shtml"}
+{"\u82f9\u679ciPhone 2020\u7248\uff085G\u7248\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1281/1280739/param.shtml"}
+{"\u82f9\u679ciPhone 7 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1105/1104332/param.shtml"}
+{"\u82f9\u679ciPhone 7 Plus\uff08\u56fd\u9645\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1156/1155434/param.shtml"}
+{"\u82f9\u679ciPhone 7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/385/384973/param.shtml"}
+{"\u82f9\u679ciPhone 7\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1167/1166334/param.shtml"}
+{"\u82f9\u679ciPhone 7\uff08\u56fd\u9645\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1156/1155432/param.shtml"}
+{"\u82f9\u679ciPhone 7\uff08\u7279\u522b\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167458/param.shtml"}
+{"\u82f9\u679ciPhone 8 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1183/1182632/param.shtml"}
+{"\u82f9\u679ciPhone 8 Plus\uff08\u56fd\u9645\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204817/param.shtml"}
+{"\u82f9\u679ciPhone 8C\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1265/1264457/param.shtml"}
+{"\u82f9\u679ciPhone 8s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214197/param.shtml"}
+{"\u82f9\u679ciPhone 8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/395/394162/param.shtml"}
+{"\u82f9\u679ciPhone 8\uff08\u56fd\u9645\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204816/param.shtml"}
+{"\u82f9\u679ciPhone 9 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229526/param.shtml"}
+{"\u82f9\u679ciPhone 9C\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1224/1223196/param.shtml"}
+{"\u82f9\u679ciPhone 9\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203409/param.shtml"}
+{"\u82f9\u679ciPhone SE 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1167/1166581/param.shtml"}
+{"\u82f9\u679ciPhone x Fold\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1262/1261796/param.shtml"}
+{"\u82f9\u679ciPhone X Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203189/param.shtml"}
+{"\u82f9\u679ciPhone X2 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229525/param.shtml"}
+{"\u82f9\u679ciPhone X2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229523/param.shtml"}
+{"\u82f9\u679ciPhone XI Max\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1262/1261797/param.shtml"}
+{"\u82f9\u679ciPhone XI\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249718/param.shtml"}
+{"\u82f9\u679ciPhone XR 2019\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1279/1278423/param.shtml"}
+{"\u82f9\u679ciPhone XR\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205394/param.shtml"}
+{"\u82f9\u679ciPhone XR\uff08\u56fd\u9645\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1245/1244671/param.shtml"}
+{"\u82f9\u679ciPhone XR\uff08\u56fd\u9645\u7248/\u53cc4G\uff09": "http://detail.zol.com.cn/1245/1244673/param.shtml"}
+{"\u82f9\u679ciPhone XS Max\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229520/param.shtml"}
+{"\u82f9\u679ciPhone XS Max\uff08\u56fd\u9645\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1245/1244581/param.shtml"}
+{"\u82f9\u679ciPhone XS Max\uff08\u56fd\u9645\u7248/\u53cc4G\uff09": "http://detail.zol.com.cn/1245/1244586/param.shtml"}
+{"\u82f9\u679ciPhone XS\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229519/param.shtml"}
+{"\u82f9\u679ciPhone XS\uff08\u56fd\u9645\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1245/1244552/param.shtml"}
+{"\u82f9\u679ciPhone XS\uff08\u56fd\u9645\u7248/\u53cc4G\uff09": "http://detail.zol.com.cn/1245/1244575/param.shtml"}
+{"\u82f9\u679ciPhone X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1183/1182639/param.shtml"}
+{"\u82f9\u679ciPhone X\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1186/1185267/param.shtml"}
+{"\u82f9\u679ciPhone X\uff08\u56fd\u9645\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204818/param.shtml"}
+{"\u8363\u800010 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221072/param.shtml"}
+{"\u8363\u800010i\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1266/1265079/param.shtml"}
+{"\u8363\u800010\u9752\u6625\u7248\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1240/1239123/param.shtml"}
+{"\u8363\u800010\u9752\u6625\u7248\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1241/1240844/param.shtml"}
+{"\u8363\u800010\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207689/param.shtml"}
+{"\u8363\u800011\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1245/1244469/param.shtml"}
+{"\u8363\u800020 PRO X MOSCHINO \u8054\u540d\u7248\uff09": "http://detail.zol.com.cn/1278/1277856/param.shtml"}
+{"\u8363\u800020 PRO\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277851/param.shtml"}
+{"\u8363\u800020 PRO\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1268/1267079/param.shtml"}
+{"\u8363\u800020i\uff084GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1268/1267858/param.shtml"}
+{"\u8363\u800020i\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1269/1268443/param.shtml"}
+{"\u8363\u800020i\uff086GB/256GB/\u5168\u7f51\u901a/Aape\u7279\u522b\u7248\uff09": "http://detail.zol.com.cn/1269/1268458/param.shtml"}
+{"\u8363\u800020i\uff086GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1268/1267857/param.shtml"}
+{"\u8363\u800020i\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1267/1266797/param.shtml"}
+{"\u8363\u800020\u9752\u6625\u7248\uff084GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275456/param.shtml"}
+{"\u8363\u800020\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275470/param.shtml"}
+{"\u8363\u800020\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1276/1275469/param.shtml"}
+{"\u8363\u800020\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1260/1259528/param.shtml"}
+{"\u8363\u80007S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213133/param.shtml"}
+{"\u8363\u80008X Max\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225803/param.shtml"}
+{"\u8363\u80008X Max\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230669/param.shtml"}
+{"\u8363\u80008X\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209676/param.shtml"}
+{"\u8363\u80008X\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1231/1230668/param.shtml"}
+{"\u8363\u80008\u9752\u6625\u7248\uff084GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202721/param.shtml"}
+{"\u8363\u80008\u9752\u6625\u7248\uff08PRA-AL00/3GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1166/1165493/param.shtml"}
+{"\u8363\u80008\u9752\u6625\u7248\uff08PRA-AL00X/4GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164015/param.shtml"}
+{"\u8363\u80008\uff08FRD-AL00/4GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1150/1149191/param.shtml"}
+{"\u8363\u80009i\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184227/param.shtml"}
+{"\u8363\u80009X Pro\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1285/1284835/param.shtml"}
+{"\u8363\u80009X Pro\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1285/1284836/param.shtml"}
+{"\u8363\u80009X\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1234/1233472/param.shtml"}
+{"\u8363\u80009X\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1285/1284833/param.shtml"}
+{"\u8363\u80009X\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1285/1284832/param.shtml"}
+{"\u8363\u80009\u9752\u6625\u7248\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204005/param.shtml"}
+{"\u8363\u80009\u9752\u6625\u7248\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205447/param.shtml"}
+{"\u8363\u80009\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167243/param.shtml"}
+{"\u8363\u80009\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1174/1173233/param.shtml"}
+{"\u8363\u80009\uff086GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1180/1179950/param.shtml"}
+{"\u8363\u8000Holly 2 Plus\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1138/1137983/param.shtml"}
+{"\u8363\u8000Magic 2 3D\u5149\u611f\u7248\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1274/1273545/param.shtml"}
+{"\u8363\u8000Magic 2\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204795/param.shtml"}
+{"\u8363\u8000Magic 2\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1238/1237086/param.shtml"}
+{"\u8363\u8000Magic\uff08NTS-AL00/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1160/1159465/param.shtml"}
+{"\u8363\u8000Note10\u52b3\u65af\u83b1\u65af\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224174/param.shtml"}
+{"\u8363\u8000Note10\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222342/param.shtml"}
+{"\u8363\u8000Note10\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1227/1226561/param.shtml"}
+{"\u8363\u8000Note8\uff08EDI-AL10/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1151/1150103/param.shtml"}
+{"\u8363\u8000Note9\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167835/param.shtml"}
+{"\u8363\u8000Play\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1216/1215468/param.shtml"}
+{"\u8363\u8000Play\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1219/1218623/param.shtml"}
+{"\u8363\u8000Play\uff086GB RAM/\u9177\u73a9\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1227/1226194/param.shtml"}
+{"\u8363\u8000V10\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181907/param.shtml"}
+{"\u8363\u8000V10\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204227/param.shtml"}
+{"\u8363\u8000V10\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228015/param.shtml"}
+{"\u8363\u8000V20 MOSCHINO\u8054\u540d\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1249/1248140/param.shtml"}
+{"\u8363\u8000V20\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1238/1237848/param.shtml"}
+{"\u8363\u8000V20\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1249/1248138/param.shtml"}
+{"\u8363\u8000V8\uff08KNT-AL10/\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1145/1144236/param.shtml"}
+{"\u8363\u8000V9 Play\uff083GB RAM/\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1183/1182121/param.shtml"}
+{"\u8363\u8000V9 Play\uff084GB RAM/\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1182/1181465/param.shtml"}
+{"\u8363\u8000V9\uff08DUK-AL20/4GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1166/1165487/param.shtml"}
+{"\u8363\u8000V9\uff08DUK-AL20/6GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164296/param.shtml"}
+{"\u8363\u8000X3\uff08\u4f4e\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1141/1140558/param.shtml"}
+{"\u8363\u8000X3\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1137/1136940/param.shtml"}
+{"\u8363\u8000X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208201/param.shtml"}
+{"\u8363\u8000\u7545\u73a95A\uff08CAM-AL00/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1145/1144498/param.shtml"}
+{"\u8363\u8000\u7545\u73a95A\uff08CAM-TL00H/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1147/1146476/param.shtml"}
+{"\u8363\u8000\u7545\u73a95A\uff08CAM-UL00/\u53cc4G\uff09": "http://detail.zol.com.cn/1147/1146483/param.shtml"}
+{"\u8363\u8000\u7545\u73a95C\uff08NEM-AL10/\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1147/1146514/param.shtml"}
+{"\u8363\u8000\u7545\u73a95C\uff08NEM-TL00H/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1142/1141899/param.shtml"}
+{"\u8363\u8000\u7545\u73a95C\uff08NEM-UL10/\u53cc4G\uff09": "http://detail.zol.com.cn/1144/1143415/param.shtml"}
+{"\u8363\u8000\u7545\u73a95X\uff08KIW-AL10/\u6807\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1103/1102760/param.shtml"}
+{"\u8363\u8000\u7545\u73a95X\uff08KIW-AL20/\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1137/1136432/param.shtml"}
+{"\u8363\u8000\u7545\u73a95X\uff08KIW-TL00/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/393/392296/param.shtml"}
+{"\u8363\u8000\u7545\u73a95X\uff08KIW-UL00/\u53cc4G\uff09": "http://detail.zol.com.cn/1136/1135597/param.shtml"}
+{"\u8363\u8000\u7545\u73a95\uff08CUN-AL00/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1155/1154014/param.shtml"}
+{"\u8363\u8000\u7545\u73a95\uff08CUN-TL00/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/393/392295/param.shtml"}
+{"\u8363\u8000\u7545\u73a96A\uff08DLI-AL10/\u6807\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1172/1171776/param.shtml"}
+{"\u8363\u8000\u7545\u73a96A\uff08DLI-AL10/\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170219/param.shtml"}
+{"\u8363\u8000\u7545\u73a96A\uff08\u6807\u914d\u7248/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202595/param.shtml"}
+{"\u8363\u8000\u7545\u73a96A\uff08\u9ad8\u914d\u7248/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202593/param.shtml"}
+{"\u8363\u8000\u7545\u73a96C Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184225/param.shtml"}
+{"\u8363\u8000\u7545\u73a96C\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1169/1168617/param.shtml"}
+{"\u8363\u8000\u7545\u73a96X\uff083GB RAM/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1169/1168623/param.shtml"}
+{"\u8363\u8000\u7545\u73a96X\uff084GB RAM/\u79fb\u52a8\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202718/param.shtml"}
+{"\u8363\u8000\u7545\u73a96X\uff08BLN-AL10/3GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1158/1157699/param.shtml"}
+{"\u8363\u8000\u7545\u73a96X\uff08BLN-AL10/4GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1137/1136359/param.shtml"}
+{"\u8363\u8000\u7545\u73a96\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1175/1174655/param.shtml"}
+{"\u8363\u8000\u7545\u73a96\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202877/param.shtml"}
+{"\u8363\u8000\u7545\u73a97A\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210225/param.shtml"}
+{"\u8363\u8000\u7545\u73a97A\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210566/param.shtml"}
+{"\u8363\u8000\u7545\u73a97C\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207753/param.shtml"}
+{"\u8363\u8000\u7545\u73a97C\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209188/param.shtml"}
+{"\u8363\u8000\u7545\u73a97X\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1184/1183521/param.shtml"}
+{"\u8363\u8000\u7545\u73a97\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214336/param.shtml"}
+{"\u8363\u8000\u7545\u73a98A Pro\uff083GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1268/1267885/param.shtml"}
+{"\u8363\u8000\u7545\u73a98A\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249446/param.shtml"}
+{"\u8363\u8000\u7545\u73a98C\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1233/1232512/param.shtml"}
+{"\u8363\u8000\u7545\u73a98S\uff082GB/32GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1269/1268222/param.shtml"}
+{"\u8363\u8000\u7545\u73a98\uff082GB/32GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282953/param.shtml"}
+{"\u8bfa\u57fa\u4e9a1 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258073/param.shtml"}
+{"\u8bfa\u57fa\u4e9a10 Max\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1186/1185301/param.shtml"}
+{"\u8bfa\u57fa\u4e9a10535\u5929\u8d85\u957f\u65f6\u95f4\u5f85\u673a\uff0c\u4ef7\u683c\u4f4e\u5ec9\uff0c\u4f461.4\u82f1\u5bf8\u7684\u5c4f\u5e55\u5e76\u4e0d\u5408\u9002\u8001\u5e74\u4eba\uff0c\u4ec5\u53ef\u4f5c\u4e3a\u6253\u7535\u8bdd\u53d1\u4fe1\u606f\u7684\u5907\u7528\u673a\uff09": "http://detail.zol.com.cn/348/347026/param.shtml"}
+{"\u8bfa\u57fa\u4e9a105\uff08\u79fb\u52a8\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1286/1285401/param.shtml"}
+{"\u8bfa\u57fa\u4e9a106\u624b\u673a\uff09": "http://detail.zol.com.cn/361/360487/param.shtml"}
+{"\u8bfa\u57fa\u4e9a106\uff08\u79fb\u52a8\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1286/1285342/param.shtml"}
+{"\u8bfa\u57fa\u4e9a11\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1224/1223167/param.shtml"}
+{"\u8bfa\u57fa\u4e9a150\uff08\u5355\u5361\u7248/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1163/1162358/param.shtml"}
+{"\u8bfa\u57fa\u4e9a150\uff08\u53cc\u5361\u7248/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1163/1162361/param.shtml"}
+{"\u8bfa\u57fa\u4e9a1\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1206/1205663/param.shtml"}
+{"\u8bfa\u57fa\u4e9a2.1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1217/1216913/param.shtml"}
+{"\u8bfa\u57fa\u4e9a2017\u7248105\uff08\u79fb\u52a8/\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1178/1177019/param.shtml"}
+{"\u8bfa\u57fa\u4e9a2017\u7248130\uff08\u79fb\u52a8/\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1178/1177020/param.shtml"}
+{"\u8bfa\u57fa\u4e9a210\uff09": "http://detail.zol.com.cn/1258/1257985/param.shtml"}
+{"\u8bfa\u57fa\u4e9a216\uff08\u79fb\u52a8/\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1160/1159510/param.shtml"}
+{"\u8bfa\u57fa\u4e9a230\uff08\u79fb\u52a8/\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1251/1250873/param.shtml"}
+{"\u8bfa\u57fa\u4e9a3.1 Plus\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1235/1234981/param.shtml"}
+{"\u8bfa\u57fa\u4e9a3.1 Plus\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1235/1234986/param.shtml"}
+{"\u8bfa\u57fa\u4e9a3.1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1217/1216911/param.shtml"}
+{"\u8bfa\u57fa\u4e9a3.2\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258013/param.shtml"}
+{"\u8bfa\u57fa\u4e9a3.2\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258067/param.shtml"}
+{"\u8bfa\u57fa\u4e9a3310\u590d\u523b\u7248\uff08\u79fb\u52a8/\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1166/1165069/param.shtml"}
+{"\u8bfa\u57fa\u4e9a3\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1164/1163695/param.shtml"}
+{"\u8bfa\u57fa\u4e9a4.2\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258023/param.shtml"}
+{"\u8bfa\u57fa\u4e9a4.2\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258043/param.shtml"}
+{"\u8bfa\u57fa\u4e9a5.1 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1220/1219234/param.shtml"}
+{"\u8bfa\u57fa\u4e9a5.1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1217/1216910/param.shtml"}
+{"\u8bfa\u57fa\u4e9a5.2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277941/param.shtml"}
+{"\u8bfa\u57fa\u4e9a5320\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1155/1154131/param.shtml"}
+{"\u8bfa\u57fa\u4e9a6 \u7b2c\u4e8c\u4ee3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204875/param.shtml"}
+{"\u8bfa\u57fa\u4e9a6.1 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1224/1223821/param.shtml"}
+{"\u8bfa\u57fa\u4e9a6.2\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277940/param.shtml"}
+{"\u8bfa\u57fa\u4e9a6\uff08TA-1000/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1164/1163699/param.shtml"}
+{"\u8bfa\u57fa\u4e9a7 Plus\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207173/param.shtml"}
+{"\u8bfa\u57fa\u4e9a7 Plus\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208403/param.shtml"}
+{"\u8bfa\u57fa\u4e9a7\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167073/param.shtml"}
+{"\u8bfa\u57fa\u4e9a7\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184964/param.shtml"}
+{"\u8bfa\u57fa\u4e9a8 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208224/param.shtml"}
+{"\u8bfa\u57fa\u4e9a8 Sirocco\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208391/param.shtml"}
+{"\u8bfa\u57fa\u4e9a8110\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1209/1208396/param.shtml"}
+{"\u8bfa\u57fa\u4e9a8X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1221/1220666/param.shtml"}
+{"\u8bfa\u57fa\u4e9a8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164004/param.shtml"}
+{"\u8bfa\u57fa\u4e9a9 PureView\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1169/1168026/param.shtml"}
+{"\u8bfa\u57fa\u4e9aA1\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1142/1141689/param.shtml"}
+{"\u8bfa\u57fa\u4e9aD1C\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1157/1156461/param.shtml"}
+{"\u8bfa\u57fa\u4e9aE71\u590d\u523b\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205167/param.shtml"}
+{"\u8bfa\u57fa\u4e9aEdge\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167007/param.shtml"}
+{"\u8bfa\u57fa\u4e9aN9\u590d\u523b\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1253/1252180/param.shtml"}
+{"\u8bfa\u57fa\u4e9aP1\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1149/1148833/param.shtml"}
+{"\u8bfa\u57fa\u4e9aPhoenix\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227477/param.shtml"}
+{"\u8bfa\u57fa\u4e9aTA-1017\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1175/1174836/param.shtml"}
+{"\u8bfa\u57fa\u4e9aTA-1105\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1224/1223852/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX5\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222777/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX5\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1225/1224202/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX6 2018\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212421/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX6 2018\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214180/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX7 2018\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225415/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX7 2018\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1235/1234755/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX71\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1272/1271525/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX71\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1265/1264323/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX9\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1172/1171466/param.shtml"}
+{"\u8bfa\u57fa\u4e9aX\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211587/param.shtml"}
+{"\u8bfa\u57fa\u4e9aZ2 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1162/1161079/param.shtml"}
+{"\u8bfa\u57fa\u4e9a\u5168\u65b0N95\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206348/param.shtml"}
+{"\u8bfa\u57fa\u4e9a\u65b0\u72483310 \uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1206/1205708/param.shtml"}
+{"\u8bfa\u57fa\u4e9a\u65b0\u72487610\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1227/1226478/param.shtml"}
+{"\u8bfa\u57fa\u4e9a\u6ed1\u76d6\u5f0f\u952e\u76d8\u624b\u673a\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1175/1174305/param.shtml"}
+{"Google Pixel 2\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1165/1164085/param.shtml"}
+{"Google Pixel 3 XL\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1217/1216623/param.shtml"}
+{"Google Pixel 3a XL\uff09": "http://detail.zol.com.cn/1267/1266581/param.shtml"}
+{"Google Pixel 3a\uff09": "http://detail.zol.com.cn/1267/1266579/param.shtml"}
+{"Google Pixel 3\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1212/1211008/param.shtml"}
+{"Google Pixel 4 XL\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1264/1263166/param.shtml"}
+{"Google Pixel 4\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1275/1274867/param.shtml"}
+{"Google Pixel 4\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1264/1263165/param.shtml"}
+{"Google Pixel XL\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1149/1148524/param.shtml"}
+{"Google Pixel XXL\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1171/1170950/param.shtml"}
+{"Google Pixel\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1148/1147877/param.shtml"}
+{"\u9177\u6d3e5263\uff08\u7535\u4fe14G\uff09": "http://detail.zol.com.cn/1116/1115518/param.shtml"}
+{"\u9177\u6d3e5267\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1168/1167899/param.shtml"}
+{"\u9177\u6d3e5316\uff08\u7535\u4fe14G\uff09": "http://detail.zol.com.cn/393/392863/param.shtml"}
+{"\u9177\u6d3e5367\uff08\u7535\u4fe14G\uff09": "http://detail.zol.com.cn/1158/1157912/param.shtml"}
+{"\u9177\u6d3e5380CA\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1167/1166706/param.shtml"}
+{"\u9177\u6d3e7722\uff08\u6807\u51c6\u7248/\u53cc4G\uff09": "http://detail.zol.com.cn/1146/1145892/param.shtml"}
+{"\u9177\u6d3e7722\uff08\u7545\u542c\u7248/\u53cc4G\uff09": "http://detail.zol.com.cn/1153/1152345/param.shtml"}
+{"\u9177\u6d3e8105\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1141/1140704/param.shtml"}
+{"\u9177\u6d3e8712\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/402/401178/param.shtml"}
+{"\u9177\u6d3e8712\uff08\u9ad8\u914d\u7248/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1146/1145889/param.shtml"}
+{"\u9177\u6d3e8718\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1146/1145888/param.shtml"}
+{"\u9177\u6d3e8722V\uff08\u6807\u51c6\u7248/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1145/1144167/param.shtml"}
+{"\u9177\u6d3e8722V\uff08\u9ad8\u914d\u7248/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1168/1167907/param.shtml"}
+{"\u9177\u6d3e8737\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1178/1177826/param.shtml"}
+{"\u9177\u6d3eB770\uff081GB RAM/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1141/1140215/param.shtml"}
+{"\u9177\u6d3eB770\uff082GB RAM/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1149/1148752/param.shtml"}
+{"\u9177\u6d3eC558S\uff08512MB/4GB/\u5168\u7f51\u901a)\uff09": "http://detail.zol.com.cn/1274/1273210/param.shtml"}
+{"\u9177\u6d3eC558\uff081GB/8GB/\u5168\u7f51\u901a)\uff09": "http://detail.zol.com.cn/1274/1273181/param.shtml"}
+{"\u9177\u6d3ecool 1C\uff08C107-9/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1162/1161558/param.shtml"}
+{"\u9177\u6d3ecool 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212428/param.shtml"}
+{"\u9177\u6d3ecool 9\uff084GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1279/1278070/param.shtml"}
+{"\u9177\u6d3eCOOL M7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1180/1179667/param.shtml"}
+{"\u9177\u6d3ecool S1\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162552/param.shtml"}
+{"\u9177\u6d3ecool S1\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162216/param.shtml"}
+{"\u9177\u6d3ecool1\uff08\u4e50\u6b21\u5143\u4f1a\u5458\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1152/1151520/param.shtml"}
+{"\u9177\u6d3ecool1\uff08\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1152/1151267/param.shtml"}
+{"\u9177\u6d3eM3\uff084GB/32GB/\u5168\u7f51\u901a)\uff09": "http://detail.zol.com.cn/1273/1272810/param.shtml"}
+{"\u9177\u6d3eM3\uff084GB/64GB/\u5168\u7f51\u901a)\uff09": "http://detail.zol.com.cn/1273/1272816/param.shtml"}
+{"\u9177\u6d3eMega 5A\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228616/param.shtml"}
+{"\u9177\u6d3eNote3 Lite\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1138/1137708/param.shtml"}
+{"\u9177\u6d3eS158\uff08\u7535\u4fe12G)\uff09": "http://detail.zol.com.cn/1274/1273165/param.shtml"}
+{"\u9177\u6d3eS588\uff08\u79fb\u52a8/\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1185/1184918/param.shtml"}
+{"\u9177\u6d3eS628\uff08\u79fb\u52a8/\u8054\u901a2G)\uff09": "http://detail.zol.com.cn/1273/1272795/param.shtml"}
+{"\u9177\u6d3eS688\uff08\u79fb\u52a8/\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1273/1272797/param.shtml"}
+{"\u9177\u6d3eV18\uff08\u7535\u4fe12G)\uff09": "http://detail.zol.com.cn/1274/1273172/param.shtml"}
+{"\u9177\u6d3ev66\uff08\u79fb\u52a8/\u8054\u901a2G\uff09": "http://detail.zol.com.cn/1204/1203758/param.shtml"}
+{"\u9177\u6d3e\u5168\u9b54\u738b\u624b\u673a\uff088298-M02/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1175/1174979/param.shtml"}
+{"\u9177\u6d3e\u5927\u89c2\u94c2\u987f\uff08V1-C/\u7535\u4fe14G\uff09": "http://detail.zol.com.cn/387/386127/param.shtml"}
+{"\u9177\u6d3e\u70ab\u5f71N10 Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1283/1282961/param.shtml"}
+{"\u9177\u6d3e\u9177\u73a96C\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1197/1196349/param.shtml"}
+{"\u9177\u6d3e\u9177\u73a96\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170194/param.shtml"}
+{"\u9177\u6d3e\u9177\u73a97C\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229885/param.shtml"}
+{"\u9177\u6d3e\u9177\u73a97C\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229900/param.shtml"}
+{"\u9177\u6d3e\u9177\u73a97\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1226/1225377/param.shtml"}
+{"\u9177\u6d3e\u9177\u73a98 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1258/1257045/param.shtml"}
+{"\u9177\u6d3e\u9177\u73a98\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249416/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1a3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1145/1144668/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1a3\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1169/1168334/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aMAX\uff08A8-831/\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1138/1137974/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aMAX\uff08A8-930/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1102/1101825/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aMAX\uff08\u5149\u8292\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1117/1116197/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aMAX\uff08\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1138/1137971/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1amini\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1140/1139252/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aN1\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1172/1171166/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aN2M\uff081GB RAM/MTS-T0/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1171/1170832/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aN2M\uff082GB RAM/MTS-T0/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1175/1174148/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aN3C\uff082GB/16GB/\u5168\u7f51\u901a)\uff09": "http://detail.zol.com.cn/1272/1271917/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aN3D\uff083GB/32GB/\u79fb\u52a84G)\uff09": "http://detail.zol.com.cn/1274/1273347/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aN3M\uff081GB/16GB/\u79fb\u52a84G)\uff09": "http://detail.zol.com.cn/1272/1271924/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aN3M\uff081GB/8GB/\u79fb\u52a84G)\uff09": "http://detail.zol.com.cn/1272/1271923/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aN3M\uff082GB/16GB/\u79fb\u52a84G)\uff09": "http://detail.zol.com.cn/1272/1271925/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aN3\uff083GB/32GB/\u79fb\u52a84G)\uff09": "http://detail.zol.com.cn/1274/1273351/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aPro2\uff08Y891/\u53cc4G\uff09": "http://detail.zol.com.cn/1174/1173188/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aPro2\uff08Y91-921/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1141/1140668/param.shtml"}
+{"\u9177\u6d3e\u950b\u5c1aPro2\uff08Y91-921/\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1140/1139257/param.shtml"}
+{"\u91d1\u7acbF106\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1165/1164318/param.shtml"}
+{"\u91d1\u7acbM6\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1150/1149415/param.shtml"}
+{"\u91d1\u7acbM7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/160/159125/param.shtml"}
+{"\u91d1\u7acbS10C\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1173/1172082/param.shtml"}
+{"\u91d1\u7acbS10\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1169/1168796/param.shtml"}
+{"\u91d1\u7acbS10\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1175/1174958/param.shtml"}
+{"\u91d1\u7acbS11S\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203884/param.shtml"}
+{"\u91d1\u7acb\u5927\u91d1\u94a22\uff08GN5007/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1184/1183611/param.shtml"}
+{"\u91d1\u7acb\u91d1\u94a22\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1164/1163087/param.shtml"}
+{"\u91d1\u7acb\u91d1\u94a23\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1204/1203890/param.shtml"}
+{"\u9524\u5b50\u79d1\u62802019\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1286/1285695/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280Smartisan T3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1224/1223847/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679c3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209757/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679cPro 2S\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227474/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679cPro 2S\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1229/1228692/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679cPro 2\u7279\u522b\u7248\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213907/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679cPro 2\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202624/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679cPro 2\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1203/1202737/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679cPro 3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208782/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679cPro\uff0864GB ROM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1167/1166591/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679cR1\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162957/param.shtml"}
+{"\u9524\u5b50\u79d1\u6280\u575a\u679cR1\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214020/param.shtml"}
+{"\u96f7\u86c7Razer Phone 2.0\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209641/param.shtml"}
+{"\u96f7\u86c7Razer Phone\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1185/1184525/param.shtml"}
+{"\u9b45\u65cf15 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204461/param.shtml"}
+{"\u9b45\u65cf15\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1205/1204460/param.shtml"}
+{"\u9b45\u65cf16 X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227742/param.shtml"}
+{"\u9b45\u65cf16s Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1248/1247477/param.shtml"}
+{"\u9b45\u65cf16s Pro\uff09": "http://detail.zol.com.cn/1283/1282678/param.shtml"}
+{"\u9b45\u65cf16s\uff088GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1241/1240998/param.shtml"}
+{"\u9b45\u65cf16s\uff088GB/256GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1270/1269632/param.shtml"}
+{"\u9b45\u65cf16th Plus\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221465/param.shtml"}
+{"\u9b45\u65cf16th Plus\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227536/param.shtml"}
+{"\u9b45\u65cf16th\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212228/param.shtml"}
+{"\u9b45\u65cf16th\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227530/param.shtml"}
+{"\u9b45\u65cf16T\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1253/1252224/param.shtml"}
+{"\u9b45\u65cf16Xs\uff086GB/128GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1278/1277577/param.shtml"}
+{"\u9b45\u65cf16Xs\uff086GB/64GB/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1274/1273502/param.shtml"}
+{"\u9b45\u65cf17\uff09": "http://detail.zol.com.cn/1273/1272204/param.shtml"}
+{"\u9b45\u65cfM15\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1209/1208115/param.shtml"}
+{"\u9b45\u65cfM16\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1227/1226481/param.shtml"}
+{"\u9b45\u65cfM809L\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213786/param.shtml"}
+{"\u9b45\u65cfM8c\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1216/1215879/param.shtml"}
+{"\u9b45\u65cfMX6\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1157/1156238/param.shtml"}
+{"\u9b45\u65cfMX7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169946/param.shtml"}
+{"\u9b45\u65cfNote8 Plus\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1241/1240386/param.shtml"}
+{"\u9b45\u65cfNote8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1235/1234558/param.shtml"}
+{"\u9b45\u65cfNote9\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1250/1249715/param.shtml"}
+{"\u9b45\u65cfNote9\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1261/1260253/param.shtml"}
+{"\u9b45\u65cfP15\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1210/1209008/param.shtml"}
+{"\u9b45\u65cfPRO 6 Plus\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1154/1153416/param.shtml"}
+{"\u9b45\u65cfPRO 6s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1155/1154728/param.shtml"}
+{"\u9b45\u65cfPRO 6\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1104/1103055/param.shtml"}
+{"\u9b45\u65cfPRO 7 Plus\uff08\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1173/1172916/param.shtml"}
+{"\u9b45\u65cfPRO 7 Plus\uff08\u81f3\u81fb\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1178/1177961/param.shtml"}
+{"\u9b45\u65cfPRO 7\uff08\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1155/1154768/param.shtml"}
+{"\u9b45\u65cfPro 8\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222803/param.shtml"}
+{"\u9b45\u65cfV8\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231938/param.shtml"}
+{"\u9b45\u65cfV8\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231888/param.shtml"}
+{"\u9b45\u65cfX8\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1222/1221071/param.shtml"}
+{"\u9b45\u65cfX8\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1232/1231930/param.shtml"}
+{"\u9b45\u65cfZero\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1254/1253163/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd Ocean\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1160/1159519/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd3s\uff08\u6807\u51c6\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1144/1143766/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd3s\uff08\u9ad8\u914d\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1144/1143969/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd5s\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1163/1162659/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd5X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1169/1168649/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd6T\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214507/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd6T\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1217/1216735/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd6\uff082GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1184/1183369/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd6\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1183/1182809/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84dd8 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229476/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddA5\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1182/1181202/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddA5\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1172/1171607/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddA6\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1215/1214339/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddE2\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1169/1168513/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddE2\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169853/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddE3\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1208/1207552/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddE3\uff08\u6b7c-20\u5b9a\u5236\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211049/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddE\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1152/1151394/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddM811Q\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212630/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddNote 3\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1157/1156068/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddNote 6\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1170/1169945/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddNote 6\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1181/1180945/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddNote 9\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1259/1258784/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddNote7\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229633/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddS6\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1206/1205816/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddS\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1167/1166841/param.shtml"}
+{"\u9b45\u65cf\u9b45\u84ddX2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1180/1179672/param.shtml"}
+{"\u9ed1\u8393DTEK50\uff08\u53cc4G\uff09": "http://detail.zol.com.cn/1152/1151203/param.shtml"}
+{"\u9ed1\u8393DTEK60\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1157/1156271/param.shtml"}
+{"\u9ed1\u8393Evolve X\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227169/param.shtml"}
+{"\u9ed1\u8393Evolve\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1228/1227168/param.shtml"}
+{"\u9ed1\u8393Ghost Pro\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1216/1215895/param.shtml"}
+{"\u9ed1\u8393Ghost\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1216/1215894/param.shtml"}
+{"\u9ed1\u8393Hamburg\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1144/1143412/param.shtml"}
+{"\u9ed1\u8393KEY Two Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1214/1213910/param.shtml"}
+{"\u9ed1\u8393KEY2 LE\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1230/1229342/param.shtml"}
+{"\u9ed1\u8393KEY2 Lite\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1213/1212622/param.shtml"}
+{"\u9ed1\u8393KEY2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1174/1173064/param.shtml"}
+{"\u9ed1\u8393KeyOne 2\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1149/1148532/param.shtml"}
+{"\u9ed1\u8393KEYone\uff083GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1149/1148517/param.shtml"}
+{"\u9ed1\u8393KEYone\uff084GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1180/1179578/param.shtml"}
+{"\u9ed1\u8393KEYone\uff084GB RAM/\u7cbe\u82f1\u7248/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1207/1206749/param.shtml"}
+{"\u9ed1\u8393Leap\uff08\u8054\u901a4G\uff09": "http://detail.zol.com.cn/398/397417/param.shtml"}
+{"\u9ed1\u8393Monet\uff08\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1277/1276458/param.shtml"}
+{"\u9ed1\u8393Motion\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1149/1148514/param.shtml"}
+{"\u9ed1\u8393Rome\uff08\u79fb\u52a84G\uff09": "http://detail.zol.com.cn/1144/1143785/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673a2 Pro\uff0812GB/128GB\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1285/1284516/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673a2 Pro\uff0812GB/256GB\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1286/1285984/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673a2\uff0812GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262672/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673a2\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1262/1261162/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673a2\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1263/1262670/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673aHelo\uff0810GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235787/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673aHelo\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1223/1222344/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673aHelo\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1236/1235786/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673a\uff086GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1211/1210725/param.shtml"}
+{"\u9ed1\u9ca8\u6e38\u620f\u624b\u673a\uff088GB RAM/\u5168\u7f51\u901a\uff09": "http://detail.zol.com.cn/1212/1211577/param.shtml"}

@@ -1,0 +1,59 @@
+{% load staticfiles %}
+<div class="header">
+    <div class="container">
+        <a href="{% url "index:index" %}">
+            <img src="{% static "images/icon/logo.png" %}" alt="logo"
+                 style="max-height:80%;margin-top: 8px;margin-bottom: 5px;float: left" height="50px">
+        </a>
+        <form class="navbar-form navbar-left" action="{% url "index:search" %}" role="search"
+              style="margin-left: 30px;margin-top: 13px">
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="Search" style="width: auto" id="search"
+                       name="keyword" value={{ keyword }}>
+            </div>
+            <button type="submit" class="btn btn-primary" id="SearchBtn">搜索情报</button>
+        </form>
+
+        <script>
+            $(function () {
+                $('#SearchBtn').click(function () {
+                    var searchcontent = $('#search').val();
+                    url = {% url "index:search" %} +'?keyword=' + searchcontent;
+                    window.location.href = url;
+                })
+            })
+        </script>
+
+        <div class="menu-btn">
+            <div class="line t-line"></div>
+            <div class="line c-line"></div>
+            <div class="line b-line"></div>
+        </div>
+        <div class="menu-display">
+            <ul>
+                <li class="on"><a href="{% url "index:index" %}">首页</a></li>
+                <li {% block title_two %}{% endblock %}><a href="{% url "phone_info:phones" %}">手机品牌</a></li>
+                <li {% block title_three %}{% endblock %}><a href="{% url "phone_videos:videos" %}">专业测评</a></li>
+                <li {% block title_four %}{% endblock %}><a href="{% url "phone_news:news" %}">机情快讯</a></li>
+                {#                    <li><a href="news.html">参数对比</a></li>#}
+                <li><a href="{% url "index:about" %}">关于</a></li>
+                <li class="dropdown" style="padding: 13px;margin-top: 5px">
+                    <a data-toggle="dropdown" href="#" style="border-radius: 5px;padding: 0">
+                        <img src="http://www.igao7.com/resWeb/home/images/member/noLogin.jpg" height="25" width="25"
+                             alt="加载失败">
+                        <span class="username">{{ user }}</span>
+                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li style="width: 100%;padding: 0"><a href="{% url "accounts:login" %}">登录</a></li>
+                        <li style="width: 100%;padding: 0"><a href="{% url "accounts:register" %}">注册</a></li>
+                        <li style="width: 100%;padding: 0"><a href="#">个人中心</a></li>
+                        <li style="width: 100%;padding: 0"><a href="{% url "accounts:password_forget" %}">忘记密码</a>
+                        </li>
+                        <li style="width: 100%;padding: 0"><a href="{% url "accounts:logout" %}">退出</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

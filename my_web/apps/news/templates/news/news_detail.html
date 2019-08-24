@@ -1,0 +1,142 @@
+{% extends "base2.html" %}
+{% load staticfiles %}
+{% block staticfile %}
+    <style type="text/css">
+        div, h3, p {
+            font-family: "微软雅黑";
+        }
+        h3 {
+            font-size: 18px;
+            color: #333333;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+
+        p {
+            font-weight: bold;
+            font-size: 14px;
+            color: #e83828;
+            line-height: 25px;
+            margin: 10px 0 40px 5px;
+        }
+
+        p .weight1 {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        img {
+            margin: 30px 0;
+        }
+
+        dl dt {
+            font-size: 14px;
+            color: #333;
+            margin: 10px 0;
+            font-weight: 700;
+        }
+
+        dl dd {
+            font-size: 14px;
+            line-height: 22px;
+            margin: 15px 0;
+        }
+
+        b {
+            display: block;
+        }
+
+        .img-responsive {
+            max-width: 100%;
+            height: auto
+        }
+
+        .center-block {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        i {
+            font-weight: bold;
+            font-style: italic;
+            margin: 0 3px;
+        }
+
+        .lph-article-comView {
+            font-size: 16px;
+            font-family: "microsoft yahei";
+            color: #5a5a5a;
+            line-height: 1.8;
+            word-break: break-all;
+            word-wrap: break-word;
+        }
+
+        .content {
+            background: #f3f3f3;
+            padding: 30px 50px 10px 50px;
+        }
+
+        .lph-article-comView p {
+            font-size: 16px;
+            line-height: 32px;
+            color: #333;
+        }
+
+        .lph-article-comView img {
+            max-width: 100%;
+            height: auto;
+            border: medium none;
+        }
+    </style>
+{% endblock %}
+{% block title %}
+{{ kwgs.news.title|truncatechars:20 }}
+{% endblock %}
+{% block title_four %}
+class="on"
+{% endblock %}
+{% block content %}
+    <div class="newsdetailcon">
+        <div class="newsdetail">
+            <p class="news_title" style=" font-size:24px;">{{ kwgs.news.title }}</p>
+            <p class="newstime">&nbsp;&nbsp;发表于：{{ kwgs.news.make_time }}&nbsp;&nbsp;&nbsp;&nbsp;文章来源：{{ kwgs.news.author }}</p>
+            <div class="ncontent">
+                {{ kwgs.news.content|safe }}</div>
+                <!--文章内容-->
+                <br/><br/>
+            </div>
+        </div>
+        <div class="news_rwrap">
+            <div class="newsrfix">
+                <p class="npages">
+                    <span class="nprepage">
+                        <a href="{% if kwgs.last %}{% url "phone_news:news_detail" kwgs.last %}{% else %}#{% endif %}">上一篇</a>
+                    </span>
+                    <span class="nbacklist">
+                        <a href="{% url "phone_news:news" %}">返回</a>
+                    </span>
+                    <span class="nnextpage">
+                        <a href="{% if kwgs.next %}{% url "phone_news:news_detail" kwgs.next %}{% else %}#{% endif %}">下一篇</a>
+                    </span>
+                </p>
+                <div class="nmorepage">
+                    <p style="margin-bottom: 15px;">相关文章</p>
+                    <ul>
+                        <li><a href="news_article.html#?colid=220&id=374" title="中瀚石林HR专业服务形象">中瀚石林HR专业服务形象</a></li>
+                        <li><a href="news_article.html#?colid=220&id=373" title="好侣互动型官网上线">好侣互动型官网上线</a></li>
+                        <li><a href="news_article.html#?colid=220&id=372" title="Pink Marry品牌官网蜕变记">Pink
+                            Marry品牌官网蜕变记</a></li>
+                        <li><a href="news_article.html#?colid=220&id=371" title="大锰矿产品牌形象专属定制">大锰矿产品牌形象专属定制</a></li>
+                        <li><a href="news_article.html#?colid=220&id=369" title="UNISTONE联石投资官网建设">UNISTONE联石投资官网建设</a>
+                        </li>
+                        <li><a href="news_article.html#?colid=220&id=368" title="敦鸿骨瓷品牌形象官网上线">敦鸿骨瓷品牌形象官网上线</a></li>
+                        <li><a href="news_article.html#?colid=220&id=367" title="济邦咨询官网改版上线">济邦咨询官网改版上线</a></li>
+                        <li><a href="news_article.html#?colid=220&id=362" title="励展展览网站定制改版上线">励展展览网站定制改版上线</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+{% endblock %}

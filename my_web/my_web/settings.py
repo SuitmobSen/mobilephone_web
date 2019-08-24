@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'haystack',
     "apps.index",
     "apps.info",
     "apps.videos",
@@ -273,3 +274,38 @@ LOGGING = {
 AUTH_USER_MODEL = 'accounts.User'
 
 FontPath = os.path.join(BASE_DIR, "static/fonts/")
+
+
+# 配置发邮件
+DEFAULT_FROM_EMAIL = '857451167@qq.com'
+# QQ邮箱SMTP服务器地址
+EMAIL_HOST = 'smtp.qq.com'
+# 发件人的邮箱
+EMAIL_HOST_USER = '857451167@qq.com'
+# 发件人邮箱密码
+EMAIL_HOST_PASSWORD = 'nnsciwspxzsvbeej'
+# tls协议，有True和False两种情况
+EMAIL_USE_TLS = True
+# 发件人的邮箱
+EMAIL_FROM = '857451167@qq.com'
+
+
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+# 单位：px
+THUMB_SIZE = 70
+if not os.path.exists(MEDIA_ROOT):
+    os.mkdir(MEDIA_ROOT)
+
+# 修改上传文件大小（Default: 2621440 (i.e. 2.5 MB).）
+DATA_UPLOAD_MAX_MEMORY_SIZE = 2621440*10
+
+# 搜索引擎
+HAYSTACK_CONNECTIONS = {
+    'default': {
+        'ENGINE': 'haystack.backends.whoosh_backend.WhooshEngine',
+        'PATH': os.path.join(os.path.dirname(__file__), 'whoosh_index'),
+    },
+}
+HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'

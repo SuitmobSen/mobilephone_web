@@ -1,0 +1,278 @@
+#page{
+    background: #F5F5F5;
+    /*margin-bottom: 10%;*/
+}
+#back{
+    border-radius: 4px;
+    padding: 10px 20px 10px 20px;
+    background-color: dodgerblue;
+    color: white;
+}
+.table tr:first-child{
+    font-size: 15px;
+    font-weight: bold;
+}
+    .table{
+        max-height: 100%;
+        width:80%;
+        border: 1px solid #ddd;
+        margin-bottom: 0;
+    }
+    .table th{
+        width: 20%;
+        /*border-right: 1px solid #ddd;*/
+        padding: 0;
+    }
+.big-pic-fl {
+    border: 1px solid #efefef;
+    /*float: right;*/
+    margin-top: 15%;
+    margin-bottom: 10px;
+    /*margin-right: -50px;*/
+}
+ .cell-con-tit {
+     margin-top: 80px;
+     padding-bottom: 10px;
+     /*margin-bottom: 100px;*/
+     /*margin-left: 200px;*/
+ }
+.cell-con-tit {
+    width: 800px;
+    float: left;
+    padding-top: 16px;
+}
+.pro-part-tit {
+    font-size: 30px;
+    margin-top: 12px;
+    padding-bottom: 5px;
+    height: 62px;
+    line-height: 55px;
+    border-bottom: 1px solid darkgrey;
+    position: relative;
+    font-weight: bold;
+}
+.pro-part-tit a{
+        color: #1b1a1a;
+    text-decoration: none;
+}
+.cell-price p {
+    display: inline-block;
+    float: left;
+}
+ .cell-price p.p-left {
+    width: 250px;
+    clear: both;
+}
+.cell-price {
+    float: left;
+    line-height: 34px;
+    padding-top: 12px;
+    font-size: 16px;
+}
+.cell-price-stars-po {
+    font-size: 16px;
+    color: #3e3e3e;
+}
+.cell-price-stars-po .pro-comm-stars-icon {
+    height: 15px;
+}
+
+.cell-price-stars-po .pro-comm-stars-icon {
+    background: url(//statict.cnmo-img.com.cn/origin/mainpage/product/images/c_pro_stars1.png) no-repeat;
+    background-size: 92px 32px;
+}
+.cell-price-stars-po .pro-comm-stars {
+    display: inline-block;
+    width: 94px;
+    background-position: 0 -17px;
+    margin-right: 5px;
+}
+ .cell-price-stars-po .red {
+    margin-right: 0;
+    font-size: 16px;
+}
+.pro-comm-stars span {
+    display: block;}
+.cell_phone_param {
+    float: left;
+    clear: both;
+    width: 812px;
+    padding-top: 10px;
+    margin-left: -10px;
+}
+.cell_phone_param li {
+    width: 395px;
+    height: 109px;
+    background: #f9fbff;
+    border: 1px solid #e0eafa;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 20px 10px 20px 30px;
+    float: left;
+    position: relative;
+}
+.cell_phone_param_img {
+    width: 55px;
+    height: 59px;
+    float: left;
+    margin-right: 24px;
+}
+.pro-part-more {
+    height: 40px;
+    width: 100%;
+    line-height: 40px;
+    text-align: center;
+    background: dodgerblue;
+    clear: both;
+    display: block;
+    margin-bottom: 5px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.pro-part-more:hover{
+    color: #e83828;
+}
+#shop a{
+    text-decoration: none;
+}
+#jd{
+    background-color: #e83828;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-left: 60px;
+}
+#office{
+    background-color: #e83828;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-left: 80px;
+}
+ .pro-right {
+    margin-top: 30px;
+     float: left;
+     margin-left: 6%;
+    width: 240px;
+     margin-bottom: 40px;
+}
+.pro-ranking {
+    width: 340px;
+    padding-top: 15px;
+}
+.pro-ranking h2{
+    color: #e83828;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    border-bottom: 2px #333 solid;
+    font-style: italic;
+}
+.rank-tit {
+    width: 100%;
+    background: #337ab7;
+    height: 40px;
+    line-height: 40px;
+    color: #666;
+    font-size: 12px;
+    border-top: 1px solid #dddddd;
+    margin-top: -1px;
+}
+ .pro-rank-num {
+     font-size: 14px;
+     font-weight: bold;
+}
+ .pro-rank-name {
+          font-size: 14px;
+     font-weight: bold;
+    margin-left: 30px;
+}
+ .pro-rank-money{
+          font-size: 14px;
+     font-weight: bold;
+     float: right;
+ }
+ ul .pro-rank-money {
+    float: right;
+     color: #eb2e2e;
+}
+.pro-ranking ul li {
+    width: 100%;
+    height: 44px;
+    line-height: 24px;
+    overflow: hidden;
+}
+.pro-ranking ul li a {
+    display: table;
+    width: 100%;
+}
+ul .pro-rank-name {
+    color: #0c0c0c;
+    /*float: left;*/
+    margin-left: 25px;
+    width: 130px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+ul li .cell_phone_param_tit{
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+.left-news {
+    display: inline-block;
+    border-top: 1px solid darkgrey;
+    margin-top: 10px;
+    padding-top: 18px;
+    margin-bottom: 30px;
+}
+.left-news .libox {
+    float: left;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-bottom: 1px solid lightgrey;
+}
+.left-news .libox .imgbox, .left-news .libox .imgbox img {
+    float: left;
+    width: 250px;
+    height: 175px;
+}
+.left-news .libox .txtbox {
+    position: relative;
+    /*display: inline-block;*/
+    height: 175px;
+    width: 550px;
+    float: left;
+}
+.left-news .libox .imgbox a {
+    width: 280px;
+    height: 175px;
+    display: block;
+    position: relative;
+}
+.txtbox a{
+    color: #1b1a1a;
+    text-decoration: none;
+}
+.txtbox a h2{
+    margin-left: 15px;
+    padding-top: 0;
+    line-height: 48px;
+    font-size: 22px;
+    color: #272727;
+    font-weight: bold;
+}
+.txtbox a p{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+    line-height: 2;
+    font-size: 16px;
+    color: #666666;
+}

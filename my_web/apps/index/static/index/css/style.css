@@ -1,20 +1,20 @@
 /*全局样式*/
 body{width: 100%;overflow-x:hidden;}
 .wraper{width:100%;max-width:1227px;margin:0 auto;}
-.gray-section{background:#F5F5F5;padding:36px 0px;margin-top: 36px;}
+.gray-section{background:#F5F5F5;padding:36px 0px;margin-top: 0;}
 .clear_top::before{content: '';display: block;clear: both;}
 .clear_bottom::after{content: '';display: block;clear: both;}
 /*模块样式设定*/
 	/*网格模块*/
 .m-box:after{display: block;content:'';clear:both;}
 .m-box.line2 .m-cols{height:100%;}
-.m-box.line2{height: 615px;}
+/*.m-box.line2{height: 615px;}*/
 .m-box.line2 .row{padding:0px;}
 .m-box.line2 .main-pic{height:100%;}
 .m-box .row.row_half{height:23.5%;background: #fff;}
 .m-box .row img{width:160px;height: 160px;margin:0px auto;display: block;}
 .m-box .row{background: #fff;margin-top:5%;height:49%;}
-.m-box .row:first-child{margin-top:0%;}
+.m-box .row:first-child{margin-top:5%;}
 .m-box .row{background: #fff;}
  
 /*------------------------------------------------------------------------------*/
@@ -131,8 +131,8 @@ body{width: 100%;overflow-x:hidden;}
 .rect6::before{left:33.3333%;top:50%;}
 .rect6::after{left:66.66666%;top:50%;}
 .rect6 .item{width:33.3333%;height:50%;outline:solid #665E57 1px;text-align: center;font-size: 14px;float: left;}
-.site-adv img{display: block;width:100%;height: 100%;transition:all .3s;}
-.site-adv img:hover{transform-origin:center center;box-shadow:0 15px 20px rgba(0,0,0,0.1);}
+.site-adv img{display: block;width:100%;height: 100%;transition:all .3s;border: #F3F3F3 solid 2px;}
+.site-adv img:hover{transform-origin:center center;box-shadow:0 15px 20px rgba(0,0,0,0.4);}
 
 /*------------------------------------------------------------------------------*/
 /*小米单品样式设定*/
@@ -344,6 +344,7 @@ body{width: 100%;overflow-x:hidden;}
 /*视频样式设定*/
 #video img{width:100%;height: auto;position: relative;display: block;}
 #video .video{position: relative;cursor: pointer;}
+#video .video span{position: absolute;right: 0;bottom: 0;background: rgba(0,0,0,.5);color: white; font-size: 14px}
 #video .video:after{content: "►";font-family:"Times New Roman";color:#fff;display: block;position: absolute;left:20px;bottom:10px;width:32px;height:20px;line-height:20px;text-align:center;border:solid #fff 2px;border-radius:20px;cursor: pointer;}
 #video .video:hover:after{background-color:#FF6700;border-color:#FF6700;}
 .mi-video .m-box{overflow: visible;}
@@ -356,6 +357,7 @@ body{width: 100%;overflow-x:hidden;}
 .mi-video .content{padding-top:30px}
 .mi-video .name{height:26px;}
 .mi-video .desc{color:#b0b0b0;}
+
 	/*视频播放遮罩层样式设定*/
 .mi-video .video-mask{position: fixed;left: 0;top: 0;width: 100%;height: 100%;background:rgba(0,0,0,.5);z-index: 10;}
 .mi-video .video-mask video{position: absolute;left: 0;top: 0;right:0;bottom:0;margin:auto;}

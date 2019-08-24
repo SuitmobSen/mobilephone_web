@@ -1,0 +1,44 @@
+<a href="{% url "phone_info:phone_detail" phone.brand.id phone.id %}"><span id="back">返回</span></a>
+<h2 class="pro-part-tit">
+    <b><a href="#">{{ phone.model }}</a></b>
+</h2>
+{% for key, value in kwgs.items %}
+    {% if value != "null" and value %}
+        <div id="table">
+        <table class="table table-hover">
+            <tbody>
+            <tr style="background-color: cornflowerblue; color: white">
+                <td class="hd" colspan="2">
+                    {% if key == "basic" %}
+                        基本参数
+                    {% elif key == "screen" %}
+                        屏幕
+                    {% elif key == "hardware" %}
+                        硬件
+                    {% elif key == "net" %}
+                        网络与连接
+                    {% elif key == "camera" %}
+                        摄像头
+                    {% elif key == "appearance" %}
+                        外观
+                    {% elif key == "func" %}
+                        功能与服务
+                    {% elif key == "pack" %}
+                        手机配件
+                    {% elif key == "protect" %}
+                        保修信息
+                    {% endif %}
+                </td>
+            </tr>
+            {% for i, j in value.items %}
+                <tr>
+                    <th><span id="newPmName_0">{{ i }}</span></th>
+                    <td class="hover-edit-param "><span id="newPmVal_0">{{ j }}</span>
+                    </td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    {% endif %}
+{% endfor %}
+</div>

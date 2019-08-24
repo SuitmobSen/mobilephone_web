@@ -1,0 +1,71 @@
+<div class="gray-section">
+    <section class="wraper mi-hard clear_bottom" id="hard">
+        <div class="searchNav clr">
+            <div class="searchNav-type">
+                <a href="?keyword={{ keyword }}&type=phone" id="phone" class="">全部手机</a>
+                <a href="?keyword={{ keyword }}&type=video" id="video" class="">测评视频</a>
+                <a href="?keyword={{ keyword }}&type=news" id="news" class="active">机情快讯</a>
+            </div>
+            <div class="searResult-nums">
+                共 {% if news == "暂无搜索结果" %}0{% else %}{{ news.paginator.count }}{% endif %} 个结果
+            </div>
+        </div>
+        {% if news == "暂无搜索结果" %}
+            <div style="height: 200px;text-align: center;background: white;margin: 1% auto 5%">
+                <p style="padding-top: 80px;font-weight: bold;font-size: 20px">暂无搜索结果</p>
+            </div>
+        {% else %}
+            <div class="newslist" style="margin: 1% 5%;">
+                {% for new in news %}
+                    <div class="news_li"><img src="{{ new.pic }}">
+                        <a href="{% url "phone_news:news_detail" new.id %}" target="_blank" class="news_txt"
+                           title="{{ new.title }}">
+                            <span>{{ new.title }}</span>
+                            <p>{{ new.description }}</p>
+                            <h5>{{ new.make_time }}</h5>
+                        </a></div>
+                {% endfor %}
+                <div class="clear"></div>
+                <div id="pages" class="text-center">
+                    <nav aria-label="Page navigation">
+                        <ul class="pagination pagination-lg" id="page">
+                            {% if news.has_previous %}
+                                <li><a href="?keyword={{ keyword }}&type=news&page={{ news.previous_page_number }}"
+                                       aria-label="Previous"><span
+                                        aria-hidden="true">上一页</span></a></li>
+                            {% else %}
+                                <li class="disabled"><span aria-hidden="true">上一页</span></li>
+                            {% endif %}
+                            {% for page in pagerange %}
+                                <li {% if page == news.number %}class="active"{% endif %}>
+                                    <a href="?keyword={{ keyword }}&type=news&page={{ page }}">{{ page }}
+                                        <span class="sr-only">(current)</span>
+                                    </a>
+                                </li>
+                            {% endfor %}
+                            {% if news.has_next %}
+                                <li>
+                                    <a href="?keyword={{ keyword }}&type=news&page={{ news.next_page_number }}"
+                                       aria-label="Next">
+                                        <span aria-hidden="true">下一页</span>
+                                    </a>
+                                </li>
+                            {% else %}
+                                <li class="disabled">
+                                    <span aria-hidden="true">下一页</span>
+                                </li>
+                            {% endif %}
+                        </ul>
+                    </nav>
+                </div>
+                <div class="text-center" style="font-size:15px">
+                    <p>
+                        共有 {{ news.paginator.count }} 条快讯,
+                        当前为第 {{ news.number }} 页,
+                        共 {{ news.paginator.num_pages }} 页
+                    </p>
+                </div>
+            </div>
+        {% endif %}
+    </section>
+</div>

@@ -36,3 +36,4 @@ def check_captcha(request):
     else:
         print(ret["msg"])
     return JsonResponse(ret)
+
