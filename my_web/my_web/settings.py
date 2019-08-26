@@ -124,12 +124,12 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
-STATIC_URL = '/static/'
+STATIC_URL = '/allstatic/'
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
 ]
-
+STATIC_ROOT = os.path.join(BASE_DIR, "allstatic")
 
 # 配置日志
 LOG_ROOT = os.path.join(BASE_DIR, 'logs')
@@ -302,5 +302,19 @@ if not os.path.exists(MEDIA_ROOT):
 DATA_UPLOAD_MAX_MEMORY_SIZE = 2621440*10
 
 
-
-STATIC_ROOT = os.path.join(BASE_DIR, "static_file")
+env = os.environ.get('ENV', None)
+if env == 'prod':
+    # from  settings_prod import *
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': os.path.join(BASE_DIR, 'db_prod.sqlite3'),
+        }
+    }
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        }
+    }
