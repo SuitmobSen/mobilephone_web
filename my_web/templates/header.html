@@ -5,6 +5,7 @@
             <img src="{% static "images/icon/logo.png" %}" alt="logo"
                  style="max-height:80%;margin-top: 8px;margin-bottom: 5px;float: left" height="50px">
         </a>
+         <div class="inline-block">
         <form class="navbar-form navbar-left" action="{% url "index:search" %}" role="search" style="height: 100%;margin-top: 0">
             <div class="form-group" style="width: 100%;position: relative;left: 8%;top: 10px">
                 <input type="search" class="form-control" placeholder="Search" style="float: left;width: auto;border-radius: 5px 0 0 5px" id="search"
@@ -12,6 +13,7 @@
             <button type="submit" class="btn btn-primary" id="SearchBtn" style="float:left;width: auto;border-radius: 0 5px 5px 0">搜索情报</button>
             </div>
         </form>
+        </div>
         <script>
             $(function () {
 

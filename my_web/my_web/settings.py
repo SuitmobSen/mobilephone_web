@@ -301,11 +301,3 @@ if not os.path.exists(MEDIA_ROOT):
 # 修改上传文件大小（Default: 2621440 (i.e. 2.5 MB).）
 DATA_UPLOAD_MAX_MEMORY_SIZE = 2621440*10
 
-# 搜索引擎
-HAYSTACK_CONNECTIONS = {
-    'default': {
-        'ENGINE': 'haystack.backends.whoosh_backend.WhooshEngine',
-        'PATH': os.path.join(os.path.dirname(__file__), 'whoosh_index'),
-    },
-}
-HAYSTACK_SIGNAL_PROCESSOR = 'haystack.signals.RealtimeSignalProcessor'

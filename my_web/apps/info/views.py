@@ -22,7 +22,7 @@ def phone_detail(request, id, phoneid):
     size = json.loads(param.appearance).get('手机尺寸', None)
     weight = json.loads(param.appearance).get('手机重量', None)
     news = NewsList.objects.filter(content__icontains=phone.model.split(" ")[0][:2]).order_by("-make_time")[:10]
-    rank = PhoneModel.objects.filter(hot_rank__isnull=False).order_by("hot_rank")[:20]
+    rank = PhoneModel.objects.filter(hot_rank__isnull=False).order_by("hot_rank")[:30]
     kwgs = {
         "os": sys_os,
         "product_date": product_date,
