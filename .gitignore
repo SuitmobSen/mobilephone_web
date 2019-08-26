@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+﻿# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -106,4 +106,3 @@ venv.bak/
 #忽略的文件
 .idea/
 venv/
-*.sqlite
