@@ -25,7 +25,7 @@ SECRET_KEY = '0wu##1*rfka6bxs4nafzi*uzb6tn(=df=blg)gk_cgm^v-l9na'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*", ]
 
 
 # Application definition
@@ -301,3 +301,6 @@ if not os.path.exists(MEDIA_ROOT):
 # 修改上传文件大小（Default: 2621440 (i.e. 2.5 MB).）
 DATA_UPLOAD_MAX_MEMORY_SIZE = 2621440*10
 
+
+
+STATIC_ROOT = os.path.join(BASE_DIR, "static_file")
