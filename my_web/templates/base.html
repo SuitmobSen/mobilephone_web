@@ -52,7 +52,22 @@
             <li><a href="{% url "phone_news:news" %}">机情快讯</a></li>
 {#            <li><a href="news.html">参数对比</a></li>#}
             <li><a href="{% url "index:about" %}">关于我们</a></li>
-            <li><a href="{% url "accounts:login" %}" target="_blank">登录</a></li>
+                        <li style="padding: 8px;margin-left: 15px">
+                <a href="{% url "accounts:profile" %}" style="padding: 0">
+                    <img src="{% if not user.is_authenticated %}{% static "images/noLogin.jpg" %}
+                               {% else %}{{ user.avator_sm.url }}{% endif %}" height="25" width="25"
+                         alt="加载失败">
+                    <span class="username">{% if not user.is_authenticated %}{% else %}{{ user }}{% endif %}</span>
+                </a>
+            </li>
+            {% if not user.is_authenticated %}
+                <li><a href="{% url "accounts:login" %}">登录</a></li>
+                <li><a href="{% url "accounts:register" %}">注册</a></li>
+            {% else %}
+                <li><a href="{% url "accounts:profile" %}">个人中心</a></li>
+                <li><a href="{% url "accounts:change_passwd" %}">修改密码</a></li>
+                <li><a href="{% url "accounts:logout" %}">退出</a></li>
+            {% endif %}
         </ul>
     </div>
 </div>
@@ -66,12 +81,13 @@
                      style="max-height:80%;margin-top: 8px;margin-bottom: 5px;float: left" height="50px">
             </a>
         <div class="inline-block">
-            <form class="navbar-form navbar-left" action="{% url "index:search" %}" role="search" style="margin-left: 50px;margin-top: 15px;">
-                <div class="form-group">
-                <input type="text" class="form-control" placeholder="Search" style="width: auto" id="search" name="keyword" value={{ keyword }}>
-                </div>
-                <button type="submit" class="btn btn-primary" id="SearchBtn">搜索情报</button>
-            </form>
+        <form class="navbar-form navbar-left" action="{% url "index:search" %}" role="search" style="height: 100%;margin-top: 0">
+            <div class="form-group" style="width: 100%;position: relative;left: 8%;top: 10px">
+                <input type="search" class="form-control" placeholder="Search" style="float: left;width: auto;border-radius: 5px 0 0 5px" id="search"
+                       name="keyword" value={{ keyword }}>
+            <button type="submit" class="btn btn-primary" id="SearchBtn" style="float:left;width: auto;border-radius: 0 5px 5px 0">搜索情报</button>
+            </div>
+        </form>
         </div>
             <script>
                 $(function () {
@@ -96,7 +112,25 @@
                     <li {% block title_four %} {% endblock %}><a href="{% url "phone_news:news" %}">机情快讯</a></li>
 {#                    <li {% block title_five %} {% endblock %}><a href="news.html">参数对比</a></li>#}
                     <li {% block title_six %} {% endblock %}><a href="{% url "index:about" %}">关于</a></li>
-                    <li {% block title_seven %} {% endblock %}><a href="{% url "accounts:login" %}" target="_blank">登录</a></li>
+                                    <li class="dropdown" style="padding: 10px;margin-top: 3px">
+                    <a data-toggle="dropdown" href="#" style="border-radius: 5px;padding: 0">
+                        <img src="{% if not user.is_authenticated %}{% static "images/noLogin.jpg" %}
+                                   {% else %}{{ user.avator_sm.url }}{% endif %}" height="35" width="35"
+                             alt="加载失败">
+                        <span class="username">{% if not user.is_authenticated %}{% else %}{{ user }}{% endif %}</span>
+                        <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                        {% if not user.is_authenticated %}
+                            <li style="width: 100%;padding: 0"><a href="{% url "accounts:login" %}">登录</a></li>
+                            <li style="width: 100%;padding: 0"><a href="{% url "accounts:register" %}">注册</a></li>
+                        {% else %}
+                            <li style="width: 100%;padding: 0"><a href="{% url "accounts:profile" %}">个人中心</a></li>
+                            <li style="width: 100%;padding: 0"><a href="{% url "accounts:change_passwd" %}">修改密码</a></li>
+                            <li style="width: 100%;padding: 0"><a href="{% url "accounts:logout" %}">退出</a></li>
+                        {% endif %}
+                    </ul>
+                </li>
                 </ul>
             </div>
         </div>

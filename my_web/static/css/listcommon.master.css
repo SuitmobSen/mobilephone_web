@@ -435,7 +435,7 @@ a.case_moreline:hover {
     width: 316px;
     height: 160px;
     float: left;
-    background-color: cornflowerblue;
+    background-color: #337ab7;
     padding: 20px 20px 0px 20px
 }
 
@@ -469,7 +469,7 @@ a.case_moreline:hover {
 
 .newslist .news_txt span {
     font-size: 14px;
-    color: #222;
+    color: white;
     font-weight: bold;
 }
 
@@ -480,12 +480,12 @@ a.case_moreline:hover {
 .newslist .news_txt p {
     line-height: 20px;
     padding-top: 20px;
-    color: #222;
+    color: white;
 }
 
 .newslist .news_txt h5 {
     font-size: 12px;
-    color: #222;
+    color: white;
     padding-top: 30px
 }
 
@@ -598,9 +598,9 @@ a.case_moreline:hover {
 .newsrfix {
     background-color: #F9F9F9;
     z-index: 888;
-    width: 280px;
+    width: 290px;
     padding: 30px 23px 20px 30px;
-    height: 485px
+    height: 500px
 }
 
 @media only all and (max-width: 1024px) {
@@ -680,7 +680,9 @@ a.case_moreline:hover {
 .news_rwrap .nmorepage li {
     padding-left: 18px;
     background: url(../images/nmorepagetags.png) no-repeat left center;
-    line-height: 27px
+    line-height: 27px;
+    margin-bottom: 12px;
+
 }
 
 .news_rwrap .nmorepage li:hover {

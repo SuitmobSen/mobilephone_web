@@ -126,17 +126,16 @@ if __name__ == "__main__":
     flag = False
     for item in data:
         print(item)
-        # for phone in item:
-        #     print(phone)
-        #     if phone == "诺基亚2.1（全网通）":
-        #         flag = True
-        #         break
-        #     if flag:
-        #         print(f"正在爬取{phone}：{item[phone]}")
-        #         header, proxy = set_conf()
-        #         html = get_html(item[phone], header, proxy)
-        #         brand, params, basic = get_param(html)
-        #         save_data(params, basic, phone, brand)
-        # if flag:    # exit(0)
-        #     time.sleep(5)
-
+        for phone in item:
+            print(phone)
+            if phone == "诺基亚2.1（全网通）":
+                flag = True
+                break
+            if flag:
+                print(f"正在爬取{phone}：{item[phone]}")
+                header, proxy = set_conf()
+                html = get_html(item[phone], header, proxy)
+                brand, params, basic = get_param(html)
+                save_data(params, basic, phone, brand)
+        if flag:    # exit(0)
+            time.sleep(5)

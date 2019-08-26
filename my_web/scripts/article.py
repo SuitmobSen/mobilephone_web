@@ -63,8 +63,9 @@ def save_data(url, title, pic, desc):
     print(desc)
     print("="*100)
     author = NewsAuthor.objects.get_or_create(name="爱搞机")
-    news = NewsList.objects.get_or_create(url=url, title=title, pic=pic, description=desc, author_id=author[0].id)
-    news[0].save()
+    if title not in NewsList.objects.all():
+        news = NewsList.objects.get_or_create(url=url, title=title, pic=pic, description=desc, author_id=author[0].id)
+        news[0].save()
 
 
 if __name__ == "__main__":

@@ -13,13 +13,13 @@ class="on"
 {% endblock %}
 {% block content %}
 <div class="plistContent">
-    <p class="plTitle4 pc plTitle4C"><img src="{% static "info/images/samsung_Note10TTM.jpg" %}" alt="客户案例_网站建设"></p>
+    <div><img src="{% static "info/images/samsung_Note10TTM.jpg" %}" alt="加载失败" style="width: 100%"></div>
     <section id="adv" class="wraper site-adv m-box clear_bottom">
 		<div class="span16">
 			<ul class="m-cols m-col-4">
                 {% for pic in all_pic %}
 				<li class="col">
-                    <a href="{% url "phone_info:phone_list" pic.id %}" target="_blank">
+                    <a href="{% url "phone_info:phone_list" pic.id %}" target="_blank" title="{{ pic.name }}">
                     <img src="{% static "" %}{{ pic.pic_path }}">
                     </a>
                 </li>

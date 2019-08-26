@@ -11,8 +11,8 @@ import os
 class User(AbstractUser):
     mobile = models.CharField(max_length=11, verbose_name="手机号", unique=True)
     qq = models.CharField(max_length=12, verbose_name="QQ号")
-    avator_sor = models.ImageField(upload_to="avator/%Y%m%d/", default="avator/default.jpg", verbose_name="头像")
-    avator_sm = models.ImageField("头像缩略图", upload_to="avator/%Y%m%d/", default='avator/default.70x70.jpg')
+    avator_sor = models.ImageField(upload_to="avator/%Y%m%d/", default="avator/20190816/default.jpg", verbose_name="头像")
+    avator_sm = models.ImageField("头像缩略图", upload_to="avator/%Y%m%d/", default='avator/20190816/default.jpg')
 
     class Meta:
         verbose_name = "用户表"

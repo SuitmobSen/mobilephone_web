@@ -69,7 +69,7 @@ class="on"
         <ul class="m-cols m-col-5">
             {% for phone in contacts %}
                 <li class="col">
-                    <a href="{{ phone.id }}" target="_blank">
+                    <a href="{{ phone.id }}" target="_blank" title="{{ phone.model }} {{ phone.description }}">
                         <div class="row">
                             <dl>
                                 <dt><img src="/media/{{ phone.img }}" style="width: 220px;"></dt>

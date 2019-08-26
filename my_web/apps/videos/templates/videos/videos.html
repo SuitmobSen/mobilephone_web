@@ -56,7 +56,7 @@ class="on"
                                 <li class="col" style="margin-left: 0">
                                     <div class="row" style="margin: 10px">
                                         <div class="video">
-                                            <a href="{% url "phone_videos:video_play" contact.aid %}" target="_blank">
+                                            <a href="{% url "phone_videos:video_play" contact.aid %}" target="_blank" title="{{ contact.title }}">
                                                 <label class="play-btn" for="video-switch"></label>
                                                 <img src="/media/{{ contact.img }}">
                                                 <span>{{ contact.duration }}</span>

@@ -16,18 +16,32 @@ def phones(request):
 def phone_detail(request, id, phoneid):
     phone = PhoneModel.objects.get(id=phoneid)
     b_params = BasicParams.objects.get(id=phone.params_id)
+    param = Params.objects.get(id=phone.params_id)
+    sys_os = json.loads(param.basic).get('出厂系统内核', None)
+    product_date = json.loads(param.basic).get('上市日期', None)
+    size = json.loads(param.appearance).get('手机尺寸', None)
+    weight = json.loads(param.appearance).get('手机重量', None)
     news = NewsList.objects.filter(content__icontains=phone.model.split(" ")[0][:2]).order_by("-make_time")[:10]
+    rank = PhoneModel.objects.filter(hot_rank__isnull=False).order_by("hot_rank")[:20]
+    kwgs = {
+        "os": sys_os,
+        "product_date": product_date,
+        "size": size,
+        "weight": weight,
+        "rank": rank,
+    }
+    # 热门手机排行榜
     # print(phone.model.split(" ")[0][:2])
     # print(news)
     # print(news.count())
     if news.count() < 3:
         news = NewsList.objects.all().order_by("-make_time")[:10]
-    return render(request, "info/phone_detail.html", {"phone": phone, "b_params": b_params, "news":news})
+    return render(request, "info/phone_detail.html", {"phone": phone, "b_params": b_params, "news": news, "kwgs": kwgs})
 
 
 def phone_list(request, id):
     brand = Phone.objects.get(id=id).name
-    phones = PhoneModel.objects.filter(brand_id=id).order_by("-score_id")
+    phones = PhoneModel.objects.filter(brand_id=id).order_by("-product_date")
     paginator = Paginator(phones, 20)  # Show 25 contacts per page
     page = request.GET.get('page')
     try:

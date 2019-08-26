@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="{% static "css/animate.min.css" %}"/>
     <link rel="stylesheet" href="{% static "css/common.css" %}" type="text/css"/>
     <link rel="stylesheet" href="{% static "css/master.index.css" %}" type="text/css"/>
+    <link rel="stylesheet" href="{% static "css/listcommon.master.css" %}">
     <script src="{% static "js/jquery-1.10.2.min.js" %}" type="text/javascript"></script>
     <script src="{% static "js/slick.min.js" %}"></script>
     <script src="{% static "js/scrollReveal.js" %}"></script>
@@ -36,7 +37,22 @@
             <li><a href="{% url "phone_news:news" %}">机情快讯</a></li>
             {#            <li><a href="news.html">参数对比</a></li>#}
             <li><a href="{% url "index:about" %}">关于</a></li>
-            <li><a href="{% url "accounts:login" %}" target="_blank">登录</a></li>
+            <li style="padding: 8px;margin-left: 15px">
+                <a href="{% url "accounts:profile" %}" style="padding: 0">
+                    <img src="{% if not user.is_authenticated %}{% static "images/noLogin.jpg" %}
+                               {% else %}{{ user.avator_sm.url }}{% endif %}" height="25" width="25"
+                         alt="加载失败">
+                    <span class="username">{% if not user.is_authenticated %}{% else %}{{ user }}{% endif %}</span>
+                </a>
+            </li>
+            {% if not user.is_authenticated %}
+                <li><a href="{% url "accounts:login" %}">登录</a></li>
+                <li><a href="{% url "accounts:register" %}">注册</a></li>
+            {% else %}
+                <li><a href="{% url "accounts:profile" %}">个人中心</a></li>
+                <li><a href="{% url "accounts:change_passwd" %}">修改密码</a></li>
+                <li><a href="{% url "accounts:logout" %}">退出</a></li>
+            {% endif %}
         </ul>
     </div>
 </div>
@@ -299,7 +315,7 @@
                                     <li class="col" style="margin-left: 0; ">
                                         <div id="video_li" class="row" style="margin: 15px">
                                             <div class="video">
-                                                <a href="{% url "phone_videos:video_play" video.aid %}" target="_blank">
+                                                <a href="{% url "phone_videos:video_play" video.aid %}" target="_blank" title="{{ video.title }}">
                                                     <label class="play-btn" for="video-switch">
                                                     </label>
                                                     <img src="/media/{{ video.img }}">
@@ -334,49 +350,17 @@
                         </div>
                     </div>
                 </div>
-
-                <div class="home-news">
-                    {% for news in new_news %}
-                        {% if forloop.counter|divisibleby:2 %}
-                            <div class="home-news-wrap">
-                                <!-- 1-->
-                                <div class="home-news-items"
-                                     data-scroll-reveal="enter bottom over 1s and move 50px after 0s">
-                                    <div class="news-list"><a class="clearfix"
-                                                              href="{% url "phone_news:news_detail" news.id %}">
-                                        <div class="pic"><img style="width:130px;height:130px;"
-                                                              src="{{ news.pic }}"
-                                                              alt="{{ news.title }}"></div>
-                                        <div class="news-intro">
-                                            <h2>{{ news.title|truncatechars:25 }}</h2>
-                                            <p class="info">{{ news.description }}</p>
-                                            <p class="time">{{ news.make_time }}</p>
-                                        </div>
-                                    </a>
-                                    </div>
-                                </div>
-                            </div>
-                        {% else %}
-                            <div class="home-news-wrap2">
-                                <!-- 2 -->
-                                <div class="home-news-items"
-                                     data-scroll-reveal="enter bottom over 1s and move 50px after 0s">
-                                    <div class="news-list"><a class="clearfix"
-                                                              href="{% url "phone_news:news_detail" news.id %}">
-                                        <div class="pic"><img style="width:130px;height:130px;"
-                                                              src="{{ news.pic }}"
-                                                              alt="{{ news.title }}"></div>
-                                        <div class="news-intro">
-                                            <h2>{{ news.title|truncatechars:25 }}</h2>
-                                            <p class="info">{{ news.description }}</p>
-                                            <p class="time">{{ news.make_time }}</p>
-                                        </div>
-                                    </a>
-                                    </div>
-                                </div>
-                            </div>
-                        {% endif %}
+                <div class="newslist" style="padding-top: 20px;margin-left: 13%" data-scroll-reveal="enter bottom over 1s and move 50px after 0s">
+                    {% for new in new_news %}
+                        <div class="news_li" style="margin: 0 10px 40px 20px"><img src="{{ new.pic }}">
+                            <a href="{% url "phone_news:news_detail" new.id %}" target="_blank" class="news_txt"
+                               title="{{ new.title }}">
+                                <span>{{ new.title }}</span>
+                                <p>{{ new.description }}</p>
+                                <h5>{{ new.make_time }}</h5>
+                            </a></div>
                     {% endfor %}
+                    <div class="clear"></div>
                 </div>
             </div>
         </div>

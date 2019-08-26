@@ -1653,7 +1653,7 @@ body {
 .case-item-inner .case-image {
     position: relative;
     overflow: hidden;
-    border: #f3f3f3 solid 1px;
+    border: lightgrey solid 1px;
 }
 
 .case-item-inner .case-image a {

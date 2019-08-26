@@ -7,6 +7,7 @@ from django.db import models
 class Phone(models.Model):
     name = models.CharField("品牌名称", max_length=10)
     pic_path = models.CharField("品牌logo图", max_length=100, default="info/images/brand/default.jpg")
+    office_url = models.CharField("官方网站", max_length=100, null=True)
 
     class Meta:
         verbose_name = "手机品牌表"
@@ -75,7 +76,9 @@ class Comment(models.Model):
 class PhoneModel(models.Model):
     brand = models.ForeignKey(Phone, verbose_name="所属品牌")
     model = models.CharField("手机型号", max_length=50)
+    product_date = models.DateField("上市日期", null=True, blank=True)
     price = models.CharField("ZOL报价", max_length=10, default="暂无报价")
+    hot_rank = models.IntegerField("热门排行榜", null=True, blank=True)
     jd_url = models.CharField("京东入口", max_length=100, default="https://www.jd.com")
     jd_price = models.CharField("京东报价", max_length=10, default="暂无报价")
     jd_goodrate = models.CharField("京东好评率", max_length=10, default="暂无数据")

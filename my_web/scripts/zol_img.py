@@ -31,7 +31,7 @@ def set_conf():
         # {"http": "117.191.11.105:80"},
         # {"http": "117.191.11.76:80"},
         {"http": "39.137.69.8:8080"},
-        {"http": "112.84.178.21:8888"},
+        # {"http": "112.84.178.21:8888"},
     ]
     header = random.choice(header_list)
     proxy = random.choice(proxy_ip)
@@ -53,11 +53,11 @@ def get_html(url, header, proxy):
     # respoonse.encoding = "utf-8"
     html = respoonse.text
     soup = BeautifulSoup(html, 'lxml')
-    result = soup.select('.big-pic-fl > img')
+    result = soup.select('.big-pic-fl')
     if result:
-        img_url = result[0]["src"]
+        img_url = result[0].img["src"]
     else:
-        result = soup.select('.goods-card__pic > a')
+        result = soup.select('.goods-card__pic')
         img_url = result[0].img["src"]
     print(img_url)
     return img_url
@@ -83,24 +83,31 @@ def save_data(filename, phone):
 
 
 if __name__ == "__main__":
-    filename = "参数url.txt"
-    data = get_data(filename)
-    i = 0
-    for item in data:
-        # print(item)
-        for phone in item:
-            if "（" not in phone and phone[-1] == "）":
-                model = phone.split("）")[0]
-            else:
-                model = phone
-            if PhoneModel.objects.get(model=model).bimg == "phone_img/default.jpg":
-                print(phone, item[phone])
-                try:
-                    header, proxy = set_conf()
-                    img_url = get_html(item[phone], header, proxy)
-                    header, proxy = set_conf()
-                    filename = get_img(img_url, header, proxy)
-                    save_data(filename, phone)
-                except Exception as ex:
-                    print(ex)
-                time.sleep(3)
+    # filename = "参数url.txt"
+    # data = get_data(filename)
+    # i = 0
+    # for item in data:
+    #     # print(item)
+    #     for phone in item:
+    #         if "（" not in phone and phone[-1] == "）":
+    #             model = phone.split("）")[0]
+    #         else:
+    #             model = phone
+    #         if PhoneModel.objects.get(model=model).bimg == "phone_img/default.jpg":
+    #             print(phone, item[phone])
+    #             try:
+    #                 header, proxy = set_conf()
+    #                 img_url = get_html(item[phone], header, proxy)
+    #                 header, proxy = set_conf()
+    #                 filename = get_img(img_url, header, proxy)
+    #                 save_data(filename, phone)
+    #             except Exception as ex:
+    #                 print(ex)
+    #             time.sleep(3)
+    url = "http://detail.zol.com.cn/1282/1281307/param.shtml"
+    phone = "vivo iQOO Pro（8GB/128GB/5G全网通）"
+    header, proxy = set_conf()
+    img_url = get_html(url, header, proxy)
+    header, proxy = set_conf()
+    filename = get_img(img_url, header, proxy)
+    save_data(filename, phone)

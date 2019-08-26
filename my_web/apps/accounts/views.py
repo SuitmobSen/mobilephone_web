@@ -5,6 +5,8 @@ from django.contrib import auth
 from django.contrib.auth.hashers import make_password
 from django.http import JsonResponse
 from .forms import RegisterForm, LoginForm, FindpasswdForm, ResetpasswdForm
+from django.contrib.auth.decorators import login_required
+from django.contrib.auth.mixins import LoginRequiredMixin, PermissionRequiredMixin
 from .models import FindPassword
 from .models import User
 from django.core.mail import send_mail
@@ -172,5 +174,52 @@ class PasswordReset(View):
         return JsonResponse(ret)
 
 
-def center(request):
-    pass
+class ProfileView(LoginRequiredMixin, View):
+    def get(self, request):
+        return render(request, "accounts/user_center.html")
+
+    def post(self, request):
+        ret_info = {"code": 200, "msg": "修改成功"}
+        try:
+            if request.POST.get("email"):
+                request.user.email = request.POST.get("email")
+            if request.POST.get("mobile"):
+                print('change mobile')
+                request.user.mobile = request.POST.get("mobile")
+            if request.POST.get("qq"):
+                request.user.qq = request.POST.get("qq")
+            if request.POST.get("username"):
+                request.user.username = request.POST.get("username")
+            request.user.save()
+            logger.info(ret_info)
+        except Exception as ex:
+            ret_info = {"code": 200, "msg": "修改失败"}
+            logger.debug(ex, ret_info)
+        return render(request, "accounts/user_center.html", {"ret_info": ret_info})
+
+
+class ChangePasswdView(LoginRequiredMixin, View):
+    def get(self, request):
+        return render(request, "accounts/uc_changepasswd.html")
+
+    def post(self, request):
+        # from表单提交的数据
+        old_password = request.POST.get("oldpassword")
+        new_password1 = request.POST.get("newpassword1")
+        new_password2 = request.POST.get("newpassword2")
+
+        ## 前端验证 new_password1 == new_password2 才能提交
+
+        if new_password1 != new_password2:
+            ret_info = {"code": 400, "msg": "两次输入的新密码不一致！"}
+        else:
+            user = auth.authenticate(username=request.user.username, password=old_password)
+            if user:
+                user.set_password(new_password1)
+                user.save()
+                auth.logout(request)
+                # auth.update_session_auth_hash(request, user)
+                ret_info = {"code": 200, "msg": "修改成功！"}
+            else:
+                ret_info = {"code": 400, "msg": "旧密码不正确！"}
+        return render(request, "accounts/uc_changepasswd.html", {"ret_info": ret_info})

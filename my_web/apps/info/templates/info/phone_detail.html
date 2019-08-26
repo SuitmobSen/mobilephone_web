@@ -35,7 +35,7 @@
                          {{ phone.jd_price }}                        </span>
                             </a>
                         </p>
-                        <p class="p-left">上市时间：2019年01月</p>
+                        <p class="p-left">上市时间：<span class="red">{% if kwgs.product_date != None %}{{ kwgs.product_date }}{% else %}暂无数据{% endif %}</span></p>
                         <div class="cell-price-stars-po fl">
                             <span>网友综合评分：</span>
                             {% if phone.score.total_score %}
@@ -51,8 +51,8 @@
                                 <img src="//statict.cnmo-img.com.cn/origin/mainpage/product/images/pro_cell_fuselage.png">
                             </div>
                             <p class="cell_phone_param_tit">机身尺寸</p>
-                            <p>机身尺寸：暂无数据</p>
-                            <p>重量：暂无数据</p>
+                            <p>机身尺寸：{% if kwgs.size != None %}{{ kwgs.size }}{% else %}暂无数据{% endif %}</p>
+                            <p>重量：{% if kwgs.size != None %}{{ kwgs.weight }}{% else %}暂无数据{% endif %}</p>
                         </li>
                         <li>
                             <div class="cell_phone_param_img">
@@ -75,7 +75,7 @@
                                 <img src="//statict.cnmo-img.com.cn/origin/mainpage/product/images/pro_cell_cpu.png">
                             </div>
                             <p class="cell_phone_param_tit">操作系统</p>
-                            <p>操作系统：{% if phone.brand.name != "苹果" %}Android OS{% else %}IOS{% endif %}</p>
+                            <p>操作系统：{% if kwgs.os != None %}{{ kwgs.os }}{% else %}{% if phone.brand.name != "苹果" %}Android OS{% else %}IOS{% endif %}{% endif %}</p>
                             <p>CPU型号：{% if b_params.cpu != None %}{{ b_params.cpu }}{% else %}暂无数据{% endif %}</p>
                             <p>运行内存：{% if b_params.memory != None %}{{ b_params.memory }}{% else %}暂无数据{% endif %}</p>
                         </li>
@@ -111,94 +111,32 @@
                     </a>
                 </div>
                 <div class="container-fluid" id="shop" style="margin-top: 20px">
-                    <a href="{{ phone.jd_url }}"><span id="jd">京东入口</span></a>
-                    <a href="#"><span id="office">官网入口</span></a>
+                    <a href="{{ phone.jd_url }}" target="_blank"><span id="jd">京东入口</span></a>
+                    <a href="{{ phone.brand.office_url }}" target="_blank"><span id="office">官网入口</span></a>
                 </div>
                 <div class="fr pro-right">
                     <div class="pro-ranking have-tit">
-                        <h2>三伏天打游戏不烫榜</h2>
+                        <h2>热门手机排行榜&nbsp;&nbsp;TOP 20</h2>
                         <div class="panel panel-primary">
                             <div class="panel-heading">
                                 <i class="pro-rank-num">排名</i>
                                 <span class="pro-rank-name">型号</span>
-                                <span class="pro-rank-money">清凉指数</span>
+                                <span class="pro-rank-money">价格</span>
                             </div>
                             <div class="panel-body">
                                 <ul>
+                                    {% for p in kwgs.rank %}
                                     <li class="rank-1">
-                                        <a href="//product.cnmo.com/cell_phone/index1624682.shtml" target="_blank">
-                                            <i class="pro-rank-num">01</i>
-                                            <span class="pro-rank-name">华为nova5 Pro(8+128GB)</span>
-                                            <span class="pro-rank-money">10 颗星</span>
+                                        <a href="{{ p.id }}" target="_blank" title="{{ p.model }}">
+                                            <i class="pro-rank-num">{{ p.hot_rank }}</i>
+                                            <span class="pro-rank-name">{{ p.model|truncatechars:21 }}</span>
+                                            <span class="pro-rank-money">{{ p.jd_price }}</span>
                                         </a>
                                     </li>
-                                    <li class="rank-2">
-                                        <a href="//product.cnmo.com/cell_phone/index1624594.shtml" target="_blank">
-                                            <i class="pro-rank-num">02</i>
-                                            <span class="pro-rank-name">一加手机7 Pro(6+128GB)</span>
-                                            <span class="pro-rank-money">10 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-3">
-                                        <a href="//product.cnmo.com/cell_phone/index1624591.shtml" target="_blank">
-                                            <i class="pro-rank-num">03</i>
-                                            <span class="pro-rank-name">荣耀20 PRO(8+128GB)</span>
-                                            <span class="pro-rank-money">10 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-4">
-                                        <a href="//product.cnmo.com/cell_phone/index1624693.shtml" target="_blank">
-                                            <i class="pro-rank-num">04</i>
-                                            <span class="pro-rank-name">小米CC9(6+64GB)</span>
-                                            <span class="pro-rank-money">9 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-5">
-                                        <a href="//product.cnmo.com/cell_phone/index1624362.shtml" target="_blank">
-                                            <i class="pro-rank-num">05</i>
-                                            <span class="pro-rank-name">华为P30 Pro(8+128GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-6">
-                                        <a href="//product.cnmo.com/cell_phone/index1624696.shtml" target="_blank">
-                                            <i class="pro-rank-num">06</i>
-                                            <span class="pro-rank-name">vivo iQOO Neo(6+64GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-7">
-                                        <a href="//product.cnmo.com/cell_phone/index1624626.shtml" target="_blank">
-                                            <i class="pro-rank-num">07</i>
-                                            <span class="pro-rank-name">红米K20 Pro(6+64GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-8">
-                                        <a href="//product.cnmo.com/cell_phone/index1624496.shtml" target="_blank">
-                                            <i class="pro-rank-num">08</i>
-                                            <span class="pro-rank-name">三星Galaxy S10+(8+128GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-9">
-                                        <a href="//product.cnmo.com/cell_phone/index1624649.shtml" target="_blank">
-                                            <i class="pro-rank-num">09</i>
-                                            <span class="pro-rank-name">魅族16Xs(6+64GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-10">
-                                        <a href="//product.cnmo.com/cell_phone/index1624295.shtml" target="_blank">
-                                            <i class="pro-rank-num">10</i>
-                                            <span class="pro-rank-name">苹果iPhone XR(64GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
+                                    {% endfor %}
                                 </ul>
                             </div>
                         </div>
-
                     </div>
                     <div class="pro-ranking have-tit">
                         <h2>三伏天打游戏不烫榜</h2>
@@ -285,97 +223,13 @@
                         </div>
 
                     </div>
-                    <div class="pro-ranking have-tit">
-                        <h2>三伏天打游戏不烫榜</h2>
-                        <div class="panel panel-primary">
-                            <div class="panel-heading">
-                                <i class="pro-rank-num">排名</i>
-                                <span class="pro-rank-name">型号</span>
-                                <span class="pro-rank-money">清凉指数</span>
-                            </div>
-                            <div class="panel-body">
-                                <ul>
-                                    <li class="rank-1">
-                                        <a href="//product.cnmo.com/cell_phone/index1624682.shtml" target="_blank">
-                                            <i class="pro-rank-num">01</i>
-                                            <span class="pro-rank-name">华为nova5 Pro(8+128GB)</span>
-                                            <span class="pro-rank-money">10 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-2">
-                                        <a href="//product.cnmo.com/cell_phone/index1624594.shtml" target="_blank">
-                                            <i class="pro-rank-num">02</i>
-                                            <span class="pro-rank-name">一加手机7 Pro(6+128GB)</span>
-                                            <span class="pro-rank-money">10 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-3">
-                                        <a href="//product.cnmo.com/cell_phone/index1624591.shtml" target="_blank">
-                                            <i class="pro-rank-num">03</i>
-                                            <span class="pro-rank-name">荣耀20 PRO(8+128GB)</span>
-                                            <span class="pro-rank-money">10 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-4">
-                                        <a href="//product.cnmo.com/cell_phone/index1624693.shtml" target="_blank">
-                                            <i class="pro-rank-num">04</i>
-                                            <span class="pro-rank-name">小米CC9(6+64GB)</span>
-                                            <span class="pro-rank-money">9 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-5">
-                                        <a href="//product.cnmo.com/cell_phone/index1624362.shtml" target="_blank">
-                                            <i class="pro-rank-num">05</i>
-                                            <span class="pro-rank-name">华为P30 Pro(8+128GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-6">
-                                        <a href="//product.cnmo.com/cell_phone/index1624696.shtml" target="_blank">
-                                            <i class="pro-rank-num">06</i>
-                                            <span class="pro-rank-name">vivo iQOO Neo(6+64GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-7">
-                                        <a href="//product.cnmo.com/cell_phone/index1624626.shtml" target="_blank">
-                                            <i class="pro-rank-num">07</i>
-                                            <span class="pro-rank-name">红米K20 Pro(6+64GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-8">
-                                        <a href="//product.cnmo.com/cell_phone/index1624496.shtml" target="_blank">
-                                            <i class="pro-rank-num">08</i>
-                                            <span class="pro-rank-name">三星Galaxy S10+(8+128GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-9">
-                                        <a href="//product.cnmo.com/cell_phone/index1624649.shtml" target="_blank">
-                                            <i class="pro-rank-num">09</i>
-                                            <span class="pro-rank-name">魅族16Xs(6+64GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                    <li class="rank-10">
-                                        <a href="//product.cnmo.com/cell_phone/index1624295.shtml" target="_blank">
-                                            <i class="pro-rank-num">10</i>
-                                            <span class="pro-rank-name">苹果iPhone XR(64GB)</span>
-                                            <span class="pro-rank-money">8 颗星</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
 
-                    </div>
                 </div>
             </div>
         </div>
     </div>
                  <script>
-                    $("#more").click(function () {
+                    $(".pro-part-more").click(function () {
                         $.ajax({
                         url: '{% url "phone_info:more_params" phone.brand.id phone.id %}',
                         type: 'GET',

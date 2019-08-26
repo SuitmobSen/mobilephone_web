@@ -11,7 +11,6 @@
             margin-bottom: 20px;
             font-weight: 700;
         }
-
         p {
             font-weight: bold;
             font-size: 14px;
@@ -26,7 +25,7 @@
         }
 
         img {
-            margin: 30px 0;
+            {#margin: 30px 0;#}
         }
 
         dl dt {
@@ -123,16 +122,14 @@ class="on"
                 <div class="nmorepage">
                     <p style="margin-bottom: 15px;">相关文章</p>
                     <ul>
-                        <li><a href="news_article.html#?colid=220&id=374" title="中瀚石林HR专业服务形象">中瀚石林HR专业服务形象</a></li>
-                        <li><a href="news_article.html#?colid=220&id=373" title="好侣互动型官网上线">好侣互动型官网上线</a></li>
-                        <li><a href="news_article.html#?colid=220&id=372" title="Pink Marry品牌官网蜕变记">Pink
-                            Marry品牌官网蜕变记</a></li>
-                        <li><a href="news_article.html#?colid=220&id=371" title="大锰矿产品牌形象专属定制">大锰矿产品牌形象专属定制</a></li>
-                        <li><a href="news_article.html#?colid=220&id=369" title="UNISTONE联石投资官网建设">UNISTONE联石投资官网建设</a>
-                        </li>
-                        <li><a href="news_article.html#?colid=220&id=368" title="敦鸿骨瓷品牌形象官网上线">敦鸿骨瓷品牌形象官网上线</a></li>
-                        <li><a href="news_article.html#?colid=220&id=367" title="济邦咨询官网改版上线">济邦咨询官网改版上线</a></li>
-                        <li><a href="news_article.html#?colid=220&id=362" title="励展展览网站定制改版上线">励展展览网站定制改版上线</a></li>
+                        {% for news in related_one %}
+                            <li><a href="{{ news.id }}" title="{{ news.title }}">{{ news.title|truncatechars:20 }}</a></li>
+                        {% endfor %}
+                        {% if related_two %}
+                            {% for news_2 in related_two %}
+                                <li><a href="{{ news_2.id }}" title="{{ news_2.title }}">{{ news_2.title|truncatechars:20 }}</a></li>
+                            {% endfor %}
+                        {% endif %}
                     </ul>
                 </div>
             </div>
