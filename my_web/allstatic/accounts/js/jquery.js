@@ -62,14 +62,20 @@ function check_phone() {
 }
 function check_password1() {
 	var txtPwd = $.trim($("#password").val());
+	reg= /^(?![A-Za-z]+$)(?!\\d+$)(?![\\W_]+$)\\S{6,18}$/;
 	if ($.trim(txtPwd) == "") {
-		Tip('请输入密码！');
+		Tip('请设置您的密码！');
 		$("#txtpwd1").focus();
 		return;
 	}
-	else {
-	    $('.tishi').empty()
+	else if($.trim(txtPwd) != ""){
+		if(reg.test(txtPwd)){
+		$('.tishi').empty();
+	}else {
+			Tip("支持长度为6-18的英文、数字、符号");
+		}
     }
+
 	return false;
 }
 function check_password2() {
@@ -87,7 +93,7 @@ function check_password2() {
 	return false;
 }
 function Sendpwd(sender) {
-	var time=30;
+	var time=60;
 	var phones = $.trim($("#phone").val());
 	if ($.trim(phones) == "") {
 		Tip('请填写手机号码！');
@@ -100,7 +106,8 @@ function Sendpwd(sender) {
 	return;
 	}
 	else {
-	    $('.tishi').empty()
+	    $('.tishi').empty();
+		sendmessage();
     }
 	var code=$(sender);
 		if (validCode) {
@@ -114,7 +121,6 @@ function Sendpwd(sender) {
 			code.val("重新获取");
 				validCode=true;
 			code.removeClass("msgs1").attr("disabled",false);
-
 			}
 		},1000);
 		}

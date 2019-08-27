@@ -600,7 +600,7 @@ a.case_moreline:hover {
     z-index: 888;
     width: 290px;
     padding: 30px 23px 20px 30px;
-    height: 500px
+    height: 550px
 }
 
 @media only all and (max-width: 1024px) {

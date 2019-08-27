@@ -1,13 +1,14 @@
 {% extends 'accounts/user_base.html' %}
+{% load  staticfiles %}
 
 {% block title %}
     个人资料
 {% endblock %}
 {% block load_css %}
     <link rel="stylesheet" type="text/css" href="http://cdn.bootcss.com/font-awesome/4.6.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/static/avator/css/amazeui.min.css">
-    <link rel="stylesheet" href="/static/avator/css/amazeui.cropper.css">
-    <link rel="stylesheet" href="/static/avator/css/custom_up_img.css">
+    <link rel="stylesheet" href="{% static "avator/css/amazeui.min.css" %}">
+    <link rel="stylesheet" href="{% static "avator/css/amazeui.cropper.css" %}">
+    <link rel="stylesheet" href="{% static "avator/css/custom_up_img.css" %}">
     <style type="text/css">
         .up-img-cover {
             width: 100px;
@@ -22,7 +23,6 @@
             opacity: 1;
             {#z-index: 99999#}
         }
-
     </style>
 
 {% endblock %}
@@ -33,7 +33,7 @@
             <div class="panel-body">
                 <h4>个人信息</h4>
                 <hr/>
-                <div class="row">
+                <div class="row" style="margin-top: 40px">
                     <div class="col-md-3">
                         <div class="up-img-cover" id="up-img-touch">
                             <img class="am-circle" alt="点击图片上传" src="{{ user.avator_sm.url }}"
@@ -147,8 +147,8 @@
     </div>
 {% endblock %}
 {% block load_js %}
-    <script src="/static/avator/js/amazeui.min.js" charset="utf-8"></script>
-    <script src="/static/avator/js/cropper.min.js" charset="utf-8"></script>
-    <script src="/static/js/custom.js" charset="utf-8"></script>
-    <script src="/static/avator/js/custom_up_img.js" charset="utf-8"></script>
+    <script src="{% static "avator/js/amazeui.min.js" %}" charset="utf-8"></script>
+    <script src="{% static "avator/js/cropper.min.js" %}" charset="utf-8"></script>
+    <script src="{% static "js/custom.js" %}" charset="utf-8"></script>
+    <script src="{% static "avator/js/custom_up_img.js" %}" charset="utf-8"></script>
 {% endblock %}

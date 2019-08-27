@@ -3,7 +3,7 @@ from django.forms import widgets
 from django.core.exceptions import ValidationError
 from .models import User, FindPassword
 from django.contrib.auth.hashers import check_password as auth_check_password
-
+import re
 
 # 用户注册
 class RegisterForm(forms.ModelForm):
@@ -39,8 +39,12 @@ class RegisterForm(forms.ModelForm):
 
     def clean_password(self):
         data = self.cleaned_data.get("password")
+        re_passwd = re.compile(r"^(?![A-Za-z]+$)(?!\d+$)(?![\W_]+$)\S{6,18}$")
         if not data.isdigit():
-            return self.cleaned_data.get("password")
+            if re.match(re_passwd, data):
+                return self.cleaned_data.get("password")
+            else:
+                raise ValidationError("您设置的密码不符合规则")
         else:
             raise ValidationError("密码不能全是数字")
 

@@ -7,8 +7,8 @@
 
 	/*主体下广告*/
 	#adv .span4{display: none;}
-	#adv .span16{width: 100%;margin-left: 70px}
-	#adv .span16 .col{width:32%;margin-left:2%}
+	#adv .span16{margin-left: 70px}
+	#adv .span16 .col{width:32%}
 	/*#adv .span16 .col:first-child{margin-left:0;}*/
 
 	/*页脚响应*/

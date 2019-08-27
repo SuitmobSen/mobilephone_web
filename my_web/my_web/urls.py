@@ -15,7 +15,10 @@ Including another URLconf
 """
 from django.conf.urls import url, include
 from django.contrib import admin
+from django.conf.urls import handler404, handler500
 from django.views.static import serve
+import re
+from . import settings
 from .settings import MEDIA_ROOT
 from . import views
 
@@ -38,5 +41,10 @@ urlpatterns = [
     url(r'^media/(?P<path>.*)$', serve, {"document_root": MEDIA_ROOT}),
     # 主页
     url(r"^", include("apps.index.urls", namespace="index")),
+    url(r'^%s(?P<path>.*)$' % re.escape(settings.STATIC_URL.lstrip('/')), serve,
+        {"document_root": settings.STATIC_ROOT}),
+    url(r'^%s(?P<path>.*)$' % re.escape(settings.MEDIA_URL.lstrip('/')), serve, {"document_root": settings.MEDIA_ROOT}),
 ]
+
+handler404 = views.my404
 

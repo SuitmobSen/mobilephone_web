@@ -1,5 +1,5 @@
 /*全局样式*/
-body{width: 100%;overflow-x:hidden;}
+body{width: 100%;overflow-x:hidden;height: 100%}
 .wraper{width:100%;max-width:1227px;margin:0 auto;}
 .gray-section{background:#F5F5F5;padding:36px 0px;margin-top: 0;}
 .clear_top::before{content: '';display: block;clear: both;}

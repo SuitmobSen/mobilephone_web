@@ -11,7 +11,7 @@
             margin-bottom: 20px;
             font-weight: 700;
         }
-        p {
+        .newsdetail p {
             font-weight: bold;
             font-size: 14px;
             color: #e83828;
@@ -99,7 +99,7 @@ class="on"
     <div class="newsdetailcon">
         <div class="newsdetail">
             <p class="news_title" style=" font-size:24px;">{{ kwgs.news.title }}</p>
-            <p class="newstime">&nbsp;&nbsp;发表于：{{ kwgs.news.make_time }}&nbsp;&nbsp;&nbsp;&nbsp;文章来源：{{ kwgs.news.author }}</p>
+            <p class="newstime" style="color: grey">&nbsp;&nbsp;发表于：{{ kwgs.news.make_time }}&nbsp;&nbsp;&nbsp;&nbsp;文章来源：{{ kwgs.news.author }}</p>
             <div class="ncontent">
                 {{ kwgs.news.content|safe }}</div>
                 <!--文章内容-->
@@ -123,11 +123,11 @@ class="on"
                     <p style="margin-bottom: 15px;">相关文章</p>
                     <ul>
                         {% for news in related_one %}
-                            <li><a href="{{ news.id }}" title="{{ news.title }}">{{ news.title|truncatechars:20 }}</a></li>
+                            <li><a href="{% url "phone_news:news_detail" news.id %}" title="{{ news.title }}">{{ news.title|truncatechars:20 }}</a></li>
                         {% endfor %}
                         {% if related_two %}
                             {% for news_2 in related_two %}
-                                <li><a href="{{ news_2.id }}" title="{{ news_2.title }}">{{ news_2.title|truncatechars:20 }}</a></li>
+                                <li><a href="{% url "phone_news:news_detail" news_2.id %}" title="{{ news_2.title }}">{{ news_2.title|truncatechars:20 }}</a></li>
                             {% endfor %}
                         {% endif %}
                     </ul>

@@ -35,14 +35,14 @@ class="on"
 {% block content %}
 <div id="page">
 <div class="container" id="video_page">
-    <div id="video_title" class="row">
+    <div id="video_title">
         <span>【{{ video.author }}】{{ video.title }}</span>
         <div class="row">
         <label>播放量：{{ video.play }}</label><label>上传时间：{{ video.make_time }}</label>
         </div>
     </div>
-    <div id="player" class="row" style="float: left;margin-top: 10px">
-        <iframe width="900" height="650" src="//player.bilibili.com/player.html?aid={{ id }}" scrolling="no"  frameborder="no" allowfullscreen="true">
+    <div id="player" style="float: left;margin-top: 10px">
+        <iframe width="900" height="600" src="//player.bilibili.com/player.html?aid={{ id }}" scrolling="no"  frameborder="no" allowfullscreen="true">
         </iframe>
     </div>
 </div>
