@@ -19,7 +19,7 @@ class NewsList(models.Model):
     description = models.TextField("文章描述")
     content = models.TextField("文章内容", null=True)
     author = models.ForeignKey(NewsAuthor, verbose_name="文章作者")
-    pic = models.ImageField("文章缩略图", upload_to="news/", default='news/default_300x300.jpg')
+    pic = models.ImageField("文章缩略图", upload_to="news/", default='news/default_300x300.jpg', max_length=200)
     url = models.CharField("文章源地址", max_length=100)
     tag = models.ManyToManyField(Tag, verbose_name="标签", blank=True)
     make_time = models.CharField("上传时间", max_length=20,  null=True, blank=True)

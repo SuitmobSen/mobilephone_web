@@ -40,7 +40,7 @@ class Params(models.Model):
 # 基本参数表
 class BasicParams(models.Model):
     cpu = models.CharField("CPU", max_length=50, blank=True, null=True)
-    back = models.CharField("后置", max_length=50, blank=True, null=True)
+    back = models.CharField("后置", max_length=100, blank=True, null=True)
     front = models.CharField("前置", max_length=50, blank=True, null=True)
     memory = models.CharField("内存", max_length=50, blank=True, null=True)
     battery = models.CharField("电池", max_length=50, blank=True, null=True)
@@ -75,7 +75,7 @@ class Comment(models.Model):
 
 class PhoneModel(models.Model):
     brand = models.ForeignKey(Phone, verbose_name="所属品牌")
-    model = models.CharField("手机型号", max_length=50)
+    model = models.CharField("手机型号", max_length=100)
     product_date = models.DateField("上市日期", null=True, blank=True)
     price = models.CharField("ZOL报价", max_length=10, default="暂无报价")
     hot_rank = models.IntegerField("热门排行榜", null=True, blank=True)

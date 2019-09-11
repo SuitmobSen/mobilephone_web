@@ -80,9 +80,18 @@ WSGI_APPLICATION = 'my_web.wsgi.application'
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
 DATABASES = {
+    # 'default': {
+    #     'ENGINE': 'django.db.backends.sqlite3',
+    #     'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    # },
+    # "slave": {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'myweb',
+        'USER': 'root',
+        'PASSWORD': 'Lhs@242931',
+        'HOST': '47.103.151.32',
+        'PORT': '3306',
     }
 }
 
@@ -301,22 +310,22 @@ if not os.path.exists(MEDIA_ROOT):
 DATA_UPLOAD_MAX_MEMORY_SIZE = 2621440*10
 
 
-env = os.environ.get('ENV', None)
-if env == 'prod':
-    # from  settings_prod import *
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': os.path.join(BASE_DIR, 'db_prod.sqlite3'),
-        }
-    }
-else:
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
-        }
-    }
+# env = os.environ.get('ENV', None)
+# if env == 'prod':
+#     # from  settings_prod import *
+#     DATABASES = {
+#         'default': {
+#             'ENGINE': 'django.db.backends.sqlite3',
+#             'NAME': os.path.join(BASE_DIR, 'db_prod.sqlite3'),
+#         }
+#     }
+# else:
+#     DATABASES = {
+#         'default': {
+#             'ENGINE': 'django.db.backends.sqlite3',
+#             'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#         }
+#     }
 
 
 CACHES = {
