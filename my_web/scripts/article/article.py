@@ -62,15 +62,15 @@ def save_data(url, title, pic, desc):
     print(pic)
     print(desc)
     print("="*100)
-    author = NewsAuthor.objects.get_or_create(name="爱搞机")
-    if title not in NewsList.objects.all():
-        news = NewsList.objects.get_or_create(url=url, title=title, pic=pic, description=desc, author_id=author[0].id)
-        news[0].save()
+    # author = NewsAuthor.objects.get_or_create(name="爱搞机")
+    # if title not in NewsList.objects.all():
+    #     news = NewsList.objects.get_or_create(url=url, title=title, pic=pic, description=desc, author_id=author[0].id)
+    #     news[0].save()
 
 
 if __name__ == "__main__":
     url = "http://www.igao7.com/category/express/page/"
-    for i in range(10):
+    for i in range(1):
         header, proxy = set_conf()
         html = get_html(url+str(i+1), header, proxy)
         get_soup(html)

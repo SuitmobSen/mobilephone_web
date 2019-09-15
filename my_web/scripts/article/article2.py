@@ -61,8 +61,8 @@ if __name__ == "__main__":
                 header, proxy = set_conf()
                 html = get_html(new.url, header, proxy)
                 data = get_soup(html)
-                new.content = data
-                new.save()
+                # new.content = data
+                # new.save()
                 # exit(0)
                 time.sleep(1)
             except Exception as ex:
