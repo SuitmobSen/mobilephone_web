@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '0wu##1*rfka6bxs4nafzi*uzb6tn(=df=blg)gk_cgm^v-l9na'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["*", ]
 
@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     "apps.news",
     "apps.accounts",
     "apps.apis",
+    "gunicorn",
 ]
 
 MIDDLEWARE = [
