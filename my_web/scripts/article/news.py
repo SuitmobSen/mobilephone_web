@@ -1,6 +1,9 @@
 import os
 import django
+import sys
 
+# 把项目目录添加到环境变量
+sys.path.append("/home/myweb/phone/my_web")
 
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "my_web.settings")  # website可以更改为自己的项目名称
 django.setup()
@@ -90,7 +93,7 @@ if __name__ == "__main__":
     logging.basicConfig(
         level=logging.DEBUG,
         format="%(asctime)s---%(lineno)s----%(name)s: %(message)s",
-        filename="article_crawl.txt",
+        filename="error.log",
         filemode="a"
     )
     url = "http://www.igao7.com/category/express/page/"

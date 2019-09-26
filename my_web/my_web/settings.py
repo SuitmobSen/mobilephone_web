@@ -329,6 +329,7 @@ DATA_UPLOAD_MAX_MEMORY_SIZE = 2621440*10
 #     }
 
 
+#短信验证码临时存储再redis数据库
 CACHES = {
     'default': {
         # BACKEND配置缓存后端为RedisCache
@@ -341,3 +342,5 @@ CACHES = {
         },
     },
 }
+
+
