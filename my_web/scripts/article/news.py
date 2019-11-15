@@ -9,10 +9,8 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "my_web.settings")  # website可
 django.setup()
 
 from apps.news.models import NewsList, NewsAuthor
-from apps.videos.models import VideoList
 import requests
 import random
-import sys
 from bs4 import BeautifulSoup
 import logging
 import time
@@ -64,6 +62,7 @@ def get_soup(html):
             save_data(url, title, pic, desc, article_content, t)
         else:
             print("数据已存在")
+
 
 def get_content_time(html):
     soup = BeautifulSoup(html, "lxml")
